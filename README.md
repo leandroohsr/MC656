@@ -9,6 +9,8 @@ Leandro Henrique Silva Resende - 213437
 
 Matheus Mantovani Meneghel - 230906
 
+Artur de Miranda Rodrigues - 224538
+
 #
 
 ### 📔 A Disciplina
