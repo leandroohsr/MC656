@@ -11,6 +11,8 @@ Matheus Mantovani Meneghel - 230906
 
 Artur de Miranda Rodrigues - 224538
 
+Guilherme Monteiro Mendes - 236019
+
 #
 
 ### 📔 A Disciplina
