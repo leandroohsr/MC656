@@ -22,7 +22,7 @@ const Hero = () => {
                   href="/login"
                   target="_blank"
                   rel="noopener"
-                  className="px-8 py-4 text-lg font-medium text-center text-white rounded-md bg-amber-500 ">
+                  className="px-8 py-4 text-lg font-medium text-center text-white rounded-md bg-amber-500 hover:text-black">
                   Login
                 </a>
                 
@@ -30,7 +30,7 @@ const Hero = () => {
                   href="https://github.com/leandroohsr/MC656"
                   target="_blank"
                   rel="noopener"
-                  className="flex items-center space-x-2 text-gray-500 dark:text-gray-400">
+                  className="flex items-center space-x-2 text-gray-500 dark:text-gray-400 hover:text-white">
                   <svg
                     role="img"
                     width="24"

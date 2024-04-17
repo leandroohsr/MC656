@@ -95,10 +95,10 @@ const Navbar = () => {
         </div>
 
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
-          <Link to="/login" className="px-6 py-2 font-medium text-white rounded-md bg-amber-500 md:ml-5">
+          <Link to="/login" className="px-6 py-2 font-medium text-white rounded-md bg-amber-500 md:ml-5 hover:text-black">
               Login
           </Link>
-          <Link to="/login" className="px-6 py-2 font-medium border-2 border-yellow-600 rounded-md text-amber-500 md:ml-5">
+          <Link to="/login" className="px-6 py-2 font-medium border-2 border-yellow-600 rounded-md text-amber-500 md:ml-5 hover:text-white">
               Cadastrar
           </Link>
         </div>
