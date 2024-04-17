@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import imgLogoHome from "../assets/logo.png";
 const Navbar = () => {
   const navigation = [
-    "Página 1",
+    "Home",
     "Página 2",
     "Página 3",
     "Página 4",
@@ -37,7 +37,7 @@ const Navbar = () => {
                     </span> */}
                     <span className="text-white">Olimpíadas de París</span>
                   </span>
-                </Link>
+                </Link> 
 
                 <Disclosure.Button
                   aria-label="Toggle Menu"
@@ -98,7 +98,9 @@ const Navbar = () => {
           <Link to="/login" className="px-6 py-2 font-medium text-white rounded-md bg-amber-500 md:ml-5">
               Login
           </Link>
-
+          <Link to="/login" className="px-6 py-2 font-medium border-2 border-yellow-600 rounded-md text-amber-500 md:ml-5">
+              Cadastrar
+          </Link>
         </div>
       </nav>
     </div>

@@ -4,6 +4,7 @@ import SectionTitle from "../components/sectionTitle";
 import Benefits from "../components/Beneficios";
 import { benefitOne } from "../components/data";
 import { benefitTwo } from "../components/data";
+import Footer from "../components/Footer";
 export const HomePage = () => {
     return (
         <>
@@ -27,7 +28,7 @@ export const HomePage = () => {
         <div className="bg-black">
             <Benefits imgPos="right" data={benefitTwo} />
         </div>
-
+        <Footer />
         </>
     );
 }

@@ -25,6 +25,7 @@ const Hero = () => {
                   className="px-8 py-4 text-lg font-medium text-center text-white rounded-md bg-amber-500 ">
                   Login
                 </a>
+                
                 <a
                   href="https://github.com/leandroohsr/MC656"
                   target="_blank"
