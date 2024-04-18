@@ -29,9 +29,9 @@ export const LoginPage = () => {
         <div className="flex flex-col items-center justify-center gap-8 -mt-20 place-content-evenly">
             <p className="mb-32 text-5xl font-semibold text-dark-green"> Não possui uma conta? </p>
             <div className="flex flex-col -mt-22">
-                <button className="h-10 border border-indigo-600 rounded-lg w-72 btprof border-dark-green text-dark-green"></button>
+                <button className="h-10 border border-indigo-600 rounded-lg w-72 btprof border-dark-green text-dark-green"> Criar uma conta</button>
                 <p className="mt-6 mb-6 font-semibold text-center"> ____________ ou ______________ </p>
-                <button className="object-right-top h-10 font-normal border border-indigo-600 rounded-lg w-72 btaluno border-dark-green text-dark-green"></button>
+                <button className="object-right-top h-10 font-normal border border-indigo-600 rounded-lg w-72 btaluno border-dark-green text-dark-green"> Entrar como convidado</button>
             </div>
         </div>
     </div>
