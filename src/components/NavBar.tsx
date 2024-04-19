@@ -71,7 +71,7 @@ const Navbar = () => {
                           {index}
                       </Link>
                     ))}
-                    <Link to="/" className="w-full px-6 py-2 mt-3 text-center text-white rounded-md bg-amber-500 lg:ml-5">         
+                    <Link to="/login" className="w-full px-6 py-2 mt-3 text-center text-white rounded-md bg-amber-500 lg:ml-5">         
                         Login
                     </Link>
                   </>
@@ -98,8 +98,8 @@ const Navbar = () => {
           <Link to="/login" className="px-6 py-2 font-medium text-white rounded-md bg-amber-500 md:ml-5 hover:text-black">
               Login
           </Link>
-          <Link to="/login" className="px-6 py-2 font-medium border-2 border-yellow-600 rounded-md text-amber-500 md:ml-5 hover:text-white">
-              Cadastrar
+          <Link to="/register" className="px-6 py-2 font-medium border-2 border-yellow-600 rounded-md text-amber-500 md:ml-5 hover:text-white">
+              Cadastrar-se
           </Link>
         </div>
       </nav>
