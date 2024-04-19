@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import imageLogin from '../assets/imgIA10.jpg';
-
+import imageLogo from '../assets/imgIA11.png'
 
 
 export const LoginPage = () => {
@@ -11,6 +12,9 @@ export const LoginPage = () => {
                 </img>
             </div>
             <div className="flex flex-col items-center justify-center border border-black">
+                <Link to="/">
+                    <img src={imageLogo} className="absolute mt-2 mr-2 top-0 right-0 h-24 w-14" alt="Logo"/>
+                </Link>
                 <div className="flex flex-col items-center justify-center gap-8 -mt-20 bg-dark-green place-content-evenly">
                     <p className="mb-20 text-5xl font-semibold text-black "> Entre usando sua conta </p>
                     <div className="flex flex-col -mt-22">
