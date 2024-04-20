@@ -6,12 +6,12 @@ import Container from "./container";
 export default function Footer() {
     const navigation = [
         "Home",
-        "Página 2",
+        "Calendário",
         "Página 3",
         "Página 4",
         "Página 5",
       ];
-    const routes = ["/", "/", "/"];
+    const routes = ["/", "/calendario", "/", "/", "/"];
   return (
     <div className="relative -mt-20">
       <Container>
