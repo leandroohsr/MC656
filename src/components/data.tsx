@@ -13,23 +13,25 @@ import {
   import benefitTwoImg from "../assets/player.jpg";
   
   const benefitOne = {
-    title: "Benefícios",
-    desc: "Desbloqueie dicas privilegiadas e informações essenciais. Nosso guia fornece dicas privilegiadas e informações essenciais para ajudá-lo a navegar pelas Olimpíadas de Paris 2024 como um profissional..",
+    title: "Agenda de Eventos",
+    desc: "Acompanhe facilmente as datas e horários dos eventos das Olimpíadas de Paris 2024. Assim, garantindo que voce nunca perca nenhuma \
+    competição ou celebração memorável! Se prepare para mergulhar na atmosfera das Olimpíadas e planejar sua jornada vivenciando momentos \
+    inesquecíveis.",
     image: benefitOneImg,
     bullets: [
       {
-        title: "Matheus",
-        desc: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
+        title: "Mantenha-se atualizado",
+        desc: "Fique por dentro de todos os resultados e eventos das Olimpíadas de Paris 2024. Acompanhe as últimas notícias e atualizações",
         icon: <CalendarDaysIcon />,
       },
       {
-        title: "Arthur",
-        desc: "Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        title: "Se prepare para uma experiência olímpica",
+        desc: "Planeje sua jornada para testemunhar performances incríveis.",
         icon: <ChartBarSquareIcon />,
       },
       {
-        title: "Henrique",
-        desc: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        title: "Explore a programação de eventos",
+        desc: "Descubra eventos por data, localização e categoria para encontrar facilmente o que você está procurando.",
         icon: <CursorArrowRaysIcon />,
       },
     ],
@@ -37,21 +39,21 @@ import {
   
   const benefitTwo = {
     title: "Benefícios",
-    desc: "Desbloqueie dicas privilegiadas e informações essenciais. Nosso guia fornece dicas privilegiadas e informações essenciais para ajudá-lo a navegar pelas Olimpíadas de Paris 2024 como um profissional..",
+    desc: "",
     image: benefitTwoImg,
     bullets: [
       {
-        title: "Matheus",
+        title: "ArtHur",
         desc: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
         icon: <CalendarDaysIcon />,
       },
       {
-        title: "Arthur",
+        title: "ArtHur",
         desc: "Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         icon: <ChartBarSquareIcon />,
       },
       {
-        title: "Henrique",
+        title: "ArtHur",
         desc: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
         icon: <CursorArrowRaysIcon />,
       },
