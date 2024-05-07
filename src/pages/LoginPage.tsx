@@ -45,17 +45,12 @@ export const LoginPage = () => {
         );
     }
     if(user){
-        //adionar tempo para executar a funcão abaixo
-
         window.location.href = '/';
 
         // return <p>{user.user?.email}</p>
     }
 
     return (
-
-
-        
         <div className="grid h-screen grid-cols-2">
             <div className="flex flex-col items-center justify-center border border-black">
                 <img src = {imageLogin}>
