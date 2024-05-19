@@ -1,5 +1,6 @@
 import { eventWrapper } from "@testing-library/user-event/dist/utils";
 import { useState } from "react";
+
 import { Script } from "vm";
 import {
   FaceSmileIcon,
@@ -16,9 +17,9 @@ export const CalendarioPage = () => {
 
   const [showPopup, setShowPopup] = useState(false);
 
-  const [formState1, setFormState1] = useState({ hour: '15:30', text: 'Masculino - Grupo C', place: 'Parc des Princes', icon: <CalendarDaysIcon />});
+  const [formState1, setFormState1] = useState({ hour: '15:30', text: 'Masculino - Grupo C', place: 'Parc des Princes', icon: <CalendarDaysIcon /> });
   const [formState2, setFormState2] = useState({ hour: '15:00', text: 'Masculino - Grupo B', place: 'Estádio Geoffroy-Guichard', icon: <CalendarDaysIcon /> });
-  const [formState3, setFormState3] = useState({ hour: '17:00', text: 'Masculino - Grupo C', place: 'Estádio La Beaujoire' , icon: <CalendarDaysIcon />});
+  const [formState3, setFormState3] = useState({ hour: '17:00', text: 'Masculino - Grupo C', place: 'Estádio La Beaujoire', icon: <CalendarDaysIcon /> });
   const [formState4, setFormState4] = useState({ hour: '21:00', text: 'Masculino - Grupo D', place: 'Parc des Princes', icon: <CalendarDaysIcon /> });
   const [formState5, setFormState5] = useState({ hour: '14:00', text: 'Feminino - Grupo A', place: 'Estádio Old Trafford', icon: <CalendarDaysIcon /> });
   const [formState6, setFormState6] = useState({ hour: '16:30', text: 'Feminino - Grupo B', place: 'Estádio Parc Olympique Lyonnais', icon: <CalendarDaysIcon /> });
@@ -75,7 +76,7 @@ export const CalendarioPage = () => {
   return (
     <body className="bg-gray-200">
       {showPopup == true ?
-        <div  id="default-modal" aria-hidden="true" className="fixed flex items-center justify-center w-full h-full max-h-full overflow-x-hidden overflow-y-auto md:inset-0">
+        <div id="default-modal" aria-hidden="true" className="fixed flex items-center justify-center w-full h-full max-h-full overflow-x-hidden overflow-y-auto bg-opacity-50 md:inset-0">
           <div className="w-full max-w-md max-h-full p-4 ">
 
             <div className="relative bg-white rounded-lg shadow dark:bg-gray-700">
@@ -92,7 +93,7 @@ export const CalendarioPage = () => {
                 </button>
               </div>
               <div className="p-4 md:p-5">
-                <p className="mb-4 text-gray-500 dark:text-gray-400">Select your desired position:</p>
+                <p className="mb-4 text-gray-500 dark:text-gray-400">Programação das competições olímpicas:</p>
                 <ul className="mb-4 space-y-4">
                   <div>
                     {arrays[currentIndex].map((item, index) => (
@@ -104,7 +105,7 @@ export const CalendarioPage = () => {
                             <div className="w-full text-gray-500 dark:text-gray-400">{item.place}</div>
                           </div>
                           <div className="w-4 h-4 text-gray-500 ms-3 rtl:rotate-180 dark:text-gray-400" aria-hidden="true">{item.icon}</div>
-                          
+
                         </label>
                       </li>
                     ))}
@@ -146,9 +147,9 @@ export const CalendarioPage = () => {
         </div> : null}
       <div className="container p-10 mx-auto">
         <div className="w-full bg-white rounded shadow wrapper ">
-          <div className="flex justify-center justify-between p-2 border-b header">
-            <span className="text-lg font-bold">
-              2024
+          <div className="flex justify-center p-2 border-b header">
+            <span className="text-lg font-bold text-amber-700">
+              CANLENDÁRIO OLIMPÍADAS 2024
             </span>
             <div className="buttons">
               <button className="p-1">
@@ -174,7 +175,7 @@ export const CalendarioPage = () => {
                 <td onClick={() => handlePopUp(0)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-2 border-white rounded-lg cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden bg-gray-200 rounded-lg xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full rounded-lg">
-                      <span className="text-gray-500">1</span>
+                      <span className="text-gray-500">{dias[0]}</span>
                       <div className="w-full h-full ">
                         <div className="grid grid-cols-4 gap-4 m-4">
                           <div className=""><CalendarDaysIcon /></div>
@@ -195,7 +196,7 @@ export const CalendarioPage = () => {
                 <td onClick={() => handlePopUp(1)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">2</span>
+                      <span className="text-gray-500">{dias[1]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -203,7 +204,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">3</span>
+                      <span className="text-gray-500">{dias[2]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -211,7 +212,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">4</span>
+                      <span className="text-gray-500">{dias[3]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -219,7 +220,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">6</span>
+                      <span className="text-gray-500">{dias[4]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -227,7 +228,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-hidden transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">7</span>
+                      <span className="text-gray-500">{dias[5]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30">
                     </div>
@@ -236,7 +237,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-sm text-gray-500">8</span>
+                      <span className="text-sm text-gray-500">{dias[6]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -244,11 +245,13 @@ export const CalendarioPage = () => {
               </tr>
 
 
-              <tr className="h-20 text-center">
+
+
+              <tr className="h-20 text-center ">
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">9</span>
+                      <span className="text-gray-500">{dias[7]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -256,7 +259,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">10</span>
+                      <span className="text-gray-500">{dias[8]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -264,7 +267,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">12</span>
+                      <span className="text-gray-500">{dias[9]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -272,7 +275,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">13</span>
+                      <span className="text-gray-500">{dias[10]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -280,7 +283,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">14</span>
+                      <span className="text-gray-500">{dias[11]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -288,7 +291,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">15</span>
+                      <span className="text-gray-500">{dias[12]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -296,7 +299,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-sm text-gray-500">16</span>
+                      <span className="text-sm text-gray-500">{dias[13]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -307,7 +310,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">16</span>
+                      <span className="text-gray-500">{dias[14]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -315,7 +318,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">17</span>
+                      <span className="text-gray-500">{dias[15]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -323,7 +326,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">18</span>
+                      <span className="text-gray-500">{dias[16]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -331,7 +334,15 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">19</span>
+                      <span className="text-gray-500">{dias[17]}</span>
+                    </div>
+                    <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
+                  </div>
+                </td>
+                {/* <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
+                  <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
+                    <div className="w-full h-full bg-gray-200 rounded-lg">
+                      <span className="text-gray-500">{dias[18]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -339,7 +350,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">20</span>
+                      <span className="text-gray-500">{dias[0]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -347,15 +358,7 @@ export const CalendarioPage = () => {
                 <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-gray-500">21</span>
-                    </div>
-                    <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
-                  </div>
-                </td>
-                <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
-                  <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
-                    <div className="w-full h-full bg-gray-200 rounded-lg">
-                      <span className="text-sm text-gray-500">22</span>
+                      <span className="text-sm text-gray-500">{dias[0]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -477,7 +480,7 @@ export const CalendarioPage = () => {
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
-                </td>
+                </td> */}
               </tr>
 
             </tbody>
