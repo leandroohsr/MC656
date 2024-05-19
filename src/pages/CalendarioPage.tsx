@@ -10,8 +10,10 @@ import {
   AdjustmentsHorizontalIcon,
   SunIcon,
   CalendarDaysIcon,
-  CalendarIcon
+  CalendarIcon,
+  ArrowLeftIcon
 } from "@heroicons/react/24/solid";
+import { Link } from "react-router-dom";
 
 export const CalendarioPage = () => {
 
@@ -33,6 +35,7 @@ export const CalendarioPage = () => {
     [formState1, formState2, formState3, formState4], //24 de Junho
     [formState2, formState3], //25 de Junho
     [formState1, formState3], //26 de Junho
+    
   ];
 
   const dias = [
@@ -71,6 +74,12 @@ export const CalendarioPage = () => {
     setShowPopup(true);
     setCurrentIndex(index);
 
+  }
+
+  function mudarDia(){
+    if (currentIndex<17){
+      setCurrentIndex(currentIndex + 1)
+    }
   }
 
   return (
@@ -138,14 +147,18 @@ export const CalendarioPage = () => {
                     </label>
                   </li> */}
                 </ul>
-                <button className="text-white inline-flex w-full justify-center bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-                  Next step
+                <button onClick={mudarDia} className="text-white inline-flex w-full justify-center bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                  Próximo dia
                 </button>
               </div>
             </div>
           </div>
         </div> : null}
+        <button  className="flex ml-4 hover:underline">
+          <Link to="/">   Voltar </Link>
+        </button>
       <div className="container p-10 mx-auto">
+
         <div className="w-full bg-white rounded shadow wrapper ">
           <div className="flex justify-center p-2 border-b header">
             <span className="text-lg font-bold text-amber-700">
