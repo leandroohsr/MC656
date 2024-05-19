@@ -13,6 +13,7 @@ import {
   CalendarIcon,
   ArrowLeftIcon
 } from "@heroicons/react/24/solid";
+import imgLogoHome from "../assets/sportIconPNG/Badminton.png";
 import { Link } from "react-router-dom";
 
 export const CalendarioPage = () => {
@@ -164,11 +165,11 @@ export const CalendarioPage = () => {
           <table className="w-full shadow-lg">
 
             <tbody className="">
-              <tr className="h-20 text-center border-2 border-white rounded-lg">
-                <td onClick={() => handlePopUp(0)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-2 border-white rounded-lg cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
-                  <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden bg-gray-200 rounded-lg shadow-lg xl:w-40 lg:w-30 md:w-30 sm:w-full">
-                    <div className="w-full h-full rounded-lg">
-                      <span className="font-bold text-gray-500 ">{dias[0]}</span>
+              <tr className="h-20 text-center">
+                <td onClick={() => handlePopUp(0)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
+                  <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
+                    <div className="w-full h-full bg-gray-200 rounded-lg shadow-lg">
+                    <span className="font-bold text-gray-500 ">{dias[0]}</span>
                       <div className="w-full h-full ">
                         <div className="grid grid-cols-4 gap-4 m-4">
                           <div className=""><CalendarDaysIcon /></div>
@@ -180,10 +181,9 @@ export const CalendarioPage = () => {
                           <div><FaceSmileIcon /></div>
                           <div><CalendarDaysIcon /></div>
                         </div>
-
                       </div>
-
                     </div>
+                    <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
                 </td>
                 <td onClick={() => handlePopUp(1)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
