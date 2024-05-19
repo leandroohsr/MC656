@@ -33,10 +33,25 @@ export const CalendarioPage = () => {
 
 
   const arrays = [
-    [formState1, formState2, formState3, formState4], //24 de Junho
-    [formState2, formState3], //25 de Junho
-    [formState1, formState3], //26 de Junho
-    
+    [formState1, formState2, formState3, formState4], //24 de Julho
+    [formState2, formState3], //25 de Julho
+    [formState1, formState3], //26 de Julho
+    [],                       //27 de Julho
+    [],                       //28 de Julho
+    [],                       //29 de Julho
+    [],                       //30 de Julho
+    [],                       //31 de Julho
+    [],                       //01 de Agosto
+    [],                       //02 de Agosto
+    [],                       //03 de Agosto
+    [],                       //04 de Agosto
+    [],                       //05 de Agosto
+    [],                       //06 de Agosto
+    [],                       //07 de Agosto
+    [],                       //08 de Agosto
+    [],                       //09 de Agosto
+    [],                       //10 de Agosto
+    [],                       //11 de Agosto
   ];
 
   const arrays_sports = [
@@ -81,7 +96,12 @@ export const CalendarioPage = () => {
 
   }
 
-  function mudarDia(){
+  function voltarDia(){
+    if(currentIndex>0){
+      setCurrentIndex(currentIndex - 1)
+    }
+  }
+  function avancarDia(){
     if (currentIndex<17){
       setCurrentIndex(currentIndex + 1)
     }
@@ -96,9 +116,11 @@ export const CalendarioPage = () => {
             <div className="relative bg-white rounded-lg shadow dark:bg-gray-700">
 
               <div className="flex items-center justify-between p-4 border-b rounded-t md:p-5 dark:border-gray-600">
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
+                <button onClick={voltarDia} title={currentIndex === 0 ? 'Este é o primeiro dia' : 'Voltar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 0 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 0}>&lt;</button>
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white flex-grow text-center">
                   {dias[currentIndex]}
                 </h3>
+                <button onClick={avancarDia} title={currentIndex === 17 ? 'Este é o último dia' : 'Avançar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 17 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 17}>&gt;</button>
                 <button onClick={() => setShowPopup(false)} type="button" className="inline-flex items-center justify-center w-8 h-8 text-sm text-gray-400 bg-transparent rounded-lg hover:bg-gray-200 hover:text-gray-900 ms-auto dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="default-modal">
                   <svg className="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6" />
@@ -125,7 +147,7 @@ export const CalendarioPage = () => {
                     ))}
                   </div>
                 </ul>
-                <button onClick={mudarDia} className="text-white inline-flex w-full justify-center bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                <button onClick={avancarDia} className="text-white inline-flex w-full justify-center bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                   Próximo dia
                 </button>
               </div>
