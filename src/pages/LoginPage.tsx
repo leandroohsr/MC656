@@ -45,6 +45,7 @@ export const LoginPage = () => {
         );
     }
     if(user){
+        console.log(user.user?.email);
         window.location.href = '/';
 
         // return <p>{user.user?.email}</p>
