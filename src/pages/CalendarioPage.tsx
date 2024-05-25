@@ -311,8 +311,8 @@ export const CalendarioPage = () => {
 
 
 
-              <tr className="h-20 text-center ">
-                <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
+              <tr className="h-20 text-center">
+                <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg shadow-lg">
                       <span className="font-bold text-gray-500">{dias[7]}</span>
