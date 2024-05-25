@@ -1,4 +1,6 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import Papa from 'papaparse';
+
 import {
   FaceSmileIcon,
   ChartBarSquareIcon,
@@ -11,47 +13,65 @@ import {
   ArrowLeftIcon
 } from "@heroicons/react/24/solid";
 
+interface SportEvent{
+  Dia: any;
+  Modalidade: any;
+  Horario: any;
+  Local: any;
+  Evento: any;
+  Gênero: any;
+}
+
 export const CalendarioPage = () => {
 
   const [showPopup, setShowPopup] = useState(false);
 
-  const [formState1, setFormState1] = useState({ hour: '15:30', text: 'Masculino - Grupo C', place: 'Parc des Princes', icon: <CalendarDaysIcon /> });
-  const [formState2, setFormState2] = useState({ hour: '15:00', text: 'Masculino - Grupo B', place: 'Estádio Geoffroy-Guichard', icon: <CalendarDaysIcon /> });
-  const [formState3, setFormState3] = useState({ hour: '17:00', text: 'Masculino - Grupo C', place: 'Estádio La Beaujoire', icon: <CalendarDaysIcon /> });
-  const [formState4, setFormState4] = useState({ hour: '21:00', text: 'Masculino - Grupo D', place: 'Parc des Princes', icon: <CalendarDaysIcon /> });
-  const [formState5, setFormState5] = useState({ hour: '14:00', text: 'Feminino - Grupo A', place: 'Estádio Old Trafford', icon: <CalendarDaysIcon /> });
-  const [formState6, setFormState6] = useState({ hour: '16:30', text: 'Feminino - Grupo B', place: 'Estádio Parc Olympique Lyonnais', icon: <CalendarDaysIcon /> });
-  const [formState7, setFormState7] = useState({ hour: '19:00', text: 'Feminino - Grupo C', place: 'Estádio San Mamés', icon: <CalendarDaysIcon /> });
-  const [formState8, setFormState8] = useState({ hour: '21:30', text: 'Feminino - Grupo D', place: 'Estádio Allianz Riviera', icon: <CalendarDaysIcon /> });
-  const [formState9, setFormState9] = useState({ hour: '15:00', text: 'Masculino - Grupo A', place: 'Estádio Wembley', icon: <CalendarDaysIcon /> });
-  const [formState10, setFormState10] = useState({ hour: '17:30', text: 'Masculino - Grupo B', place: 'Estádio Johan Cruyff Arena', icon: <CalendarDaysIcon /> });
+  const[data, setData] = useState<SportEvent[]>([]);
 
+  const Data = require('../assets/Dados/dados.csv');
 
-  const arrays = [
-    [formState1, formState2, formState3, formState4], //24 de Julho
-    [formState2, formState3], //25 de Julho
-    [formState1, formState3], //26 de Julho
-    [],                       //27 de Julho
-    [],                       //28 de Julho
-    [],                       //29 de Julho
-    [],                       //30 de Julho
-    [],                       //31 de Julho
-    [],                       //01 de Agosto
-    [],                       //02 de Agosto
-    [],                       //03 de Agosto
-    [],                       //04 de Agosto
-    [],                       //05 de Agosto
-    [],                       //06 de Agosto
-    [],                       //07 de Agosto
-    [],                       //08 de Agosto
-    [],                       //09 de Agosto
-    [],                       //10 de Agosto
-    [],                       //11 de Agosto
-  ];
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch(Data)
+        const reader = response.body!.getReader();
+        const result = await reader.read();
+        const decoder = new TextDecoder("utf-8");
+        const csvData = decoder.decode(result.value);
+        const parsedData = Papa.parse(csvData, {
+          header: true,
+          skipEmptyLines: true
+        }).data as SportEvent[];
+        setData(parsedData);
+      } catch (error) {
+        console.error('Erro ao buscar dados:', error);
+      }
+    };
+    fetchData();
+  }, [])
 
-  const arrays_sports = [
-    []
-  ]
+  const arrays: SportEvent[][] = [];
+  data.forEach((event) => {
+    const date = event.Dia;
+    const existingIndex = arrays.findIndex((arr) => arr[0]?.Dia === date);
+    if (existingIndex !== -1){
+      arrays[existingIndex].push(event);
+    } else { 
+      arrays.push([event])
+    }
+  });
+
+    console.log(arrays)
+
+  const arrays_sports: string[][] = arrays.map((dayEvents) => {
+    const sportsSet = new Set<string>();
+    dayEvents.forEach((event) => {
+      sportsSet.add(event.Modalidade)
+    })
+    return Array.from(sportsSet);
+  })
+
+  console.log(arrays_sports)
 
   const dias = [
     "24 de Julho",
@@ -81,14 +101,12 @@ export const CalendarioPage = () => {
     else {
       document.getElementById("default-modal")!.style.display = "block";
     }
-
   }
   const [currentIndex, setCurrentIndex] = useState(0);
 
   function handlePopUp(index: number) {
     setShowPopup(true);
     setCurrentIndex(index);
-
   }
 
   function voltarDia(){
@@ -127,16 +145,13 @@ export const CalendarioPage = () => {
                 <p className="mb-4 text-gray-500 dark:text-gray-400">Programação das competições olímpicas:</p>
                 <ul className="mb-4 space-y-4">
                   <div>
-                    {arrays[currentIndex].map((item, index) => (
+                    {arrays_sports[currentIndex].map((item, index) => (
                       <li>
                         <label className="inline-flex items-center justify-between w-full p-5 mb-4 text-gray-900 bg-white border border-gray-200 rounded-lg cursor-pointer dark:hover:text-gray-300 dark:border-gray-500 dark:peer-checked:text-blue-500 peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-900 hover:bg-gray-100 dark:text-white dark:bg-gray-600 dark:hover:bg-gray-500">
                           <div className="block">
-                            <div className="w-full text-lg font-semibold">{item.text}</div>
-                            <div className="w-full text-gray-500 dark:text-gray-400">{item.hour}</div>
-                            <div className="w-full text-gray-500 dark:text-gray-400">{item.place}</div>
+                            <div className="w-full text-lg font-semibold">{item}</div>
                           </div>
-                          <div className="w-4 h-4 text-gray-500 ms-3 rtl:rotate-180 dark:text-gray-400" aria-hidden="true">{item.icon}</div>
-
+                          {/* <div className="w-4 h-4 text-gray-500 ms-3 rtl:rotate-180 dark:text-gray-400" aria-hidden="true">{item.icon}</div> */}
                         </label>
                       </li>
                     ))}
