@@ -1,101 +1,99 @@
-Dia,Modalidade,Horário (Brasília),Local,Evento,Gênero
-24/7,Rugby Sevens,10:30,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,11:00,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,11:30,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,12:00,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,12:30,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,13:00,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,14:00,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,14:30,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,15:00,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,15:30,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,16:00,Stade de France,Fase Preliminar,U
-24/7,Rugby Sevens,16:30,Stade de France,Fase Preliminar,U
-24/7,Futebol,10:00,Parc des Princes,AFC 2 - Espanha ,M
-24/7,Futebol,10:00,Estádio Geoffroy-Guichard,Argentinha - Marrocos,M
-24/7,Futebol,12:00,Estádio La Beaujoire,Egito - República Dominicana,M
-24/7,Futebol,12:00,Estádio de Nice,Vencedor ICP - Nova Zelândia,M
-24/7,Futebol,14:00,Estádio Bordeaux,AFC 1 - Paraguai,M
-24/7,Futebol,14:00,Estádio de Lyon,AFC 3 - Ucrânia,M
-24/7,Futebol,16:00,Parc des Princes,Mali - Israel,M
-24/7,Futebol,16:00,Estádio de Marselha,França - EUA,M
-25/07/24,Futebol,12:00,Estádio La Beaujoire,Espanha - Japão,F
-25/07/24,Futebol,12:00,Estádio Geoffroy-Guichard,Canadá - Nova Zelândia,F
-25/07/24,Futebol,14:00,Estádio Bordeaux,CAF 1 - Brasil,F
-25/07/24,Futebol,14:00,Estádio de Marselha,Alemanha - Austrália,F
-25/07/24,Futebol,16:00,Estádio de Lyon,França - Colômbia,F
-25/07/24,Futebol,16:00,Estádio de Nice,EUA - CAF 2,F
-25/07/24,Handebol,04:00,Arena 6 Paris Sul,Eslovênia - Dinamarca,F
-25/07/24,Handebol,06:00,Arena 6 Paris Sul,Países Baixos - Angola,F
-25/07/24,Handebol,09:00,Arena 6 Paris Sul,Espanha - Brasil,F
-25/07/24,Handebol,11:00,Arena 6 Paris Sul,Alemanha - República da Coréia,F
-25/07/24,Handebol,14:00,Arena 6 Paris Sul,Hungria - França,F
-25/07/24,Handebol,16:00,Arena 6 Paris Sul,Noruega - Suécia,F
-25/07/24,Rugby Sevens,09:00,Stade de France,Fase Preliminar,M
-25/07/24,Rugby Sevens,09:30,Stade de France,Fase Preliminar,M
-25/07/24,Rugby Sevens,10:00,Stade de France,Fase Preliminar,M
-25/07/24,Rugby Sevens,10:30,Stade de France,Fase Preliminar,M
-25/07/24,Rugby Sevens,11:00,Stade de France,Fase Preliminar,M
-25/07/24,Rugby Sevens,11:30,Stade de France,Fase Preliminar,M
-25/07/24,Rugby Sevens,15:00,Stade de France,Colocação 9º - 12º lugar,M
-25/07/24,Rugby Sevens,15:30,Stade de France,Colocação 9º - 12º lugar,M
-25/07/24,Rugby Sevens,16:00,Stade de France,Quartas de final,M
-25/07/24,Rugby Sevens,16:30,Stade de France,Quartas de final,M
-25/07/24,Rugby Sevens,17:00,Stade de France,Quartas de final,M
-25/07/24,Rugby Sevens,17:30,Stade de France,Quartas de final,M
-25/07/24,Tiro com Arco,04:30,Invalides,Fase de Classificação, F
-25/07/24,Tiro com Arco,09:15,Invalides,Fase de Classificação, M
-26/07/24,Cerimônia de Abertura,14:30,Estádio de France,Cerimônia de Abertura da Olimpíada,U
-28/7,Badminton,03:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
-28/7,Badminton,03:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
-28/7,Badminton,03:30,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,04:20,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,04:20,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,04:20,La Chapelle,Duplas Masculinas - Fase de Grupos,M
-28/7,Badminton,05:10,La Chapelle,Duplas Masculinas - Fase de Grupos,M
-28/7,Badminton,05:10,La Chapelle,Duplas Femininas - Fase de Grupos,F
-28/7,Badminton,05:10,La Chapelle,Duplas Femininas - Fase de Grupos,F
-28/7,Badminton,06:00,La Chapelle,Simples Masculino - Fase de grupos,M
-28/7,Badminton,06:00,La Chapelle,Simples Masculino - Fase de grupos,M
-28/7,Badminton,06:00,La Chapelle,Simples Masculino - Fase de grupos,M
-28/7,Badminton,09:00,La Chapelle,Duplas Mistas - Fase de Grupos,U
-28/7,Badminton,09:00,La Chapelle,Duplas Mistas - Fase de Grupos,U
-28/7,Badminton,09:00,La Chapelle,Duplas Masculinas - Fase de Grupos,M
-28/7,Badminton,09:50,La Chapelle,Duplas Femininas - Fase de Grupos,F
-28/7,Badminton,09:50,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,09:50,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,10:40,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,10:40,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,10:40,La Chapelle,Simples Masculino - Fase de grupos,M
-28/7,Badminton,11:30,La Chapelle,Simples Masculino - Fase de grupos,M
-28/7,Badminton,11:30,La Chapelle,Simples Masculino - Fase de grupos,M
-28/7,Badminton,11:30,La Chapelle,Simples Masculino - Fase de grupos,M
-28/7,Badminton,14:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
-28/7,Badminton,14:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
-28/7,Badminton,14:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
-28/7,Badminton,15:20,La Chapelle,Duplas Mistas - Fase de Grupos,U
-28/7,Badminton,15:20,La Chapelle,Duplas Masculinas - Fase de Grupos,M
-28/7,Badminton,15:20,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,16:10,La Chapelle,Simples Feminino - Fase de Grupos,F
-28/7,Badminton,16:10,La Chapelle,Duplas Femininas - Fase de Grupos,F
-28/7,Badminton,16:10,La Chapelle,Simples Masculino - Fase de grupos,M
-28/7,Basquete,06:00,Estádio Pierre Mauroy,Fase de Grupos - Grupo C,Sudão do Sul - Vencedor OQT,M
-28/7,Basquete,08:30,Estádio Pierre Mauroy,Fase de Grupos,Espanha - China,F
-28/7,Basquete,12:15,Estádio Pierre Mauroy,Fase de Grupos,Sérvia - EUA,M
-28/7,Basquete,16:00,Estádio Pierre Mauroy,Fase de Grupos,Sérvia - Porto Rico,F
-28/7,Boxe,06:00,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,M
-28/7,Boxe,06:16,Arena Norte de Paris,71 kg - Primeira Fase Preliminar,M
-28/7,Boxe,06:48,Arena Norte de Paris,92 kg - Primeira Fase Preliminar,M
-28/7,Boxe,07:20,Arena Norte de Paris,50 kg - Primeira Fase Preliminar,F
-28/7,Boxe,07:52,Arena Norte de Paris,66 kg - Primeira Fase Preliminar,F
-28/7,Boxe,10:30,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,M
-28/7,Boxe,10:46,Arena Norte de Paris,71 kg - Primeira Fase Preliminar,M
-28/7,Boxe,11:02,Arena Norte de Paris,92 kg - Primeira Fase Preliminar,M
-28/7,Boxe,11:50,Arena Norte de Paris,50 kg - Primeira Fase Preliminar,F
-28/7,Boxe,12:22,Arena Norte de Paris,66 kg - Primeira Fase Preliminar,F
-28/7,Boxe,15:00,Arena Norte de Paris,71 kg - Primeira Fase Preliminar,M
-28/7,Boxe,15:16,Arena Norte de Paris,92 kg - Oitavas de Final,M
-28/7,Boxe,16:04,Arena Norte de Paris,50 kg - Primeira Fase Preliminar,F
-28/7,Boxe,16:36,Arena Norte de Paris,66 kg - Primeira Fase Preliminar,F
-
-
+Dia,Modalidade,Horario,Local,Evento,Gênero
+24/07/2024,Rugby Sevens,10:30,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,11:00,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,11:30,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,12:00,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,12:30,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,13:00,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,14:00,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,14:30,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,15:00,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,15:30,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,16:00,Stade de France,Fase Preliminar,U
+24/07/2024,Rugby Sevens,16:30,Stade de France,Fase Preliminar,U
+24/07/2024,Futebol,10:00,Parc des Princes,AFC 2 - Espanha ,M
+24/07/2024,Futebol,10:00,Estádio Geoffroy-Guichard,Argentinha - Marrocos,M
+24/07/2024,Futebol,12:00,Estádio La Beaujoire,Egito - República Dominicana,M
+24/07/2024,Futebol,12:00,Estádio de Nice,Vencedor ICP - Nova Zelândia,M
+24/07/2024,Futebol,14:00,Estádio Bordeaux,AFC 1 - Paraguai,M
+24/07/2024,Futebol,14:00,Estádio de Lyon,AFC 3 - Ucrânia,M
+24/07/2024,Futebol,16:00,Parc des Princes,Mali - Israel,M
+24/07/2024,Futebol,16:00,Estádio de Marselha,França - EUA,M
+25/07/2024,Futebol,12:00,Estádio La Beaujoire,Espanha - Japão,F
+25/07/2024,Futebol,12:00,Estádio Geoffroy-Guichard,Canadá - Nova Zelândia,F
+25/07/2024,Futebol,14:00,Estádio Bordeaux,CAF 1 - Brasil,F
+25/07/2024,Futebol,14:00,Estádio de Marselha,Alemanha - Austrália,F
+25/07/2024,Futebol,16:00,Estádio de Lyon,França - Colômbia,F
+25/07/2024,Futebol,16:00,Estádio de Nice,EUA - CAF 2,F
+25/07/2024,Handebol,04:00,Arena 6 Paris Sul,Eslovênia - Dinamarca,F
+25/07/2024,Handebol,06:00,Arena 6 Paris Sul,Países Baixos - Angola,F
+25/07/2024,Handebol,09:00,Arena 6 Paris Sul,Espanha - Brasil,F
+25/07/2024,Handebol,11:00,Arena 6 Paris Sul,Alemanha - República da Coréia,F
+25/07/2024,Handebol,14:00,Arena 6 Paris Sul,Hungria - França,F
+25/07/2024,Handebol,16:00,Arena 6 Paris Sul,Noruega - Suécia,F
+25/07/2024,Rugby Sevens,09:00,Stade de France,Fase Preliminar,M
+25/07/2024,Rugby Sevens,09:30,Stade de France,Fase Preliminar,M
+25/07/2024,Rugby Sevens,10:00,Stade de France,Fase Preliminar,M
+25/07/2024,Rugby Sevens,10:30,Stade de France,Fase Preliminar,M
+25/07/2024,Rugby Sevens,11:00,Stade de France,Fase Preliminar,M
+25/07/2024,Rugby Sevens,11:30,Stade de France,Fase Preliminar,M
+25/07/2024,Rugby Sevens,15:00,Stade de France,Colocação 9º - 12º lugar,M
+25/07/2024,Rugby Sevens,15:30,Stade de France,Colocação 9º - 12º lugar,M
+25/07/2024,Rugby Sevens,16:00,Stade de France,Quartas de final,M
+25/07/2024,Rugby Sevens,16:30,Stade de France,Quartas de final,M
+25/07/2024,Rugby Sevens,17:00,Stade de France,Quartas de final,M
+25/07/2024,Rugby Sevens,17:30,Stade de France,Quartas de final,M
+25/07/2024,Tiro com Arco,04:30,Invalides,Fase de Classificação, F
+25/07/2024,Tiro com Arco,09:15,Invalides,Fase de Classificação, M
+26/07/2024,Cerimônia de Abertura,14:30,Estádio de France,Cerimônia de Abertura da Olimpíada,U
+28/07/2024,Badminton,03:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
+28/07/2024,Badminton,03:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
+28/07/2024,Badminton,03:30,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,04:20,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,04:20,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,04:20,La Chapelle,Duplas Masculinas - Fase de Grupos,M
+28/07/2024,Badminton,05:10,La Chapelle,Duplas Masculinas - Fase de Grupos,M
+28/07/2024,Badminton,05:10,La Chapelle,Duplas Femininas - Fase de Grupos,F
+28/07/2024,Badminton,05:10,La Chapelle,Duplas Femininas - Fase de Grupos,F
+28/07/2024,Badminton,06:00,La Chapelle,Simples Masculino - Fase de grupos,M
+28/07/2024,Badminton,06:00,La Chapelle,Simples Masculino - Fase de grupos,M
+28/07/2024,Badminton,06:00,La Chapelle,Simples Masculino - Fase de grupos,M
+28/07/2024,Badminton,09:00,La Chapelle,Duplas Mistas - Fase de Grupos,U
+28/07/2024,Badminton,09:00,La Chapelle,Duplas Mistas - Fase de Grupos,U
+28/07/2024,Badminton,09:00,La Chapelle,Duplas Masculinas - Fase de Grupos,M
+28/07/2024,Badminton,09:50,La Chapelle,Duplas Femininas - Fase de Grupos,F
+28/07/2024,Badminton,09:50,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,09:50,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,10:40,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,10:40,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,10:40,La Chapelle,Simples Masculino - Fase de grupos,M
+28/07/2024,Badminton,11:30,La Chapelle,Simples Masculino - Fase de grupos,M
+28/07/2024,Badminton,11:30,La Chapelle,Simples Masculino - Fase de grupos,M
+28/07/2024,Badminton,11:30,La Chapelle,Simples Masculino - Fase de grupos,M
+28/07/2024,Badminton,14:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
+28/07/2024,Badminton,14:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
+28/07/2024,Badminton,14:30,La Chapelle,Duplas Mistas - Fase de Grupos,U
+28/07/2024,Badminton,15:20,La Chapelle,Duplas Mistas - Fase de Grupos,U
+28/07/2024,Badminton,15:20,La Chapelle,Duplas Masculinas - Fase de Grupos,M
+28/07/2024,Badminton,15:20,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,16:10,La Chapelle,Simples Feminino - Fase de Grupos,F
+28/07/2024,Badminton,16:10,La Chapelle,Duplas Femininas - Fase de Grupos,F
+28/07/2024,Badminton,16:10,La Chapelle,Simples Masculino - Fase de grupos,M
+28/07/2024,Basquete,06:00,Estádio Pierre Mauroy,Fase de Grupos - Grupo C,Sudão do Sul - Vencedor OQT,M
+28/07/2024,Basquete,08:30,Estádio Pierre Mauroy,Fase de Grupos,Espanha - China,F
+28/07/2024,Basquete,12:15,Estádio Pierre Mauroy,Fase de Grupos,Sérvia - EUA,M
+28/07/2024,Basquete,16:00,Estádio Pierre Mauroy,Fase de Grupos,Sérvia - Porto Rico,F
+28/07/2024,Boxe,06:00,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,M
+28/07/2024,Boxe,06:16,Arena Norte de Paris,71 kg - Primeira Fase Preliminar,M
+28/07/2024,Boxe,06:48,Arena Norte de Paris,92 kg - Primeira Fase Preliminar,M
+28/07/2024,Boxe,07:20,Arena Norte de Paris,50 kg - Primeira Fase Preliminar,F
+28/07/2024,Boxe,07:52,Arena Norte de Paris,66 kg - Primeira Fase Preliminar,F
+28/07/2024,Boxe,10:30,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,M
+28/07/2024,Boxe,10:46,Arena Norte de Paris,71 kg - Primeira Fase Preliminar,M
+28/07/2024,Boxe,11:02,Arena Norte de Paris,92 kg - Primeira Fase Preliminar,M
+28/07/2024,Boxe,11:50,Arena Norte de Paris,50 kg - Primeira Fase Preliminar,F
+28/07/2024,Boxe,12:22,Arena Norte de Paris,66 kg - Primeira Fase Preliminar,F
+28/07/2024,Boxe,15:00,Arena Norte de Paris,71 kg - Primeira Fase Preliminar,M
+28/07/2024,Boxe,15:16,Arena Norte de Paris,92 kg - Oitavas de Final,M
+28/07/2024,Boxe,16:04,Arena Norte de Paris,50 kg - Primeira Fase Preliminar,F
+28/07/2024,Boxe,16:36,Arena Norte de Paris,66 kg - Primeira Fase Preliminar,F
