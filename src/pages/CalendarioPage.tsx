@@ -168,7 +168,6 @@ export const CalendarioPage = () => {
                           <div className="block">
                             <div className="w-full text-lg font-semibold">{item}</div>
                           </div>
-                          {/* <div className="w-4 h-4 text-gray-500 ms-3 rtl:rotate-180 dark:text-gray-400" aria-hidden="true">{item.icon}</div> */}
                         </label>
                       </li>
                     ))}
@@ -205,7 +204,7 @@ export const CalendarioPage = () => {
                             <div className="w-full text-lg font-semibold">{item.Evento}</div>
                             <div className="w-full text-lg font-semibold">{item.Genero}</div>
                           </div>
-                          {/* <div className="w-4 h-4 text-gray-500 ms-3 rtl:rotate-180 dark:text-gray-400" aria-hidden="true">{item.icon}</div> */}
+                          
                         </label>
                       </li>
                     ))}
