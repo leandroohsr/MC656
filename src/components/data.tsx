@@ -38,23 +38,23 @@ import {
   };
   
   const benefitTwo = {
-    title: "Benefícios",
+    title: "Conecte-se e Compartilhe a Emoção das Olimpíadas de Paris",
     desc: "",
     image: benefitTwoImg,
     bullets: [
       {
-        title: "ArtHur",
-        desc: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.",
+        title: "Conecte-se com Fãs Globais",
+        desc: "Converse com fãs de diferentes países, compartilhe sua paixão pelo esporte e faça novas amizades.",
         icon: <CalendarDaysIcon />,
       },
       {
-        title: "ArtHur",
-        desc: "Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        title: "Receba Atualizações Instantâneas",
+        desc: "Obtenha dicas e informações em tempo real sobre eventos e atrações de Paris.",
         icon: <ChartBarSquareIcon />,
       },
       {
-        title: "ArtHur",
-        desc: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        title: "Aumente a Emoção",
+        desc: " Participe de discussões animadas, compartilhe reações e viva intensamente cada momento dos Jogos Olímpicos.",
         icon: <CursorArrowRaysIcon />,
       },
     ],
