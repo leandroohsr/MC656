@@ -1,4 +1,6 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import Papa from 'papaparse';
+
 import {
   FaceSmileIcon,
   ChartBarSquareIcon,
@@ -11,47 +13,61 @@ import {
   ArrowLeftIcon
 } from "@heroicons/react/24/solid";
 
+interface SportEvent {
+  Dia: any;
+  Modalidade: any;
+  Horario: any;
+  Local: any;
+  Evento: any;
+  Genero: any;
+}
+
 export const CalendarioPage = () => {
 
   const [showPopup, setShowPopup] = useState(false);
 
-  const [formState1, setFormState1] = useState({ hour: '15:30', text: 'Masculino - Grupo C', place: 'Parc des Princes', icon: <CalendarDaysIcon /> });
-  const [formState2, setFormState2] = useState({ hour: '15:00', text: 'Masculino - Grupo B', place: 'Estádio Geoffroy-Guichard', icon: <CalendarDaysIcon /> });
-  const [formState3, setFormState3] = useState({ hour: '17:00', text: 'Masculino - Grupo C', place: 'Estádio La Beaujoire', icon: <CalendarDaysIcon /> });
-  const [formState4, setFormState4] = useState({ hour: '21:00', text: 'Masculino - Grupo D', place: 'Parc des Princes', icon: <CalendarDaysIcon /> });
-  const [formState5, setFormState5] = useState({ hour: '14:00', text: 'Feminino - Grupo A', place: 'Estádio Old Trafford', icon: <CalendarDaysIcon /> });
-  const [formState6, setFormState6] = useState({ hour: '16:30', text: 'Feminino - Grupo B', place: 'Estádio Parc Olympique Lyonnais', icon: <CalendarDaysIcon /> });
-  const [formState7, setFormState7] = useState({ hour: '19:00', text: 'Feminino - Grupo C', place: 'Estádio San Mamés', icon: <CalendarDaysIcon /> });
-  const [formState8, setFormState8] = useState({ hour: '21:30', text: 'Feminino - Grupo D', place: 'Estádio Allianz Riviera', icon: <CalendarDaysIcon /> });
-  const [formState9, setFormState9] = useState({ hour: '15:00', text: 'Masculino - Grupo A', place: 'Estádio Wembley', icon: <CalendarDaysIcon /> });
-  const [formState10, setFormState10] = useState({ hour: '17:30', text: 'Masculino - Grupo B', place: 'Estádio Johan Cruyff Arena', icon: <CalendarDaysIcon /> });
+  const [data, setData] = useState<SportEvent[]>([]);
 
+  const Data = require('../assets/Dados/dados.csv');
 
-  const arrays = [
-    [formState1, formState2, formState3, formState4], //24 de Julho
-    [formState2, formState3], //25 de Julho
-    [formState1, formState3], //26 de Julho
-    [],                       //27 de Julho
-    [],                       //28 de Julho
-    [],                       //29 de Julho
-    [],                       //30 de Julho
-    [],                       //31 de Julho
-    [],                       //01 de Agosto
-    [],                       //02 de Agosto
-    [],                       //03 de Agosto
-    [],                       //04 de Agosto
-    [],                       //05 de Agosto
-    [],                       //06 de Agosto
-    [],                       //07 de Agosto
-    [],                       //08 de Agosto
-    [],                       //09 de Agosto
-    [],                       //10 de Agosto
-    [],                       //11 de Agosto
-  ];
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch(Data)
+        const reader = response.body!.getReader();
+        const result = await reader.read();
+        const decoder = new TextDecoder("utf-8");
+        const csvData = decoder.decode(result.value);
+        const parsedData = Papa.parse(csvData, {
+          header: true,
+          skipEmptyLines: true
+        }).data as SportEvent[];
+        setData(parsedData);
+      } catch (error) {
+        console.error('Erro ao buscar dados:', error);
+      }
+    };
+    fetchData();
+  }, [])
 
-  const arrays_sports = [
-    []
-  ]
+  const arrays: SportEvent[][] = [];
+  data.forEach((event) => {
+    const date = event.Dia;
+    const existingIndex = arrays.findIndex((arr) => arr[0]?.Dia === date);
+    if (existingIndex !== -1) {
+      arrays[existingIndex].push(event);
+    } else {
+      arrays.push([event])
+    }
+  });
+
+  const arrays_sports: string[][] = arrays.map((dayEvents) => {
+    const sportsSet = new Set<string>();
+    dayEvents.forEach((event) => {
+      sportsSet.add(event.Modalidade)
+    })
+    return Array.from(sportsSet);
+  })
 
   const dias = [
     "24 de Julho",
@@ -74,6 +90,27 @@ export const CalendarioPage = () => {
     "11 de Agosto",
   ];
 
+  const [esporte, setEsporte] = useState('')
+  const [index, setIndex] = useState(-1)
+  const [showDetalhes, setShowDetalhes] = useState(false)
+
+  const [eventos, setEventos] = useState([])
+
+  function mudarEvento(index: number, esporte: string) {
+    let vetor: any = []    
+    vetor = arrays[index].filter((evento) =>
+      evento.Modalidade === esporte
+    )
+    setEventos(vetor)
+  }
+
+  function detalharEvento(esporte: string, index: number, showDetalhes: boolean) {
+    setEsporte(esporte)
+    setIndex(index)
+    setShowDetalhes(showDetalhes)
+    mudarEvento(index, esporte)
+  }
+
   function alternPopup(str: string, info: string, loc: string, time: string) {
     if (document.getElementById("default-modal")!.style.display === "block") {
       document.getElementById("default-modal")!.style.display = "none";
@@ -81,23 +118,21 @@ export const CalendarioPage = () => {
     else {
       document.getElementById("default-modal")!.style.display = "block";
     }
-
   }
   const [currentIndex, setCurrentIndex] = useState(0);
 
   function handlePopUp(index: number) {
     setShowPopup(true);
     setCurrentIndex(index);
-
   }
 
-  function voltarDia(){
-    if(currentIndex>0){
+  function voltarDia() {
+    if (currentIndex > 0) {
       setCurrentIndex(currentIndex - 1)
     }
   }
-  function avancarDia(){
-    if (currentIndex<17){
+  function avancarDia() {
+    if (currentIndex < 17) {
       setCurrentIndex(currentIndex + 1)
     }
   }
@@ -127,16 +162,12 @@ export const CalendarioPage = () => {
                 <p className="mb-4 text-gray-500 dark:text-gray-400">Programação das competições olímpicas:</p>
                 <ul className="mb-4 space-y-4">
                   <div>
-                    {arrays[currentIndex].map((item, index) => (
-                      <li>
+                    {arrays_sports[currentIndex].map((item) => (
+                      <li onClick={() => detalharEvento(item, currentIndex, true)}>
                         <label className="inline-flex items-center justify-between w-full p-5 mb-4 text-gray-900 bg-white border border-gray-200 rounded-lg cursor-pointer dark:hover:text-gray-300 dark:border-gray-500 dark:peer-checked:text-blue-500 peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-900 hover:bg-gray-100 dark:text-white dark:bg-gray-600 dark:hover:bg-gray-500">
                           <div className="block">
-                            <div className="w-full text-lg font-semibold">{item.text}</div>
-                            <div className="w-full text-gray-500 dark:text-gray-400">{item.hour}</div>
-                            <div className="w-full text-gray-500 dark:text-gray-400">{item.place}</div>
+                            <div className="w-full text-lg font-semibold">{item}</div>
                           </div>
-                          <div className="w-4 h-4 text-gray-500 ms-3 rtl:rotate-180 dark:text-gray-400" aria-hidden="true">{item.icon}</div>
-
                         </label>
                       </li>
                     ))}
@@ -146,9 +177,47 @@ export const CalendarioPage = () => {
             </div>
           </div>
         </div> : null}
-        <div onClick={()=>{        window.location.href = '/';}} className="flex w-16 ml-4 rounded-lg shadow-lg hover:underline ">
-          <ArrowLeftIcon />
+      {showDetalhes == true ?
+        <div id="default-modal" aria-hidden="true" className="fixed flex items-center justify-center w-full h-full max-h-full overflow-x-hidden overflow-y-auto bg-opacity-50 md:inset-0">
+          <div className="w-full max-w-md max-h-full p-4 ">
+            <div className="relative bg-white rounded-lg shadow dark:bg-gray-700">
+              <div className="flex items-center justify-between p-4 border-b rounded-t md:p-5 dark:border-gray-600">
+                <h3 className="flex-grow text-lg font-semibold text-center text-gray-900 dark:text-white">
+                  {dias[currentIndex]}
+                </h3>
+                <button onClick={() => setShowDetalhes(false)} type="button" className="inline-flex items-center justify-center w-8 h-8 text-sm text-gray-400 bg-transparent rounded-lg hover:bg-gray-200 hover:text-gray-900 ms-auto dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="default-modal">
+                  <svg className="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6" />
+                  </svg>
+                  <span className="sr-only">Close modal</span>
+                </button>
+              </div>
+              <div className="p-4 md:p-5">
+                <p className="mb-4 text-gray-500 dark:text-gray-400">Mostrando os eventos de {esporte}:</p>
+                <ul className="mb-4 space-y-4">
+                  <div>
+                    {eventos.map((item: any) => (
+                      <li>
+                        <label className="inline-flex items-center justify-between w-full p-5 mb-4 text-gray-900 bg-white border border-gray-200 rounded-lg dark:hover:text-gray-300 dark:border-gray-500 dark:peer-checked:text-blue-500 peer-checked:border-blue-600 peer-checked:text-blue-600 hover:text-gray-900 hover:bg-gray-100 dark:text-white dark:bg-gray-600 dark:hover:bg-gray-500">
+                          <div className="block">
+                            <div className="w-full text-lg font-semibold">{item.Horario}</div>
+                            <div className="w-full text-lg font-semibold">{item.Evento}</div>
+                            <div className="w-full text-lg font-semibold">{item.Genero}</div>
+                          </div>
+                          
+                        </label>
+                      </li>
+                    ))}
+                  </div>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
+        : null}
+      <div onClick={() => { window.location.href = '/'; }} className="flex w-16 ml-4 rounded-lg shadow-lg hover:underline ">
+        <ArrowLeftIcon />
+      </div>
       <div className="container pt-10 mx-auto bg-gray-200 pb-96">
 
         <div className="w-full bg-white rounded shadow wrapper ">
@@ -170,7 +239,7 @@ export const CalendarioPage = () => {
                 <td onClick={() => handlePopUp(0)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg shadow-lg">
-                    <span className="font-bold text-gray-500 ">{dias[0]}</span>
+                      <span className="font-bold text-gray-500 ">{dias[0]}</span>
                       <div className="w-full h-full ">
                         <div className="grid grid-cols-4 gap-4 m-4">
                           <div className=""><CalendarDaysIcon /></div>
@@ -241,8 +310,8 @@ export const CalendarioPage = () => {
 
 
 
-              <tr className="h-20 text-center ">
-                <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
+              <tr className="h-20 text-center">
+                <td className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg shadow-lg">
                       <span className="font-bold text-gray-500">{dias[7]}</span>
