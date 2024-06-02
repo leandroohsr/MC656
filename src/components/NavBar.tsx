@@ -5,13 +5,13 @@ import imgLogoHome from "../assets/logo.png";
 const Navbar = () => {
   const navigation = [
     "Home",
-    "Página 2",
+    "Calendário",
     "Página 3",
     "Página 4",
     "Página 5",
   ];
   
-  const routes = ["/login", "/home", "/"];
+  const routes = ["/", "/Calendario", "/", "/", "/"];
   
   return (
     <div className="w-full bg-black">

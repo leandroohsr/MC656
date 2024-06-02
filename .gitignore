@@ -5,6 +5,13 @@
 /.pnp
 .pnp.js
 
+#firebaseConfig.tsx não deve ser versionado
+
+/src/services/firebaseConfig.tsx
+/src/firebaseConfig.tsx
+src/services/firebaseConfig.tsx
+
+
 # testing
 /coverage
 
