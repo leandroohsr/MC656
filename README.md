@@ -34,14 +34,16 @@ O software a ser desenvolvido tem como objetivo oferecer uma experiência enriqu
 
 ### ⚙🛠 Arquitetura
 
-- Descrição dos Componentes:
+- Diagrama em nível de componentes (C4 - Nível 3) para arquitetura do projeto:
+<img src="./src/assets/Atividade 4 - Diagrama.svg">
 
+- Descrição dos Principais Componentes:
   - Validação: checa a veracidade de informações de um determinado usuário
   - Componente Login e Register: controla o cadastro de usuários
   - Componente Chat: controla a apresentação de mensagens e respostas
   - Calendário: busca e apresenta informações das modalidades esportivas
   - Componente Notificação: notifica usuários quando sua mensagem é respondida
-  - Componente Usuário:
+  
 - O estilo adotado na elaboração da arquitetura: arquitetura em três camadas
 - Para a componente usuário, utilizaremos o padrão de projeto Lazy Registration. O qual permite que visitantes não registrados tenham acesso parcial ào site, porém não serão capazes, por exemplo, de escrever ou responder comentários.
 
