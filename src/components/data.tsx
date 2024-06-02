@@ -10,7 +10,7 @@ import {
   } from "@heroicons/react/24/solid";
   
   import benefitOneImg from "../assets/player.jpg";
-  import benefitTwoImg from "../assets/player.jpg";
+  import benefitTwoImg from "../assets/blob.png";
   
   const benefitOne = {
     title: "Agenda de Eventos",
@@ -39,7 +39,7 @@ import {
   
   const benefitTwo = {
     title: "Conecte-se e Compartilhe a Emoção das Olimpíadas de Paris",
-    desc: "",
+    desc: "Participe do nosso chat exclusivo e vivencie os Jogos Olímpicos de Paris como nunca antes. Conecte-se com fãs de todo o mundo, receba atualizações em tempo real e aumente seu engajamento nos eventos. Aproveite ao máximo sua experiência olímpica compartilhando momentos inesquecíveis com outros apaixonados por esporte.",
     image: benefitTwoImg,
     bullets: [
       {
