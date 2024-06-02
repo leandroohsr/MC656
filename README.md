@@ -30,6 +30,12 @@ Ao final do semestre, espera-se que os alunos sejam capazes de:
 
 O software a ser desenvolvido tem como objetivo oferecer uma experiência enriquecedora e informativa aos espectadores dos jogos olímpicos em Paris. Este projeto visa proporcionar aos usuários acesso fácil e conveniente a uma variedade de recursos úteis para aproveitar ao máximo o evento. Os principais recursos incluem uma agenda de eventos: uma seção organizada por data, local e esporte, permitindo aos usuários visualizar facilmente os eventos olímpicos e planejar suas atividades. Além disso, notícias e atualizações: uma seção de notícias com atualizações em tempo real sobre os Jogos Olímpicos, incluindo resultados de eventos, entrevistas exclusivas com atletas e destaques das competições, Mapas Interativos: Mapas detalhados dos locais olímpicos em Paris, destacando locais de competição, áreas de alimentação, transporte público e pontos de interesse nas proximidades. Suporte Multilíngue: Opções para selecionar diferentes idiomas, garantindo que o aplicativo seja acessível para espectadores de diferentes nacionalidades.
 
+
+### ⚙🛠 Arquitetura
+
+- O estilo adotado na elaboração da arquitetura: arquitetura em três camadas
+- 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
