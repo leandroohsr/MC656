@@ -79,10 +79,10 @@ Dia,Modalidade,Horario,Local,Evento,Genero
 28/07/2024,Badminton,16:10,La Chapelle,Simples Feminino - Fase de Grupos,F
 28/07/2024,Badminton,16:10,La Chapelle,Duplas Femininas - Fase de Grupos,F
 28/07/2024,Badminton,16:10,La Chapelle,Simples Masculino - Fase de grupos,M
-28/07/2024,Basquete,06:00,Estádio Pierre Mauroy,Fase de Grupos - Grupo C,Sudão do Sul - Vencedor OQT,M
-28/07/2024,Basquete,08:30,Estádio Pierre Mauroy,Fase de Grupos,Espanha - China,F
-28/07/2024,Basquete,12:15,Estádio Pierre Mauroy,Fase de Grupos,Sérvia - EUA,M
-28/07/2024,Basquete,16:00,Estádio Pierre Mauroy,Fase de Grupos,Sérvia - Porto Rico,F
+28/07/2024,Basquete,06:00,Estádio Pierre Mauroy,Sudão do Sul - Vencedor OQT,M
+28/07/2024,Basquete,08:30,Estádio Pierre Mauroy,Espanha - China,F
+28/07/2024,Basquete,12:15,Estádio Pierre Mauroy,Sérvia - EUA,M
+28/07/2024,Basquete,16:00,Estádio Pierre Mauroy,Sérvia - Porto Rico,F
 28/07/2024,Boxe,06:00,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,M
 28/07/2024,Boxe,06:16,Arena Norte de Paris,71 kg - Primeira Fase Preliminar,M
 28/07/2024,Boxe,06:48,Arena Norte de Paris,92 kg - Primeira Fase Preliminar,M
@@ -1357,6 +1357,132 @@ Dia,Modalidade,Horario,Local,Evento,Genero
 03/8,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
 03/8,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
 03/8,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
+04/8,Atletismo,05:05,Stade de France,3000m Obstáculos - Primeira Rodada,F
+04/8,Atletismo,05:20,Stade de France,Lançamento de Martelo - Classificação,F
+04/8,Atletismo,05:55,Stade de France,200m- Primeira Rodada,F
+04/8,Atletismo,06:00,Stade de France,Salto em Distância - Classificação,M
+04/8,Atletismo,06:45,Stade de France,Lançamento de Martelo - Classificação,F
+04/8,Atletismo,06:50,Stade de France,110m com barreiras - Primeira Rodada,M
+04/8,Atletismo,07:35,Stade de France,400m com barreiras - Primeira Rodada,F
+04/8,Atletismo,14:05,Stade de France,400m - Primeira Rodada,M
+04/8,Atletismo,14:50,Stade de France,Salto em Altura - Final,F
+04/8,Atletismo,15:00,Stade de France,100m - Semifinal,M
+04/8,Atletismo,15:30,Stade de France,Lançamento de Martelo - Final,M
+04/8,Atletismo,15:40,Stade de France,800m - Semifinal,F
+04/8,Atletismo,16:15,Stade de France,1500m - Semifinal,M
+04/8,Atletismo,16:55,Stade de France,100m - Final,M
+04/8,Badminton,03:30,Arena La Chapelle,Simples Feminino - Semifinal,F
+04/8,Badminton,04:40,Arena La Chapelle,Simples Feminino - Semifinal,F
+04/8,Badminton,05:50,Arena La Chapelle,Simples Masculino - Semifinal,M
+04/8,Badminton,07:00,Arena La Chapelle,Simples Masculino - Semifinal,M
+04/8,Badminton,10:00,Arena La Chapelle,Duplas Masculinas - Disputa pelo Bronze,M
+04/8,Badminton,11:10,Arena La Chapelle,Duplas Masculinas - Disputa pelo Ouro,M
+04/8,Basquete,06:00,Estádio Pierre Mauroy,Japão - Bélgica,F
+04/8,Basquete,08:30,Estádio Pierre Mauroy,Canadá - Nigéria,F
+04/8,Basquete,12:15,Estádio Pierre Mauroy,Alemanha - EUA,F
+04/8,Basquete,16:00,Estádio Pierre Mauroy,Austrália - França,F
+04/8,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,M
+04/8,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,M
+04/8,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
+04/8,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
+04/8,Basquete 3x3,16:30,La Concorde 1,Play-In,M
+04/8,Basquete 3x3,17:05,La Concorde 1,Play-In,M
+04/8,Boxe,06:00,Arena Norte de Paris,57 kg - Quartas de Final,F
+04/8,Boxe,06:32,Arena Norte de Paris,75 kg - Quartas de Final,F
+04/8,Boxe,07:04,Arena Norte de Paris,54 kg - Semifinal,F
+04/8,Boxe,07:20,Arena Norte de Paris,51 kg - Semifinal,M
+04/8,Boxe,07:36,Arena Norte de Paris,63,5 kg - Semifinal,M
+04/8,Boxe,07:52,Arena Norte de Paris,80 kg - Semifinal,M
+04/8,Boxe,08:08,Arena Norte de Paris,92 kg - Semifinal,M
+04/8,Boxe,10:30,Arena Norte de Paris,57 kg - Quartas de Final,F
+04/8,Boxe,11:02,Arena Norte de Paris,75 kg - Quartas de Final,F
+04/8,Boxe,11:34,Arena Norte de Paris,54 kg - Semifinal,F
+04/8,Boxe,11:50,Arena Norte de Paris,51 kg - Semifinal,M
+04/8,Boxe,12:06,Arena Norte de Paris,63,5 kg - Semifinal,M
+04/8,Boxe,12:22,Arena Norte de Paris,80 kg - Semifinal,M
+04/8,Boxe,12:38,Arena Norte de Paris,92 kg - Semifinal,M
+04/8,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Heats,F
+04/8,Canoagem Slalom,11:45,Est. Náutico Água Branca,Caiaque Cross - Heats,F
+04/8,Ciclismo de Estrada,09:00,Trocadéro,Prova de Estrada,F
+04/8,Esgrima,06:50,Grand Palais,Florete por equipes - Quartas de Final,M
+04/8,Esgrima,08:40,Grand Palais,Florete por equipes - Classificação 5-8 lugar,M
+04/8,Esgrima,09:50,Grand Palais,Florete por equipes - Semifinal 1,M
+04/8,Esgrima,09:50,Grand Palais,Florete por equipes - Semifinal 2,M
+04/8,Esgrima,11:00,Grand Palais,Florete por equipes - 7-8 lugar,M
+04/8,Esgrima,11:00,Grand Palais,Florete por equipes - 5-6 lugar,M
+04/8,Esgrima,14:10,Grand Palais,Florete por equipes - Disputa por Bronze,M
+04/8,Esgrima,15:30,Grand Palais,Florete por equipes - Disputa por Ouro,M
+04/8,Ginástica Artística,10:00,Arena Bercy,Argolas - Final,M
+04/8,Ginástica Artística,10:40,Arena Bercy,Barras assimétricas - Final,F
+04/8,Ginástica Artística,11:25,Arena Bercy,Salto - Final,M
+04/8,Golfe,04:00,Le Golf National,Rodada 4,M
+04/8,Handebol,04:00,Arena 6 Paris Sul,Suécia - Japão,M
+04/8,Handebol,06:00,Arena 6 Paris Sul,Egito- Argentinha,M
+04/8,Handebol,09:00,Arena 6 Paris Sul,Alemanha - Eslovênia,M
+04/8,Handebol,11:00,Arena 6 Paris Sul,Hungria - França,M
+04/8,Handebol,14:00,Arena 6 Paris Sul,Dinamarca - Noruega,M
+04/8,Handebol,16:00,Arena 6 Paris Sul,Espanha - Croácia,M
+04/8,Hipismo,05:00,Palácio de Versalhes,Adestramento Individual - GP - Livre,U
+04/8,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Quartas de Final,M
+04/8,Hóquei sobre Grama,07:30,Estádio Yves-du-Manoir,Quartas de Final,M
+04/8,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Quartas de Final,M
+04/8,Hóquei sobre Grama,15:00,Estádio Yves-du-Manoir,Quartas de Final,M
+04/8,Natação,13:30,Arena Paris La Défense,50m livre - Final,F
+04/8,Natação,13:36,Arena Paris La Défense,1500m livre - Final,M
+04/8,Natação,14:12,Arena Paris La Défense,Revesamento 4x100m Medley - Final,M
+04/8,Natação,14:35,Arena Paris La Défense,Revesamento 4x100m Medley - Final,F
+04/8,Polo Aquático,09:00,Centro Aquático,Hungria - Austrália,F
+04/8,Polo Aquático,09:00,Centro Aquático,Itália - Espanha,F
+04/8,Polo Aquático,09:00,Centro Aquático,Canadá - Países Baixos,F
+04/8,Polo Aquático,09:00,Centro Aquático,França - Grécia,F
+04/8,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
+04/8,Tênis,IDF,Stade Roland-Garros,Duplas - Disputa pelo Bronze,F
+04/8,Tênis,IDF,Stade Roland-Garros,Simples - Disputa pelo Ouro,M
+04/8,Tênis,IDF,Stade Roland-Garros,Duplas - Disputa pelo Ouro,F
+04/8,Tênis de Mesa,08:30,Arena 4 Paris Sul,Individual - Disputa pelo Bronze,M
+04/8,Tênis de Mesa,09:30,Arena 4 Paris Sul,Individual - Disputa pelo Ouro,M
+04/8,Tiro com Arco,04:30,Invalides,Individual - Oitavas de Final,M
+04/8,Tiro com Arco,08:00,Invalides,Individual - Quartas de Final,M
+04/8,Tiro com Arco,08:52,Invalides,Individual - Semifinal,M
+04/8,Tiro com Arco,09:33,Invalides,Individual - Disputa pelo Bronze,M
+04/8,Tiro com Arco,09:46,Invalides,Individual - Disputa pelo Ouro,M
+04/8,Tiro Esportivo,Pistola tiro rápido 25m - Classificação,M
+04/8,Tiro Esportivo,Skeet - Classificação - Dia 2,F
+04/8,Tiro Esportivo,Skeet - Final,F
+04/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 4,U
+04/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 5,U
+04/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 6,U
+04/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 7,M
+04/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 8,M
+04/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 7,F
+04/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 8,F
+04/8,Vela,IDF,Marina de Marselha,Kite - Prova 1,M
+04/8,Vela,IDF,Marina de Marselha,Kite - Prova 2,M
+04/8,Vela,IDF,Marina de Marselha,Kite - Prova 3,M
+04/8,Vela,IDF,Marina de Marselha,Kite - Prova 4,M
+04/8,Vela,IDF,Marina de Marselha,Kite - Prova 1,F
+04/8,Vela,IDF,Marina de Marselha,Kite - Prova 2,F
+04/8,Vela,IDF,Marina de Marselha,Kite - Prova 3,F
+04/8,Vela,IDF,Marina de Marselha,Kite - Prova 4,F
+04/8,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 5,U
+04/8,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 6,U
+04/8,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+04/8,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+04/8,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
+04/8,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,F
+04/8,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/8,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/8,Vôlei de Praia,08:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/8,Vôlei de Praia,09:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/8,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/8,Vôlei de Praia,13:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/8,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/8,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+
+
+
+
+
 
 
 
