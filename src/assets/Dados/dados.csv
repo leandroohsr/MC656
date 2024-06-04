@@ -97,1397 +97,1387 @@ Dia,Modalidade,Horario,Local,Evento,Genero
 28/07/2024,Boxe,15:16,Arena Norte de Paris,92 kg - Oitavas de Final,M
 28/07/2024,Boxe,16:04,Arena Norte de Paris,50 kg - Primeira Fase Preliminar,F
 28/07/2024,Boxe,16:36,Arena Norte de Paris,66 kg - Primeira Fase Preliminar,F
-28/7,Canoagem Slalom,10:30,Est.Náutico Água Branca,Caiaque Individual Feminino - Semifinal,F
-28/7,Canoagem Slalom,12:45,Est.Náutico Água Branca,Caiaque Individual Feminino - Final,F
-28/7,Ciclismo Mountain Bike,9:10,Eleancourt Hill,Cross-Country,F
-28/7,Esgrima,04:30,Grand Palais,Florete Individual - Primeira Fase,F
-28/7,Esgrima,05:00,Grand Palais,Florete Individual - Primeira Fase,M
-28/7,Esgrima,05:25,Grand Palais,Florete Individual - Segunda Fase,F
-28/7,Esgrima,07:25,Grand Palais,Espada Individual - Segunda Fase,M
-28/7,Esgrima,09:05,Grand Palais,Florete Individual - Oitavas de Final,F
-28/7,Esgrima,10:05,Grand Palais,Espada Individual - Oitavas de Final,M
-28/7,Esgrima,10:55,Grand Palais,Florete Individual - Quartas de Final,F
-28/7,Esgrima,11:25,Grand Palais,Espada Individual - Quartas de Final,M
-28/7,Esgrima,14:00,Grand Palais,Florete Individual - Semifinal 1,F
-28/7,Esgrima,14:30,Grand Palais,Florete Individual - Semifinal 2,F
-28/7,Esgrima,15:00,Grand Palais,Espada Individual - Semifinal 1,M
-28/7,Esgrima,15:25,Grand Palais,Espada Individual - Semifinal 2,M
-28/7,Esgrima,15:50,Grand Palais,Florete Individual - Disputa de Bronze,F
-28/7,Esgrima,16:20,Grand Palais,Espada Individual - Disputa de Bronze,M
-28/7,Esgrima,16:45,Grand Palais,Florete Individual - Disputa de Ouro,F
-28/7,Esgrima,17;15,Grand Palais,Espada Individual - Disputa de Ouro,M
-28/7,Futebol,12:00,Parc des Princes,Brasil - Japão,F
-28/7,Futebol,12:00,Estádio de Lyon,Nova Zelândia - Colômbia,F
-28/7,Futebol,14:00,Estádio La Beaujoire,Espanha - CAF 1,F
-28/7,Futebol,14:00,Estádio de Nice,Austrália - CAF 2,F
-28/7,Futebol,16:00,Estádio Geoffroy-Guichard,França - Canadá,F
-28/7,Futebol,16:00,Estádio de Marselha,EUA - Alemanha,F
-28/7,Ginástica Artística,04:30,Arena Bercy,Classificatória - Subdivisão 1,F
-28/7,Ginástica Artística,06:40,Arena Bercy,Classificatória - Subdivisão 2,F
-28/7,Ginástica Artística,09:50,Arena Bercy,Classificatória - Subdivisão 3,F
-28/7,Ginástica Artística,13:00,Arena Bercy,Classificatória - Subdivisão 4,F
-28/7,Ginástica Artística,16:10,Arena Bercy,Classificatória - Subdivisão 5,F
-28/7,Handebol,04:00,Arena 6 Paris Sul,Rodada Preliminar - Brasil - Hungria,F
-28/7,Handebol,06:00,Arena 6 Paris Sul,Rodada Preliminar - República da Coréia - Eslovênia,F
-28/7,Handebol,09:00,Arena 6 Paris Sul,Rodada Preliminar - Suécia - Alemanha,F
-28/7,Handebol,11:00,Arena 6 Paris Sul,Rodada Preliminar - Dinamarca - Noruega,F
-28/7,Handebol,14:00,Arena 6 Paris Sul,Rodada Preliminar - Angola - Espanha,F
-28/7,Handebol,16:00,Arena 6 Paris Sul,Rodada Preliminar - França - Países Baixos,F
-28/7,Hipismo,05:30,Palácio de Versalhes,CCE por equipes - Cross-Country,U
-28/7,Hipismo,08:00,Palácio de Versalhes,CCE individual - Cross-Country,U
-28/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Fase de Grupos - Bélgica - China,F
-28/7,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Fase de Grupos - Alemanha - Japão,F
-28/7,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Fase de Grupos - Austrália - África do Sul,F
-28/7,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Fase de Grupos - Grã-Bretanha - Espanha,F
-28/7,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,Fase de Grupos - Alemanha - Espanha,M
-28/7,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Fase de Grupos - Bélgica - Nova Zelândia,M
-28/7,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Fase de Grupos - Países Baixos - França,M
-28/7,Hóquei sobre Grama,15:15,Estádio Yves-du-Manoir,Fase de Grupos - África do Sul - Grã-Bretanha,M
-28/7,Judô,05:00,Arena Champ-de-Mars,66 kg - Primeira Fase Eliminatória,M
-28/7,Judô,05:00,Arena Champ-de-Mars,52 kg - Primeira Fase Eliminatória,F
-28/7,Judô,05:28,Arena Champ-de-Mars,66 kg - Segunda Fase Eliminatória,M
-28/7,Judô,05:28,Arena Champ-de-Mars,66 kg - Quartas de Final,F
-28/7,Judô,07:20,Arena Champ-de-Mars,66 kg - Oitavas de Final,M
-28/7,Judô,08:16,Arena Champ-de-Mars,66 kg - Quartas de Final,M
-28/7,Judô,11:00,Arena Champ-de-Mars,66 kg - Repescagem,M
-28/7,Judô,11:17,Arena Champ-de-Mars,66 kg - Semifinais,M
-28/7,Judô,11:34,Arena Champ-de-Mars,52 kg - Repescagem,F
-28/7,Judô,11:51,Arena Champ-de-Mars,52 kg - Semifinais,F
-28/7,Judô,12:18,Arena Champ-de-Mars,66 kg - Disputa pelo Bronze A,M
-28/7,Judô,12:28,Arena Champ-de-Mars,66 kg - Disputa pelo Bronze B,M
-28/7,Judô,12:38,Arena Champ-de-Mars,66 kg - Final,M
-28/7,Judô,12:49,Arena Champ-de-Mars,52 kg - Disputa pelo Bronze A,F
-28/7,Judô,12:59,Arena Champ-de-Mars,52 kg - Disputa pelo Bronze B,F
-28/7,Judô,13:09,Arena Champ-de-Mars,52 kg - Final,F
-28/7,Natação,06:00,Arena Paris La Défense, 200m livre - Baterias,M
-28/7,Natação,06:00,Arena Paris La Défense, 400m Medley - Baterias,M
-28/7,Natação,06:00,Arena Paris La Défense, 100m peito - Baterias,F
-28/7,Natação,06:00,Arena Paris La Défense, 100m costas - Baterias,M
-28/7,Natação,06:00,Arena Paris La Défense, 200m livre - Baterias,F
-28/7,Natação,15:30,Arena Paris La Défense, 400m Medley - Final,M
-28/7,Natação,15:45,Arena Paris La Défense, 100m borboleta - Final,F
-28/7,Natação,15:51,Arena Paris La Défense, 200m livre - Semifinais,M
-28/7,Natação,16:15,Arena Paris La Défense, 100m peito - Semifinais,F
-28/7,Natação,16:37,Arena Paris La Défense, 100m costas - Semifinais,M
-28/7,Natação,16:54,Arena Paris La Défense, 100m peito - Final,M
-28/7,Natação,17:00,Arena Paris La Défense, 200m livre - Semifinais,Fase
-28/7,Polo Aquático,05:30,Centro Aquático,Austrália - Espanha,M
-28/7,Polo Aquático,07:05,Centro Aquático,Sérvia - Japão,M
-28/7,Polo Aquático,10:00,Centro Aquático,Itália - EUA,M
-28/7,Polo Aquático,11:35,Centro Aquático,Croácia - Montenegro,M
-28/7,Polo Aquático,14:30,Centro Aquático,França - Hungria,M
-28/7,Polo Aquático,16:05,Centro Aquático,Romênia - Grécia,M
-28/7,Remo,04:00,Est. Náutico - Água Plana,Sculls Individual - Repescagem,F
-28/7,Remo,04:36,Est. Náutico - Água Plana,Sculls Individual - Repescagem,M
-28/7,Remo,05:10,Est. Náutico - Água Plana,Sculls Duplo - Repescagem,F
-28/7,Remo,05:20,Est. Náutico - Água Plana,Sculls Duplo - Repescagem,M
-28/7,Remo,05:30,Est. Náutico - Água Plana,Par - Bateria,F
-28/7,Remo,06:00,Est. Náutico - Água Plana,Par - Bateria,M
-28/7,Remo,06:30,Est. Náutico - Água Plana,Sculls Duplo peso leve - Bateria,F
-28/7,Remo,07:00,Est. Náutico - Água Plana,Sculls Duplo peso leve - Bateria,M
-28/7,Remo,07:30,Est. Náutico - Água Plana,Quatro - Bateria,F
-28/7,Remo,07:50,Est. Náutico - Água Plana,Quatro - Bateria,M
-28/7,Rugby Sevens,10:30,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,11:00,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,11:30,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,12:00,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,12:30,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,13:00,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,14:00,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,14:30,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,15:00,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,15:30,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,16:00,Stade de France,Fase Preliminar,U
-28/7,Rugby Sevens,16:30,Stade de France,Fase Preliminar,U
-28/7,Skate,07:00,La Concorde 3,Street - Preliminar,F
-28/7,Skate,12:00,La Concorde 3,Street - Final,F
-28/7,Surfe,14:00,Teahupo'o - Taiti,Rodada 2,F
-28/7,Surfe,18:48,Teahupo'o - Taiti,Rodada 2,M
-28/7,Tênis,07:00,Stade Roland-Garros,MS 1ª Rodada/ FS 1ª Rodada,U
-28/7,Tênis,07:00,Stade Roland-Garros,MS & FS 1º Rodada/MD & FD 1ª Rodada,U
-28/7,Tênis,07:00,Stade Roland-Garros,MS & FS 1º Rodada/MD & FD 1ª Rodada,U
-28/7,Tênis,14:00,Stade Roland-Garros,MS & FS 1º Rodada/MD & FD 1ª Rodada,U
-28/7,Tênis,14:00,Stade Roland-Garros,MS 1ª Rodada/ FS 1ª Rodada,U
-28/7,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Primeira Fase,U
-28/7,Tênis de Mesa,11:00,Arena 4 Paris Sul,Duplas Mistas - Quartas de Final,U
-28/7,Tênis de Mesa,15:00,Arena 4 Paris Sul,Individual - Primeira Fase,U
-28/7,Tiro com Arco,04:30,Equipe - Oitavas de Final,F
-28/7,Tiro com Arco,09:15,Equipe - Quartas de Final,F
-28/7,Tiro com Arco,10:47,Equipe - Semifinais,F
-28/7,Tiro com Arco,11:48,Equipe - Disputa de Bronze,F
-28/7,Tiro com Arco,12:11,Equipe - Final,F
-28/7,Tiro Esportivo,04:15,Carabina de Ar 10m - Classificação,F
-28/7,Tiro Esportivo,04:30,Pistola de Ar 10m - Final,M
-28/7,Tiro Esportivo,06:15,Carabina de Ar 10m - Classificação,M
-28/7,Tiro Esportivo,07:00,Pistola de Ar 10m - Final,F
-28/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 1,F
-28/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 2,F
-28/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 3,M
-28/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 1,M
-28/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 2,M
-28/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 3,F
-28/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 4,M
-28/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 4,F
-28/7,Vela,IDF,Marina de Marselha,Skiff - Prova 1,F
-28/7,Vela,IDF,Marina de Marselha,Skiff - Prova 1,M
-28/7,Vela,IDF,Marina de Marselha,Skiff - Prova 2,F
-28/7,Vela,IDF,Marina de Marselha,Skiff - Prova 2,M
-28/7,Vela,IDF,Marina de Marselha,Skiff - Prova 3,F
-28/7,Vela,IDF,Marina de Marselha,Skiff - Prova 3,M
-28/7,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
-28/7,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
-28/7,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,M
-28/7,Vôlei,16:00,Arena 1 Paris Sul,Fase Preliminar,M
-28/7,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
-28/7,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Badminton,03:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
-29/7,Badminton,03:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
-29/7,Badminton,03:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
-29/7,Badminton,04:20,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
-29/7,Badminton,04:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-29/7,Badminton,04:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-29/7,Badminton,05:10,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-29/7,Badminton,05:10,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-29/7,Badminton,05:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-29/7,Badminton,06:00,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-29/7,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-29/7,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-29/7,Badminton,09:00,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
-29/7,Badminton,09:00,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
-29/7,Badminton,09:00,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-29/7,Badminton,09:50,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-29/7,Badminton,09:50,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-29/7,Badminton,09:50,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-29/7,Badminton,10:40,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-29/7,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-29/7,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-29/7,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-29/7,Badminton,14:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
-29/7,Badminton,14:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
-29/7,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-29/7,Badminton,15:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-29/7,Badminton,15:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-29/7,Badminton,15:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-29/7,Badminton,16:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-29/7,Badminton,16:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-29/7,Badminton,16:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-29/7,Badminton,17:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-29/7,Basquete,06:00,Estádio Pierre Mauroy,Nigéria - Austrália,F
-29/7,Basquete,08:30,Estádio Pierre Mauroy,Alemanha - Bélgica,F
-29/7,Basquete,12:15,Estádio Pierre Mauroy,Canadá - França,F
-29/7,Basquete,16:00,Estádio Pierre Mauroy,EUA - Japão,F
-29/7,Boxe,06:00,Arena Norte de Paris,60 kg - Oitavas de Final,F
-29/7,Boxe,06:48,Arena Norte de Paris,63,5 kg - Oitavas de Final,M
-29/7,Boxe,07:36,Arena Norte de Paris,92 kg - Oitavas de Final,M
-29/7,Boxe,10:30,Arena Norte de Paris,60 kg - Oitavas de Final,F
-29/7,Boxe,11:02,Arena Norte de Paris,63,5 kg - Oitavas de Final,M
-29/7,Boxe,11:50,Arena Norte de Paris,92 kg - Oitavas de Final,M
-29/7,Boxe,15:00,Arena Norte de Paris,60 kg - Oitavas de Final,F
-29/7,Boxe,15:48,Arena Norte de Paris,63,5 kg - Oitavas de Final,M
-29/7,Boxe,16:20,Arena Norte de Paris,92 kg - Oitavas de Final,M
-29/7,Canoagem Slalom,10:30,Est. Náutico Água Branca,Canoagem Individual - Semifinal,M
-29/7,Canoagem Slalom,12:20,Est. Náutico Água Branca,Canoagem Individual - Final,M
-29/7,Ciclismo Mountain Bike,09:10,Elancourt Hill,Cross-Country,M
-29/7,Esgrima,04:30,Grand Palais,Sabre Individual - Primeira Fase,F
-29/7,Esgrima,04:55,Grand Palais,Florete Individual - Primeira Fase,M
-29/7,Esgrima,05:25,Grand Palais,Sabre Individual - Segunda Fase,F
-29/7,Esgrima,07:05,Grand Palais,Florete Individual - Primeira Fase,M
-29/7,Esgrima,09:05,Grand Palais,Sabre Individual - Oitavas de Final,F
-29/7,Esgrima,09:55,Grand Palais,Florete Individual - Oitavas de Final,M
-29/7,Esgrima,10:55,Grand Palais,Sabre Individual - Quartas de Final,F
-29/7,Esgrima,11:20,Grand Palais,Florete Individual - Quartas de Final,M
-29/7,Esgrima,14:00,Grand Palais,Sabre Individual - Semifinal 1,F
-29/7,Esgrima,14:25,Grand Palais,Sabre Individual - Semifinal 2,F
-29/7,Esgrima,14:50,Grand Palais,Florete Individual - Semifinal 1,M
-29/7,Esgrima,15:20,Grand Palais,Florete Individual - Semifinal 2,M
-29/7,Esgrima,15:50,Grand Palais,Sabre Individual - Disputa de Bronze,F
-29/7,Esgrima,16:15,Grand Palais,Florete Individual - Disputa de Bronze,M
-29/7,Esgrima,16:45,Grand Palais,Sabre Individual - Disputa de Ouro,F
-29/7,Esgrima,17:10,Grand Palais,Florete Individual - Disputa de Ouro,M
-29/7,Ginástica Artística,12:30,Arena Bercy,Competição por equipes - Final,M
-29/7,Handebol,04:00,Arena 6 Paris Sul,Japão - Alemanha,M
-29/7,Handebol,06:00,Arena 6 Paris Sul,Eslovênia - Croácia,M
-29/7,Handebol,09:00,Arena 6 Paris Sul,Egito - Dinamarca,M
-29/7,Handebol,11:00,Arena 6 Paris Sul,Suécia - Espanha,M
-29/7,Handebol,14:00,Arena 6 Paris Sul,França - Noruega,M
-29/7,Handebol,16:00,Arena 6 Paris Sul,Argentinha - Hungria,M
-29/7,Hipismo,06:00,Palácio de Versalhes,CCE individual - Saltos - Classificatória,U
-29/7,Hipismo,07:15,Palácio de Versalhes,CCE por equipes - Saltos - Final,U
-29/7,Hipismo,10:00,Palácio de Versalhes,CCE individual - Saltos - Final,U
-29/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Irlanda - Austrália,M
-29/7,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Japão - China,F
-29/7,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Índia - Argentinha,M
-29/7,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Espanha - EUA,F
-29/7,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,Grã-Bretanha - Austrália,F
-29/7,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,África do Sul - Argentinha,F
-29/7,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Alemanha - Países Baixos,F
-29/7,Hóquei sobre Grama,15:15,Estádio Yves-du-Manoir,França - Bélgica,F
-29/7,Judô,05:00,Arena Champ-de-Mars,57 kg - Primeira Fase Eliminatória,F
-29/7,Judô,05:00,Arena Champ-de-Mars,73 kg - Primeira Fase Eliminatória,M
-29/7,Judô,05:28,Arena Champ-de-Mars,57 kg - Segunda Fase Eliminatória,F
-29/7,Judô,05:28,Arena Champ-de-Mars,73 kg - Segunda Fase Eliminatória,M
-29/7,Judô,07:20,Arena Champ-de-Mars,57 kg - Oitavas de Final,F
-29/7,Judô,07:20,Arena Champ-de-Mars,57 kg - Oitavas de Final,M
-29/7,Judô,08:16,Arena Champ-de-Mars,57 kg - Quartas de Final,F
-29/7,Judô,08:16,Arena Champ-de-Mars,73 kg - Quartas de Final,M
-29/7,Judô,11:00,Arena Champ-de-Mars,57 kg - Repescagem,F
-29/7,Judô,11:17,Arena Champ-de-Mars,57 kg - Semifinais,F
-29/7,Judô,11:34,Arena Champ-de-Mars,73 kg - Repescagem,M
-29/7,Judô,11:51,Arena Champ-de-Mars,57 kg - Semifinais,M
-29/7,Judô,12:18,Arena Champ-de-Mars,57 kg - Disputa pelo Bronze A,F
-29/7,Judô,12:28,Arena Champ-de-Mars,57 kg - Disputa pelo Bronze B,F
-29/7,Judô,12:38,Arena Champ-de-Mars,57 kg - Final,F
-29/7,Judô,12:49,Arena Champ-de-Mars,73 kg - Disputa pelo Bronze A,M
-29/7,Judô,12:59,Arena Champ-de-Mars,57 kg - Disputa pelo Bronze,M
-29/7,Judô,13:09,Arena Champ-de-Mars,57 kg - Final,M
-29/7,Natação,06:00,Arena Paris La Défense,400m Medley Individual - Baterias,F
-29/7,Natação,06:00,Arena Paris La Défense,100m costas Individual - Baterias,F
-29/7,Natação,06:00,Arena Paris La Défense,800m livre Individual - Baterias,M
-29/7,Natação,15:30,Arena Paris La Défense,400m Medley Individual - Final,F
-29/7,Natação,15:43,Arena Paris La Défense,200m livre Individual - Final,M
-29/7,Natação,16:00,Arena Paris La Défense,100m costas Individual - Semifinais,F
-29/7,Natação,16:22,Arena Paris La Défense,100m costas Individual - Final,M
-29/7,Natação,16:32,Arena Paris La Défense,100m peito Individual - Final,F
-29/7,Natação,16:48,Arena Paris La Défense,200m livre Individual - Final,F
-29/7,Polo Aquático,09:00,Centro Aquático,França - Itália,F
-29/7,Polo Aquático,10:35,Centro Aquático,EUA - Espanha,F
-29/7,Polo Aquático,13:30,Centro Aquático,China - Países Baixos,F
-29/7,Polo Aquático,15:05,Centro Aquático,Hungria - Canadá,F
-29/7,Remo,04:30,Est. Náutico - Água Plana,Sculls Indiv - Semifinais E/F 1,M
-29/7,Remo,04:42,Est. Náutico - Água Plana,Sculls Indiv - Semifinais E/F 2,M
-29/7,Remo,04:54,Est. Náutico - Água Plana,Sculls Indiv - Semifinais E/F 1,F
-29/7,Remo,05:06,Est. Náutico - Água Plana,Sculls Indiv - Semifinais E/F 2,F
-29/7,Remo,05:20,Est. Náutico - Água Plana,Par - Repescagem,M
-29/7,Remo,05:30,Est. Náutico - Água Plana,Par - Repescagem,F
-29/7,Remo,05:40,Est. Náutico - Água Plana,Sculls Duplo peso leve - Repescagem,M
-29/7,Remo,06:00,Est. Náutico - Água Plana,Sculls Duplo peso leve - Repescagem,F
-29/7,Remo,06:20,Est. Náutico - Água Plana,Sculls Quádruplo - Repescagem,M
-29/7,Remo,06:30,Est. Náutico - Água Plana,Sculls Quádruplo - Repescagem,F
-29/7,Remo,06:40,Est. Náutico - Água Plana,Oito - Bateria,M
-29/7,Remo,07:00,Est. Náutico - Água Plana,Oito - Bateria,F
-29/7,Rugby Sevens,09:00,Stade de France,Fase Preliminar,U
-29/7,Rugby Sevens,09:30,Stade de France,Fase Preliminar,U
-29/7,Rugby Sevens,10:00,Stade de France,Fase Preliminar,U
-29/7,Rugby Sevens,10:30,Stade de France,Fase Preliminar,U
-29/7,Rugby Sevens,11:00,Stade de France,Fase Preliminar,U
-29/7,Rugby Sevens,11:30,Stade de France,Fase Preliminar,U
-29/7,Rugby Sevens,15:00,Stade de France,Colocação 9-12 lugar,F
-29/7,Rugby Sevens,15:30,Stade de France,Colocação 9-12 lugar,F
-29/7,Rugby Sevens,16:00,Stade de France,Quartas de Final,F
-29/7,Rugby Sevens,16:30,Stade de France,Quartas de Final,F
-29/7,Rugby Sevens,17:00,Stade de France,Quartas de Final,F
-29/7,Rugby Sevens,17:30,Stade de France,Quartas de Final,F
-29/7,Saltos Ornamentais,06:00,Centro Aquático,Plataforma 10m sincronizado - Final,M
-29/7,Surfe,14:00,Teahupo'o - Taiti,Rodada 3,M
-29/7,Surfe,18:48,Teahupo'o - Taiti,Rodada 3,F
-29/7,Tênis,07:00,Stade Roland-Garros,MS 2ª Rodada/ FS 2ª Rodada,U
-29/7,Tênis,07:00,Stade Roland-Garros,MS & FS 2ªRd/ MD & FD 2ªRd/ XD 1ªRd,U
-29/7,Tênis,07:00,Stade Roland-Garros,MS & FS 2ªRd/ MD & FD 2ªRd/ XD 1ªRd,U
-29/7,Tênis,07:00,Stade Roland-Garros,MS & FS 2ªRd/ MD & FD 2ªRd/ XD 1ªRd,U
-29/7,Tênis,14:00,Stade Roland-Garros,MS Second Rnd/WS Second Rnd,U
-29/7,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Primeira Fase,U
-29/7,Tênis de Mesa,12:00,Arena 4 Paris Sul,Duplas Mistas - Semifinal,U
-29/7,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Segunda Fase,U
-29/7,Tiro com Arco,04:30,Invalides,Equipe Masculina - Oitavas de Final,M
-29/7,Tiro com Arco,09:15,Invalides,Equipe Masculina - Quartas de Final,M
-29/7,Tiro com Arco,10:47,Invalides,Equipe Masculina - Semifinais,M
-29/7,Tiro com Arco,11:48,Invalides,Equipe Masculina - Disputa de Bronze,M
-29/7,Tiro com Arco,12:11,Invalides,Equipe Masculina - Disputa de Ouro,M
-29/7,Tiro Esportivo,04:00,Trap - Classificação - Dia 1,M
-29/7,Tiro Esportivo,04:15,C. Pistola de Ar 10m E. Mista - Parte 1,U
-29/7,Tiro Esportivo,04:30,Carabina de Ar 10m - Final,F
-29/7,Tiro Esportivo,07:00,Carabina de Ar 10m - Final,M
-29/7,Vela,IDF,Marina de Marselha,Skiff - Prova 4,F
-29/7,Vela,IDF,Marina de Marselha,Skiff - Prova 5,F
-29/7,Vela,IDF,Marina de Marselha,Skiff - Prova 6,F
-29/7,Vela,IDF,Marina de Marselha,Skiff - Prova 4,M
-29/7,Vela,IDF,Marina de Marselha,Skiff - Prova 5,M
-29/7,Vela,IDF,Marina de Marselha,Skiff - Prova 6,M
-29/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 5,F
-29/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 5,M
-29/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 6,F
-29/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 6,M
-29/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 7,F
-29/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 7,M
-29/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 8,F
-29/7,Vela,IDF,Marina de Marselha,Windsurfing - Prova 8,M
-29/7,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
-29/7,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
-29/7,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
-29/7,Vôlei,16:00,Arena 1 Paris Sul,Fase Preliminar,F
-29/7,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
-29/7,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,04:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,04:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-30/7,Badminton,04:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-30/7,Badminton,05:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-30/7,Badminton,05:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-30/7,Badminton,05:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-30/7,Badminton,06:00,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-30/7,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-30/7,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-30/7,Badminton,09:00,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-30/7,Badminton,09:00,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-30/7,Badminton,09:00,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-30/7,Badminton,09:50,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-30/7,Badminton,09:50,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-30/7,Badminton,09:50,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-30/7,Badminton,10:40,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,10:40,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,10:40,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-30/7,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-30/7,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-30/7,Badminton,15:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-30/7,Badminton,15:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
-30/7,Badminton,15:20,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-30/7,Badminton,16:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
-30/7,Badminton,16:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-30/7,Badminton,16:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-30/7,Badminton,17:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-30/7,Basquete,06:00,Estádio Pierre Mauroy,Vencedor OQT ESP - Vencedor OQT GRE,M
-30/7,Basquete,08:30,Estádio Pierre Mauroy,Canadá - Austrália,M
-30/7,Basquete,12:15,Estádio Pierre Mauroy,Japão - França,M
-30/7,Basquete,16:00,Estádio Pierre Mauroy,Vencedor OQT LAT - Alemanha,M
-30/7,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,F
-30/7,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
-30/7,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
-30/7,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
-30/7,Basquete 3x3,16:00,La Concorde 1,Fase de Grupos,F
-30/7,Basquete 3x3,16:30,La Concorde 1,Fase de Grupos,F
-30/7,Basquete 3x3,17:05,La Concorde 1,Fase de Grupos,M
-30/7,Basquete 3x3,17:35,La Concorde 1,Fase de Grupos,M
-30/7,Boxe,06:00,Arena Norte de Paris,51 kg - Oitavas de Final,M
-30/7,Boxe,06:48,Arena Norte de Paris,80 kg - Oitavas de Final,M
-30/7,Boxe,07:20,Arena Norte de Paris,54 kg - Oitavas de Final,F
-30/7,Boxe,08:08,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,F
-30/7,Boxe,10:30,Arena Norte de Paris,51 kg - Oitavas de Final,M
-30/7,Boxe,11:18,Arena Norte de Paris,80 kg - Oitavas de Final,M
-30/7,Boxe,11:50,Arena Norte de Paris,54 kg - Oitavas de Final,F
-30/7,Boxe,12:38,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,F
-30/7,Boxe,15:00,Arena Norte de Paris,51 kg - Oitavas de Final,M
-30/7,Boxe,15:32,Arena Norte de Paris,80 kg - Oitavas de Final,M
-30/7,Boxe,16:36,Arena Norte de Paris,54 kg - Oitavas de Final,F
-30/7,Boxe,17:08,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,F
-30/7,Canoagem Slalom,10:00,Est. Náutico Água Branca,Canoagem Individual Heats - Primeira Run,F
-30/7,Canoagem Slalom,11:00,Est. Náutico Água Branca,Caiaque Individual Heats - Primeira Run,M
-30/7,Canoagem Slalom,12:10,Est. Náutico Água Branca,Canoagem Individual Heats - Segunda Run,F
-30/7,Canoagem Slalom,13:10,Est. Náutico Água Branca,Caiaque Individual Heats - Segunda Run,M
-30/7,Ciclismo BMX Freestyle,08:25,La Concorde 2,Park - Classificação,F
-30/7,Ciclismo BMX Freestyle,08:25,La Concorde 2,Park - Classificação,M
-30/7,Esgrima,08:30,Grand Palais,Espada por equipes - Quartas de Final,F
-30/7,Esgrima,10:00,Grand Palais,Espada por equipes - Classificação 5-8 lugar,F
-30/7,Esgrima,10:50,Grand Palais,Espada por equipes - Semifinal 1,F
-30/7,Esgrima,10:50,Grand Palais,Espada por equipes - Semifinal 2,F
-30/7,Esgrima,11:40,Grand Palais,Espada por equipes - Classificação 7-8 lugar,F
-30/7,Esgrima,11:40,Grand Palais,Espada por equipes - Classificação 5-6 lugar,F
-30/7,Esgrima,14:30,Grand Palais,Espada por equipes - Disputa por Bronze,F
-30/7,Esgrima,15:30,Grand Palais,Espada por equipes - Disputa por Ouro,F
-30/7,Futebol,10:00,Parc des Princes,República Dominicana - Uzbequistão,M
-30/7,Futebol,10:00,Estádio Bordeaux,Espanha - Egito,M
-30/7,Futebol,12:00,Estádio de Lyon,Ucrânia - Argentinha,M
-30/7,Futebol,12:00,Estádio de Nice,Marrocos - Iraque,M
-30/7,Futebol,14:00,Estádio Geoffroy-Guichard,EUA - Guiné,M
-30/7,Futebol,14:00,Estádio de Marselha,Nova Zelândia - França,M
-30/7,Futebol,16:00,Parc des Princes,Paraguai - Mali,M
-30/7,Futebol,16:00,Estádio de La Beaujoire,Israel - Japão,M
-30/7,Ginástica Artística,13:15,Arena Bercy,Competição por equipes - Final,F
-30/7,Handebol,04:00,Arena 6 Paris Sul,Alemanha - Eslovênia,F
-30/7,Handebol,06:00,Arena 6 Paris Sul,Noruega - República da Coréia do Sul,F
-30/7,Handebol,09:00,Arena 6 Paris Sul,Países Baixos - Espanha,F
-30/7,Handebol,11:00,Arena 6 Paris Sul,Hungria - Angola,F
-30/7,Handebol,14:00,Arena 6 Paris Sul,França - Brasil,F
-30/7,Handebol,16:00,Arena 6 Paris Sul,Suécia - Dinamarca,F
-30/7,Hipismo,06:00,Palácio de Versalhes,Adestramento por equipes - GP - Dia 1,U
-30/7,Hipismo,06:00,Palácio de Versalhes,Adestramento Individual - Grande Prêmio Dia 1,U
-30/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Espanha - França,M
-30/7,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,África do Sul - Alemanha,M
-30/7,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Grã-Bretanha - Países Baixos,M
-30/7,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Irlanda - Índia,M
-30/7,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,Argentinha - Nova Zelândia,M
-30/7,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Austrália - Bélgica,M
-30/7,Judô,05:00,Arena Champ-de-Mars,81 kg - Primeira Fase Eliminatória,M
-30/7,Judô,05:00,Arena Champ-de-Mars,63 kg - Primeira Fase Eliminatória,F
-30/7,Judô,05:28,Arena Champ-de-Mars,81 kg - Segunda Fase Eliminatória,M
-30/7,Judô,05:28,Arena Champ-de-Mars,63 kg - Segunda Fase Eliminatória,F
-30/7,Judô,07:20,Arena Champ-de-Mars,81 kg - Oitavas de Final,M
-30/7,Judô,07:20,Arena Champ-de-Mars,63 kg - Oitavas de Final,F
-30/7,Judô,08:16,Arena Champ-de-Mars,81 kg - Quartas de Final,M
-30/7,Judô,08:16,Arena Champ-de-Mars,63 kg - Quartas de Final,F
-30/7,Judô,11:00,Arena Champ-de-Mars,81 kg - Repescagem,M
-30/7,Judô,11:17,Arena Champ-de-Mars,81 kg - Semifinais,M
-30/7,Judô,11:34,Arena Champ-de-Mars,63 kg - Repescagem,F
-30/7,Judô,11:51,Arena Champ-de-Mars,63 kg - Semifinais,F
-30/7,Judô,12:18,Arena Champ-de-Mars,81 kg - Disputa pelo Bronze A,M
-30/7,Judô,12:28,Arena Champ-de-Mars,81 kg - Disputa pelo Bronze B,M
-30/7,Judô,12:38,Arena Champ-de-Mars,81 kg - Final,M
-30/7,Judô,12:49,Arena Champ-de-Mars,63 kg - Disputa pelo Bronze A,F
-30/7,Judô,12:59,Arena Champ-de-Mars,63 kg - Disputa pelo Bronze B,F
-30/7,Judô,12:09,Arena Champ-de-Mars,63 kg - Final,F
-30/7,Natação,06:00,Arena Paris La Défense,200m borboleta - Baterias,M
-30/7,Natação,06:00,Arena Paris La Défense,100m livre - Baterias,M
-30/7,Natação,06:00,Arena Paris La Défense,1500m livre - Baterias,F
-30/7,Natação,06:00,Arena Paris La Défense,100m livre - Baterias,F
-30/7,Natação,06:00,Arena Paris La Défense,200m peito - Baterias,M
-30/7,Natação,06:00,Arena Paris La Défense,Revesamento 4x200m livre - Baterias,M
-30/7,Natação,15:30,Arena Paris La Défense,100m livre - Semifinais,M
-30/7,Natação,15:41,Arena Paris La Défense,200m borboleta - Semifinais,M
-30/7,Natação,15:57,Arena Paris La Défense,100m costas - Final,F
-30/7,Natação,16:03,Arena Paris La Défense,800m livre - Final,M
-30/7,Natação,16:25,Arena Paris La Défense,100m livre - Semifinais,F
-30/7,Natação,16:46,Arena Paris La Défense,200m peito - Semifinais,M
-30/7,Natação,16:59,Arena Paris La Défense,Revesamento 4x200m livre - Final,M
-30/7,Polo Aquático,05:30,Centro Aquático,Austrália - Sérvia,M
-30/7,Polo Aquático,07:05,Centro Aquático,Croácia - Itália,M
-30/7,Polo Aquático,10:00,Centro Aquático,Japão - França,M
-30/7,Polo Aquático,11:35,Centro Aquático,EUA - Romênia,M
-30/7,Polo Aquático,14:30,Centro Aquático,Montenegro - Grécia,M
-30/7,Polo Aquático,16:05,Centro Aquático,Espanha - Hungria,M
-30/7,Remo,04:30,Est. Náutico - Água Plana,Sculls Indiv - Quartas de final,F
-30/7,Remo,05:10,Est. Náutico - Água Plana,Sculls Indiv - Quartas de final,M
-30/7,Remo,05:50,Est. Náutico - Água Plana,Sculls Duplo - Semifinal A/B 1,F
-30/7,Remo,06:00,Est. Náutico - Água Plana,Sculls Duplo - Semifinal A/B 2,F
-30/7,Remo,06:10,Est. Náutico - Água Plana,Sculls Duplo - Semifinal A/B 1,M
-30/7,Remo,06:20,Est. Náutico - Água Plana,Sculls Duplo - Semifinal A/B 2,M
-30/7,Remo,06:30,Est. Náutico - Água Plana,Quatro - Repescagem,F
-30/7,Remo,06:40,Est. Náutico - Água Plana,Quatro - Repescagem,M
-30/7,Rugby Sevens,09:30,Stade de France,Colocação 5-8 lugar,F
-30/7,Rugby Sevens,10:00,Stade de France,Colocação 5-8 lugar,F
-30/7,Rugby Sevens,10:30,Stade de France,Semifinal,F
-30/7,Rugby Sevens,11:00,Stade de France,Semifinal,F
-30/7,Rugby Sevens,11:30,Stade de France,Colocação 11-12 lugar,F
-30/7,Rugby Sevens,12:00,Stade de France,Colocação 9-10 lugar,F
-30/7,Rugby Sevens,13:00,Stade de France,Colocação 7-8 lugar,F
-30/7,Rugby Sevens,13:30,Stade de France,Colocação 5-6 lugar,F
-30/7,Rugby Sevens,14:00,Stade de France,Disputa pela medalha de Bronze,F
-30/7,Rugby Sevens,14:45,Stade de France,Disputa pela medalha de Ouro,F
-30/7,Surfe,14:00,Teahupo'o - Taiti,Quartas de Final,M
-30/7,Surfe,16:24,Teahupo'o - Taiti,Quartas de Final,F
-30/7,Surfe,18:48,Teahupo'o - Taiti,Semifinal,M
-30/7,Surfe,20:00,Teahupo'o - Taiti,Semifinal,F
-30/7,Surfe,21:12,Teahupo'o - Taiti,Disputa pela medalha de Bronze,M
-30/7,Surfe,21:53,Teahupo'o - Taiti,Disputa pela medalha de Bronze,F
-30/7,Surfe,22:34,Teahupo'o - Taiti,Disputa pela medalha de Ouro,M
-30/7,Surfe,23:15,Teahupo'o - Taiti,Disputa pela medalha de Ouro,F
-30/7,Tênis,07:00,Stade Roland-Garros,MS 2ª Rodada/ FS 2ª Rodada,U
-30/7,Tênis,07:00,Stade Roland-Garros,MS R2/ FS R3/ MD R3/ FD R2/ XD R1,U
-30/7,Tênis,07:00,Stade Roland-Garros,MS R2/ FS R3/ MD R3/ FD R2/ XD R2,U
-30/7,Tênis,07:00,Stade Roland-Garros,MS R2/ FS R3/ MD R3/ FD R2/ XD R3,U
-30/7,Tênis,14:00,Stade Roland-Garros,MS 2ª Rodada/ FS 3ª Rodada,U
-30/7,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Segunda Fase,U
-30/7,Tênis de Mesa,05:00,Arena 4 Paris Sul,Duplas Mistas - Disputa pelo Bronze,U
-30/7,Tênis de Mesa,05:00,Arena 4 Paris Sul,Duplas Mista - Disputa pelo Ouro,U
-30/7,Tiro com Arco,07:00,Individual - Primeira Fase Eliminatória,M
-30/7,Tiro com Arco,07:26,Individual - Primeira Fase Eliminatória,F
-30/7,Tiro com Arco,07:52,Individual - Segunda Fase Eliminatória,M
-30/7,Tiro com Arco,08:05,Individual - Segunda Fase Eliminatória,F
-30/7,Tiro com Arco,12:45,Individual - Primeira Fase Eliminatória,M
-30/7,Tiro com Arco,13:11,Individual - Primeira Fase Eliminatória,F
-30/7,Tiro com Arco,13:37,Individual - Segunda Fase Eliminatória,M
-30/7,Tiro com Arco,13:50,Individual - Segunda Fase Eliminatória,F
-30/7,Tiro Esportivo,IDF,Ctr. de Tiro Chateauroux,Trap - Classificação - Dia 2,M
-30/7,Tiro Esportivo,IDF,Ctr. de Tiro Chateauroux,Trap - Classificação - Dia 1,F
-30/7,Tiro Esportivo,04:30,Ctr. de Tiro Chateauroux,Pist de Ar 10m Equipe Mista - Bronze,U
-30/7,Tiro Esportivo,05:00,Ctr. de Tiro Chateauroux,Pistola de Ar 10m Equipe Mista - Ouro,U
-30/7,Tiro Esportivo,10:30,Ctr. de Tiro Chateauroux,Trap - Final,M
-30/7,Triatlo,03:00,Ponte Alexandre III,Individual,M
-30/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 9,F
-30/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 10,F
-30/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 11,F
-30/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 12,F
-30/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 9,M
-30/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 10,M
-30/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 11,M
-30/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 12,M
-30/7,Vela,IDF,Marina de Marselha,Skiff - Prova 7,F
-30/7,Vela,IDF,Marina de Marselha,Skiff - Prova 8,F 
-30/7,Vela,IDF,Marina de Marselha,Skiff - Prova 9,F 
-30/7,Vela,IDF,Marina de Marselha,Skiff - Prova 7,M 
-30/7,Vela,IDF,Marina de Marselha,Skiff - Prova 8,M 
-30/7,Vela,IDF,Marina de Marselha,Skiff - Prova 9,M
-30/7,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
-30/7,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
-30/7,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
-30/7,Vôlei,16:00,Arena 1 Paris Sul,Fase Preliminar,F
-30/7,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
-31/7,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,04:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,04:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,04:20,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,05:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,05:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,05:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,09:00,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,09:00,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,09:00,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,09:50,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,09:50,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,09:50,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
-31/7,Badminton,14:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,15:20,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,15:20,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
-31/7,Badminton,15:20,Arena La Chapelle,Duplas Mistas - Quartas de Final,U
-31/7,Badminton,16:10,Arena La Chapelle,Duplas Mistas - Quartas de Final,U
-31/7,Badminton,16:10,Arena La Chapelle,Duplas Mistas - Quartas de Final,U
-31/7,Badminton,16:30,Arena La Chapelle,Duplas Mistas - Quartas de Final,U
-31/7,Basquete,06:00,Estádio Pierre Mauroy,Porto Rico - Espanha,F
-31/7,Basquete,08:30,Estádio Pierre Mauroy,China - Sérvia,F
-31/7,Basquete,12:15,Estádio Pierre Mauroy,Vencedor OQT PUR - Sérvia,M
-31/7,Basquete,16:00,Estádio Pierre Mauroy,EUA - Sudão do Sul,M
-31/7,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,F
-31/7,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
-31/7,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
-31/7,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
-31/7,Basquete 3x3,16:00,La Concorde 1,Fase de Grupos,F
-31/7,Basquete 3x3,16:30,La Concorde 1,Fase de Grupos,F
-31/7,Basquete 3x3,17:05,La Concorde 1,Fase de Grupos,M
-31/7,Basquete 3x3,17:35,La Concorde 1,Fase de Grupos,M
-31/7,Boxe,06:00,Arena Norte de Paris,57 kg - Oitavas de Final,M
-31/7,Boxe,06:32,Arena Norte de Paris,71 kg - Oitavas de Final,M
-31/7,Boxe,07:04,Arena Norte de Paris,75 kg - Oitavas de Final,F
-31/7,Boxe,08:08,Arena Norte de Paris,60 kg - Quartas de Final,F
-31/7,Boxe,10:30,Arena Norte de Paris,57 kg - Oitavas de Final,M
-31/7,Boxe,11:18,Arena Norte de Paris,71 kg - Oitavas de Final,M
-31/7,Boxe,12:06,Arena Norte de Paris,75 kg - Oitavas de Final,F
-31/7,Boxe,12:38,Arena Norte de Paris,60 kg - Quartas de Final,F
-31/7,Boxe,15:00,Arena Norte de Paris,57 kg - Oitavas de Final,M
-31/7,Boxe,15:48,Arena Norte de Paris,71 kg - Oitavas de Final,M
-31/7,Boxe,16:38,Arena Norte de Paris,75 kg - Oitavas de Final,F
-31/7,Boxe,17:08,Arena Norte de Paris,60 kg - Quartas de Final,F
-31/7,Canoagem Slalom,10:30,Est. Náutico Água Branca,Canoagem Individual - Semifinal,F
-31/7,Canoagem Slalom,12:25,Est. Náutico Água Branca,Canoagem Individual - Final,F
-31/7,Ciclismo BMX Freestyle,08:10,La Concorde 2,Park - Final,F
-31/7,Ciclismo BMX Freestyle,09:45,La Concorde 2,Park - Final,M
-31/7,Esgrima,08:30,Grand Palais,Sabre por equipes - Quartas de Final,M
-31/7,Esgrima,10:00,Grand Palais,Sabre por equipes - Classificação 5-8 lugar,M
-31/7,Esgrima,10:50,Grand Palais,Sabre por equipes - Semifinal 1,M
-31/7,Esgrima,10:50,Grand Palais,Sabre por equipes - Semifinal 2,M
-31/7,Esgrima,11:40,Grand Palais,Sabre por equipes - 7-8 lugar,M
-31/7,Esgrima,11:40,Grand Palais,Sabre por equipes - 5-6 lugar,M
-31/7,Esgrima,14:30,Grand Palais,Sabre por equipes - Disputa por Bronze,M
-31/7,Esgrima,15:30,Grand Palais,Sabre por equipes - Disputa por Ouro,M
-31/7,Futebol,12:00,Estádio La Beaujoire,Japão - Nigéria,F
-31/7,Futebol,12:00,Estádio Bordeaux,Brasil - Espanha,F
-31/7,Futebol,14:00,Estádio Geoffroy-Guichard,Zâmbia - Alemanha,F
-31/7,Futebol,14:00,Estádio de Marselha,Austrália - EUA,F
-31/7,Futebol,16:00,Estádio de Lyon,Nova Zelândia - França,F
-31/7,Futebol,16:00,Estádio de Nice,Colômbia - Canadá,F
-31/7,Ginástica Artística,12:30,Arena Bercy,Individual Geral - Final,M
-31/7,Handebol,04:00,Arena 6 Paris Sul,Noruega - Hungria,M
-31/7,Handebol,06:00,Arena 6 Paris Sul,Croácia - Alemanha,M
-31/7,Handebol,09:00,Arena 6 Paris Sul,Espanha - Japão,M
-31/7,Handebol,11:00,Arena 6 Paris Sul,Eslovênia - Suécia,M
-31/7,Handebol,14:00,Arena 6 Paris Sul,França - Egito,M
-31/7,Handebol,16:00,Arena 6 Paris Sul,Dinamarca - Argentinha,M
-31/7,Hipismo,05:00,Palácio de Versalhes,Adestramento por equipes - GP - Dia 1,U
-31/7,Hipismo,07:45,Palácio de Versalhes,Adestramento individual - GP - Dia 2,U
-31/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Argentinha - Espanha,F
-31/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,África do Sul - Grã-Bretanha,F
-31/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,França - Alemanha,F
-31/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Austrália - EUA,F
-31/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Bélgica - Japão,F
-31/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Alemanha - Países Baixos,M
-31/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Espanha - África do Sul,M
-31/7,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Países Baixos - China,F
-31/7,Judô,05:00,Arena Champ-de-Mars,70 kg - Primeira Fase Eliminatória,F
-31/7,Judô,05:00,Arena Champ-de-Mars,90 kg - Primeira Fase Eliminatória,M
-31/7,Judô,05:28,Arena Champ-de-Mars,70 kg - Segunda Fase Eliminatória,F
-31/7,Judô,05:28,Arena Champ-de-Mars,90 kg - Segunda Fase Eliminatória,M
-31/7,Judô,07:20,Arena Champ-de-Mars,70 kg - Oitavas de Final,F
-31/7,Judô,07:20,Arena Champ-de-Mars,90 kg - Oitavas de Final,M
-31/7,Judô,08:16,Arena Champ-de-Mars,70 kg - Quartas de Final,F
-31/7,Judô,08:16,Arena Champ-de-Mars,90 kg - Quartas de Final,M
-31/7,Judô,11:00,Arena Champ-de-Mars,70 kg - Repescagem,F
-31/7,Judô,11:17,Arena Champ-de-Mars,70 kg - Semifinais,F
-31/7,Judô,11:35,Arena Champ-de-Mars,90 kg - Repescagem,M
-31/7,Judô,11:51,Arena Champ-de-Mars,90 kg - Repescagem,M
-31/7,Judô,12:18,Arena Champ-de-Mars,70 kg - Disputa pelo Bronze A,F
-31/7,Judô,12:28,Arena Champ-de-Mars,70 kg - Disputa pelo Bronze B,F
-31/7,Judô,12:38,Arena Champ-de-Mars,70 kg - Final,F
-31/7,Judô,12:49,Arena Champ-de-Mars,90 kg - Disputa pelo Bronze A,M
-31/7,Judô,12:59,Arena Champ-de-Mars,90 kg - Disputa pelo Bronze B,M
-31/7,Judô,12:09,Arena Champ-de-Mars,90 kg - Final,M
-31/7,Natação,06:00,Arena Paris La Défense,200m peito - Baterias,F
-31/7,Natação,06:00,Arena Paris La Défense,200m costas - Baterias,M
-31/7,Natação,06:00,Arena Paris La Défense,200m borboleta - Baterias,F
-31/7,Natação,15:30,Arena Paris La Défense,100m livre - Final,F
-31/7,Natação,15:36,Arena Paris La Défense,200m borboleta - Final,F
-31/7,Natação,15:42,Arena Paris La Défense,200m borboleta - Semifinais,F
-31/7,Natação,16:04,Arena Paris La Défense,1500m livre - Final,F
-31/7,Natação,16:36,Arena Paris La Défense,200m costas - Semifinais,M
-31/7,Natação,16:46,Arena Paris La Défense,200m peito - Semifinais,F
-31/7,Natação,17:08,Arena Paris La Défense,200m peito - Final,M
-31/7,Natação,17:15,Arena Paris La Défense,100m livre - Final,M
-31/7,Polo Aquático,09:00,Centro Aquático,Países Baixos - Austrália,F
-31/7,Polo Aquático,10:35,Centro Aquático,Canadá - China,F
-31/7,Polo Aquático,13:30,Centro Aquático,Itália - EUA,F
-31/7,Polo Aquático,15:05,Centro Aquático,Espanha - Grécia,F
-31/7,Remo,04:30,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final C,M
-31/7,Remo,04:42,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final C,F
-31/7,Remo,04:54,Est. Náutico - Água Plana,Sculls Individual - Semifinais C/D 1,M
-31/7,Remo,05:04,Est. Náutico - Água Plana,Sculls Individual - Semifinais C/D 2,M
-31/7,Remo,05:14,Est. Náutico - Água Plana,Sculls Individual - Semifinais C/D 1,F
-31/7,Remo,05:24,Est. Náutico - Água Plana,Sculls Individual - Semifinais C/D 2,F
-31/7,Remo,05:34,Est. Náutico - Água Plana,Par - Semifinais A/B 1,M
-31/7,Remo,05:44,Est. Náutico - Água Plana,Par - Semifinais A/B 2,M
-31/7,Remo,05:54,Est. Náutico - Água Plana,Par - Semifinais A/B 1,F
-31/7,Remo,06:04,Est. Náutico - Água Plana,Par - Semifinais A/B 2,F
-31/7,Remo,06:14,Est. Náutico - Água Plana,Sculls Duplo peso leve - Semifinais A/B 1,M
-31/7,Remo,06:24,Est. Náutico - Água Plana,Sculls Duplo peso leve - Semifinais A/B 2,M
-31/7,Remo,06:34,Est. Náutico - Água Plana,Sculls Duplo peso leve - Semifinais A/B 1,F
-31/7,Remo,06:44,Est. Náutico - Água Plana,Sculls Duplo peso leve - Semifinais A/B 2,F
-31/7,Remo,07:02,Est. Náutico - Água Plana,Sculls Quádruplo - Final B,M
-31/7,Remo,07:14,Est. Náutico - Água Plana,Sculls Quádruplo - Final B,F
-31/7,Remo,07:26,Est. Náutico - Água Plana,Sculls Quádruplo - Final A,M
-31/7,Remo,07:38,Est. Náutico - Água Plana,Sculls Quádruplo - Final A,F
-31/7,Saltos Ornamentais,06:00,Centro Aquático,Plataforma 10m sincronizada - Final,F
-31/7,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
-31/7,Tênis,07:00,Stade Roland-Garros,MS 3ª Rodada/ FS Quartas de final,U
-31/7,Tênis,07:00,Stade Roland-Garros,MS 3ª Rd/ FS QF/ MD SF/ FD QF/ XD QF,U
-31/7,Tênis,07:00,Stade Roland-Garros,MS 3ª Rd/ MD SF/ FD QF/ XD QF,U
-31/7,Tênis,07:00,Stade Roland-Garros,MS 3ª Rd/ FD QF/ XD QF,U
-31/7,Tênis,14:00,Stade Roland-Garros,MS 3ª Rodada/ FS Quartas de final,U
-31/7,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Segunda Fase,U
-31/7,Tênis de Mesa,10:00,Arena 4 Paris Sul,Individual - Oitavas de Final,U
-31/7,Tênis de Mesa,15:00,Arena 4 Paris Sul,Individual - Oitavas de Final,U
-31/7,Tiro com Arco,07:00,Invalides,Individual - Primeira Fase Eliminatória,M
-31/7,Tiro com Arco,07:26,Invalides,Individual - Primeira Fase Eliminatória,F
-31/7,Tiro com Arco,07:52,Invalides,Individual - Segunda Fase Eliminatória,M
-31/7,Tiro com Arco,08:05,Invalides,Individual - Segunda Fase Eliminatória,F
-31/7,Tiro com Arco,12:45,Invalides,Individual - Primeira Fase Eliminatória,M
-31/7,Tiro com Arco,13:11,Invalides,Individual - Primeira Fase Eliminatória,F
-31/7,Tiro com Arco,13:37,Invalides,Individual - Segunda Fase Eliminatória,M
-31/7,Tiro com Arco,13:50,Invalides,Individual - Segunda Fase Eliminatória,F
-31/7,Tiro Esportivo,04:00,Carabina 50m 3 posições - Classificatória,M
-31/7,Tiro Esportivo,04:00,Trap - Classificatória,F
-31/7,Tiro Esportivo,10:30,Trap - Final,F
-31/7,Triatlo,03:00,Ponte Alexandre III,Individual,F
-31/7,Vela,IDF,Marina de Marselha,Skiff - Prova 10,F
-31/7,Vela,IDF,Marina de Marselha,Skiff - Prova 11,F
-31/7,Vela,IDF,Marina de Marselha,Skiff - Prova 12,F
-31/7,Vela,IDF,Marina de Marselha,Skiff - Prova 10,M
-31/7,Vela,IDF,Marina de Marselha,Skiff - Prova 11,M
-31/7,Vela,IDF,Marina de Marselha,Skiff - Prova 12,M
-31/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 13,M
-31/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 14,M
-31/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 15,M
-31/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 16,M
-31/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 13,F
-31/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 14,F
-31/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 15,F
-31/7,Vela,07:00,Marina de Marselha,Windsurfing - Prova 16,F
-30/7,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
-30/7,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
-30/7,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
-30/7,Vôlei,16:00,Arena 1 Paris Sul,Fase Preliminar,F
-30/7,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
-30/7,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Atletismo,02:30,Trocadeiro,Marcha Atlética 20 km,M
-01/8,Atletismo,04:20,Trocadeiro,Marcha Atlética 20 km,F
-01/8,Badminton,03:30,Duplas Femininas - Quartas de Final,F
-01/8,Badminton,03:30,Duplas Femininas - Quartas de Final,F
-01/8,Badminton,03:30,Duplas Femininas - Quartas de Final,F
-01/8,Badminton,04:40,Simples Masculino - Oitavas de Final,M
-01/8,Badminton,04:40,Simples Masculino - Oitavas de Final,M
-01/8,Badminton,04:40,Duplas Femininas - Quartas de Final,F
-01/8,Badminton,08:00,Duplas Masculinas - Quartas de Final,M
-01/8,Badminton,08:00,Duplas Masculinas - Quartas de Final,M
-01/8,Badminton,08:00,Simples Masculino - Oitavas de Final,M
-01/8,Badminton,09:10,Simples Masculino - Oitavas de Final,M
-01/8,Badminton,09:10,Simples Masculino - Quartas de Final,M
-01/8,Badminton,09:10,Duplas Masculinas - Quartas de Final,M
-01/8,Badminton,10:20,Simples Masculino - Oitavas de Final,M
-01/8,Badminton,13:30,Simples Feminino - Oitavas de Final,F
-01/8,Badminton,13:30,Simples Feminino - Oitavas de Final,F
-01/8,Badminton,13:30,Simples Feminino - Oitavas de Final,F
-01/8,Badminton,14:30,Simples Feminino - Oitavas de Final,F
-01/8,Badminton,14:30,Simples Feminino - Oitavas de Final,F
-01/8,Badminton,14:30,Duplas Mistas - Semifinal,U
-01/8,Badminton,15:30,Duplas Mistas - Semifinal,U
-01/8,Basquete,06:00,Estádio Pierre Mauroy,Japão - Alemanha,F
-01/8,Basquete,08:30,Estádio Pierre Mauroy,Austrália - Canadá,F
-01/8,Basquete,12:15,Estádio Pierre Mauroy,França - Nigéria,F
-01/8,Basquete,16:00,Estádio Pierre Mauroy,Bélgica - EUA,F
-01/8,Basquete 3x3,04:00,La Concorde 1,Fase de Grupos,F
-01/8,Basquete 3x3,04:30,La Concorde 1,Fase de Grupos,F
-01/8,Basquete 3x3,05:05,La Concorde 1,Fase de Grupos,M
-01/8,Basquete 3x3,05:35,La Concorde 1,Fase de Grupos,M
-01/8,Basquete 3x3,07:30,La Concorde 1,Fase de Grupos,F
-01/8,Basquete 3x3,08:00,La Concorde 1,Fase de Grupos,F
-01/8,Basquete 3x3,08:35,La Concorde 1,Fase de Grupos,M
-01/8,Basquete 3x3,09:05,La Concorde 1,Fase de Grupos,M
-01/8,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
-01/8,Basquete 3x3,13:30,La Concorde 1,Fase de Grupos,F
-01/8,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
-01/8,Basquete 3x3,14:35,La Concorde 1,Fase de Grupos,M
-01/8,Basquete 3x3,16:30,La Concorde 1,Fase de Grupos,F
-01/8,Basquete 3x3,17:00,La Concorde 1,Fase de Grupos,F
-01/8,Basquete 3x3,17:35,La Concorde 1,Fase de Grupos,M
-01/8,Basquete 3x3,18:05,La Concorde 1,Fase de Grupos,M
-01/8,Boxe,06:00,Arena Norte de Paris,50 kg - Oitavas de Final,F
-01/8,Boxe,06:48,Arena Norte de Paris,66 kg - Oitavas de Final,F
-01/8,Boxe,07:36,Arena Norte de Paris,54 kg - Quartas de Final,F
-01/8,Boxe,07:52,Arena Norte de Paris,63,5 kg - Quartas de Final,M
-01/8,Boxe,08:08,Arena Norte de Paris,92 kg - Quartas de Final,M
-01/8,Boxe,10:30,Arena Norte de Paris,50 kg - Oitavas de Final,F
-01/8,Boxe,11:18,Arena Norte de Paris,66 kg - Oitavas de Final,F
-01/8,Boxe,12:06,Arena Norte de Paris,54 kg - Quartas de Final,F
-01/8,Boxe,12:38,Arena Norte de Paris,63,5 kg - Quartas de Final,M
-01/8,Boxe,12:54,Arena Norte de Paris,92 kg - Quartas de Final,M
-01/8,Boxe,15:00,Arena Norte de Paris,50 kg - Oitavas de Final,F
-01/8,Boxe,15:32,Arena Norte de Paris,66 kg - Oitavas de Final,F
-01/8,Boxe,16:04,Arena Norte de Paris,54 kg - Quartas de Final,F
-01/8,Boxe,16:20,Arena Norte de Paris,63,5 kg - Quartas de Final,M
-01/8,Boxe,16:52,Arena Norte de Paris,92 kg - Quartas de Final,M
-01/8,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Individual - Semifinal,M 
-01/8,Canoagem Slalom,12:30,Est. Náutico Água Branca,Caiaque Individual - Final,M 
-01/8,Ciclismo BMX Racing,15:00,Estádio de BMX,Quartas de Final - Run 1,M    
-01/8,Ciclismo BMX Racing,15:20,Estádio de BMX,Quartas de Final - Run 1,F 
-01/8,Ciclismo BMX Racing,15:40,Estádio de BMX,Quartas de Final - Run 2,M 
-01/8,Ciclismo BMX Racing,16:00,Estádio de BMX,Quartas de Final - Run 2,F 
-01/8,Ciclismo BMX Racing,16:20,Estádio de BMX,Quartas de Final - Run 3,M 
-01/8,Ciclismo BMX Racing,16:40,Estádio de BMX,Quartas de Final - Run 3,F 
-01/8,Ciclismo BMX Racing,17:05,Estádio de BMX,Última chance de corrida,M 
-01/8,Ciclismo BMX Racing,17:15,Estádio de BMX,Última chance de corrida,F 
-01/8,Esgrima,06:50,Grand Palais,Florete por equipes - Quartas de Final,F
-01/8,Esgrima,06:50,Grand Palais,Florete por equipes - Classificação 5-8 lugar,F
-01/8,Esgrima,06:50,Grand Palais,Florete por equipes - Semifinal 1,F
-01/8,Esgrima,06:50,Grand Palais,Florete por equipes - Semifinal 2,F
-01/8,Esgrima,06:50,Grand Palais,Florete por equipes - 7-8 lugar,F
-01/8,Esgrima,06:50,Grand Palais,Florete por equipes - 5-6 lugar,F
-01/8,Esgrima,06:50,Grand Palais,Florete por equipes - Disputa de Bronze,F
-01/8,Esgrima,06:50,Grand Palais,Florete por equipes - Disputa de Ouro,F
-01/8,Ginástica Artística,13:15,Arena Bercy,Individual Geral - Final,F
-01/8,Golfe,04:00,Le Golf National,Rodada 1,M
-01/8,Handebol,04:00,Arena 6 Paris Sul,Países Baixos - Brasil,F
-01/8,Handebol,04:00,Arena 6 Paris Sul,República da Coréia - Suécia,F
-01/8,Handebol,04:00,Arena 6 Paris Sul,Espanha - Hungria,F
-01/8,Handebol,04:00,Arena 6 Paris Sul,Angola - França,F
-01/8,Handebol,04:00,Arena 6 Paris Sul,Alemanha - Dinamarca,F
-01/8,Handebol,04:00,Arena 6 Paris Sul,Eslovênia - Noruega,F
-01/8,Hipismo,06:00,Palácio de Versalhes,Saltos por equipes - Classificação,U
-01/8,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Índia - Bélgica,M
-01/8,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Nova Zelândia - Austrália,M
-01/8,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,França - Grã-Bretanha,M
-01/8,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Argentinha - Irlanda,M
-01/8,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,EUA - Grã-Bretanha,F
-01/8,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Espanha - África do Sul,F
-01/8,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Japão - França,F
-01/8,Hóquei sobre Grama,15:15,Estádio Yves-du-Manoir,Argentinha - Austrália,F
-01/8,Judô,05:00,Arena Champ-de-Mars,100 kg - Primeira Fase Eliminatória,M
-01/8,Judô,05:00,Arena Champ-de-Mars,78 kg - Primeira Fase Eliminatória,F
-01/8,Judô,05:28,Arena Champ-de-Mars,100 kg - Segunda Fase Eliminatória,M
-01/8,Judô,05:28,Arena Champ-de-Mars,78 kg - Segunda Fase Eliminatória,F
-01/8,Judô,07:20,Arena Champ-de-Mars,100 kg - Oitavas de Final,M
-01/8,Judô,07:20,Arena Champ-de-Mars,78 kg - Oitavas de Final,F
-01/8,Judô,08:16,Arena Champ-de-Mars,100 kg - Quartas de Final,M
-01/8,Judô,08:16,Arena Champ-de-Mars,78 kg - Quartas de Final,F
-01/8,Judô,11:00,Arena Champ-de-Mars,100 kg - Repescagem,M
-01/8,Judô,11:17,Arena Champ-de-Mars,100 kg - Semifinais,M
-01/8,Judô,11:34,Arena Champ-de-Mars,78 kg - Repescagem,F
-01/8,Judô,11:51,Arena Champ-de-Mars,78 kg - Semifinais,F
-01/8,Judô,12;18,Arena Champ-de-Mars,100 kg - Disputa de Bronze A,M
-01/8,Judô,12:28,Arena Champ-de-Mars,100 kg - Disputa de Bronze B,M
-01/8,Judô,12:38,Arena Champ-de-Mars,100 kg - Final,M
-01/8,Judô,12:49,Arena Champ-de-Mars,78 kg - Disputa de Bronze A,F
-01/8,Judô,12:59,Arena Champ-de-Mars,78 kg - Disputa de Bronze B,F
-01/8,Judô,13:09,Arena Champ-de-Mars,78 kg - Final,F
-01/8,Natação,06:00,Arena Paris La Défense,200m costas - Baterias,F
-01/8,Natação,06:00,Arena Paris La Défense,50m livre - Baterias,M
-01/8,Natação,06:00,Arena Paris La Défense,200m Medley Individual - Baterias,M
-01/8,Natação,06:00,Arena Paris La Défense,Revesamento 4x200m livre - Baterias,F
-01/8,Natação,15:30,Arena Paris La Défense,200m borboleta - Final,F
-01/8,Natação,15;37,Arena Paris La Défense,200m costas - Final,M
-01/8,Natação,15:44,Arena Paris La Défense,50m livre - Semifinais,M
-01/8,Natação,16:03,Arena Paris La Défense,200m peito - Final,F
-01/8,Natação,16:10,Arena Paris La Défense,200m costas - Semifinais,F
-01/8,Natação,16:34,Arena Paris La Défense,200m Medley Individual - Semifinais,M
-01/8,Natação,16:48,Arena Paris La Défense,Revesamento 4x200m livre - Final,F
-01/8,Polo Aquático,05:30,Centro Aquático,Grécia - EUA,M
-01/8,Polo Aquático,07:05,Centro Aquático,Sérvia - Espanha,M
-01/8,Polo Aquático,10:00,Centro Aquático,França - Austrália,M
-01/8,Polo Aquático,11:35,Centro Aquático,Itália - Montenegro,M
-01/8,Polo Aquático,14:30,Centro Aquático,Romênia - Croácia,M
-01/8,Polo Aquático,16:05,Centro Aquático,Hungria - Japão ,M
-01/8,Remo,04:30,Est. Náutico - Água Plana,Sculls Individual - Semifinal A/B 1,F
-01/8,Remo,04:40,Est. Náutico - Água Plana,Sculls Individual - Semifinal A/B 2,F
-01/8,Remo,04:50,Est. Náutico - Água Plana,Sculls Individual - Semifinal A/B 1,M
-01/8,Remo,05:00,Est. Náutico - Água Plana,Sculls Individual - Semifinal A/B 2,M
-01/8,Remo,05:10,Est. Náutico - Água Plana,Oito - Repescagem,F
-01/8,Remo,05:20,Est. Náutico - Água Plana,Oito - Repescagem,M
-01/8,Remo,05:30,Est. Náutico - Água Plana,Sculls Duplo - Final B,F
-01/8,Remo,05:42,Est. Náutico - Água Plana,Sculls Duplo - Final B,M
-01/8,Remo,05:54,Est. Náutico - Água Plana,Quatro - Final B,F
-01/8,Remo,06:06,Est. Náutico - Água Plana,Quatro - Final B,M
-01/8,Remo,06:18,Est. Náutico - Água Plana,Sculls Duplo - Final A,F
-01/8,Remo,06:30,Est. Náutico - Água Plana,Sculls Duplo - Final A,M
-01/8,Remo,06:50,Est. Náutico - Água Plana,Quatro - Final A,F
-01/8,Remo,07:10,Est. Náutico - Água Plana,Quatro - Final A,M
-01/8,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
-01/8,Tênis,07:00,Stade Roland-Garros,MS Quartas de final/ FS Semifinal,U
-01/8,Tênis,07:00,Stade Roland-Garros,MS QF/ FD Semifinais/ XD Semifinais,U
-01/8,Tênis,07:00,Stade Roland-Garros,FD Semifinais/ XD Semifinais,U
-01/8,Tênis,14:00,Stade Roland-Garros,MS Quartas de final/ FS Semifinal,U
-01/8,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Quartas de Final,F
-01/8,Tênis de Mesa,07:00,Arena 4 Paris Sul,Individual - Quartas de Final,M
-01/8,Tênis de Mesa,10:00,Arena 4 Paris Sul,Individual - Quartas de Final,F
-01/8,Tênis de Mesa,11:00,Arena 4 Paris Sul,Individual - Quartas de Final,M
-01/8,Tênis de Mesa,15:00,Arena 4 Paris Sul,Individual - Quartas de Final,F
-01/8,Tênis de Mesa,16:00,Arena 4 Paris Sul,Individual - Quartas de Final,M
-01/8,Tiro com Arco,04:30,Invalides,Individual - Primeira Fase Eliminatória,M
-01/8,Tiro com Arco,04:56,Invalides,Individual - Primeira Fase Eliminatória,F
-01/8,Tiro com Arco,05:22,Invalides,Individual - Segunda Fase Eliminatória,M
-01/8,Tiro com Arco,05:35,Invalides,Individual - Segunda Fase Eliminatória,F
-01/8,Tiro com Arco,10:30,Invalides,Individual - Primeira Fase Eliminatória,M
-01/8,Tiro com Arco,10:56,Invalides,Individual - Primeira Fase Eliminatória,F
-01/8,Tiro com Arco,11:22,Invalides,Individual - Segunda Fase Eliminatória,M
-01/8,Tiro com Arco,11:35,Invalides,Individual - Segunda Fase Eliminatória,F
-01/8,Tiro Esportivo,04:30,Ctr. de Tiro Chateauroux,Carabina 50m 3 posições - Final,M
-01/8,Tiro Esportivo,07:00,Ctr. de Tiro Chateauroux,Carabina 50m 3 posições - Classificação,F
-01/8,Vela,IDF,Marina de Marselha,Skiff - Disputa por medalha,M
-01/8,Vela,IDF,Marina de Marselha,Skiff - Disputa por medalha,F
-01/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 1,M
-01/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 2,M
-01/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 1,F
-01/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 2,F 
-01/8,Vela,07:00,Marina de Marselha,Windsurfing - Prova 17,F
-01/8,Vela,07:00,Marina de Marselha,Windsurfing - Prova 18,F
-01/8,Vela,07:00,Marina de Marselha,Windsurfing - Prova 19,F
-01/8,Vela,07:00,Marina de Marselha,Windsurfing - Prova 17,M
-01/8,Vela,07:00,Marina de Marselha,Windsurfing - Prova 18,M
-01/8,Vela,07:00,Marina de Marselha,Windsurfing - Prova 19,M
-01/8,Vela,IDF,Marina de Marselha,Windsurfing - Maratona,F
-01/8,Vela,IDF,Marina de Marselha,Windsurfing - Maratona,M
-01/8,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
-01/8,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
-01/8,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
-01/8,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,F
-01/8,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
-01/8,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Atletismo,05:05,Trocadéro,Decatlo - 100m,M
-02/8,Atletismo,05:10,Trocadéro,Lançamento de martelo - Classificação,M
-02/8,Atletismo,05:15,Trocadéro,Salto em Altura - Classificação,F
-02/8,Atletismo,05:35,Trocadéro,100m - Rodada Preliminar,F
-02/8,Atletismo,05:55,Trocadéro,Decatlo - Saltos em Distância,M
-02/8,Atletismo,06:05,Trocadéro,1500m - Primeira Rodada,M
-02/8,Atletismo,06:35,Trocadéro,Lançamento de martelo - Classificação,M
-02/8,Atletismo,06:50,Trocadéro,100m - Primeira Rodada,F
-02/8,Atletismo,07:15,Trocadéro,Decatlo - Arremesso de Peso,M
-02/8,Atletismo,13:00,Trocadéro,Decatlo - Salto em Altura,M
-02/8,Atletismo,13:10,Trocadéro,5000m - Primeira Rodada,F
-02/8,Atletismo,13:15,Trocadéro,Salto Triplo - Classificação,F
-02/8,Atletismo,13:55,Trocadéro,Lançamento de Disco - Classificação,F
-02/8,Atletismo,14:10,Trocadéro,Revesamento 4x400m - Primeira Rodada,U
-02/8,Atletismo,14:45,Trocadéro,800m - Primeira Rodada,F
-02/8,Atletismo,15;10,Trocadéro,Arremesso de peso - Classificação,M
-02/8,Atletismo,15:20,Trocadéro,Lançamento de Disco - Classificação,F
-02/8,Atletismo,15:50,Trocadéro,Decatlo - 400m,M
-02/8,Atletismo,16:20,Trocadéro,10000m - Final,M
-02/8,Badminton,03:30,Arena La Chapelle,Duplas Femininas - Semifinal,F
-02/8,Badminton,04:40,Arena La Chapelle,Duplas Femininas - Semifinal,F
-02/8,Badminton,05:50,Arena La Chapelle,Duplas Masculinas - Semifinal,M
-02/8,Badminton,07:00,Arena La Chapelle,Duplas Masculinas - Semifinal,M
-02/8,Badminton,10:00,Arena La Chapelle,Duplas Mistas - Semifinal,U
-02/8,Badminton,11:10,Arena La Chapelle,Duplas Mistas - Semifinal,U
-02/8,Badminton,12:40,Arena La Chapelle,Simples Masculino - Semifinal,M
-02/8,Badminton,13:50,Arena La Chapelle,Simples Masculino - Semifinal,M
-02/8,Badminton,15:00,Arena La Chapelle,Simples Masculino - Semifinal,M
-02/8,Badminton,16:10,Arena La Chapelle,Simples Masculino - Semifinal,M
-02/8,Basquete,06:00,Estádio Pierre Mauroy,Japão - Vencedor OQT LAT,M
-02/8,Basquete,08:30,Estádio Pierre Mauroy,Austrália - Vencedor OQT GRE,M
-02/8,Basquete,12:15,Estádio Pierre Mauroy,Canadá - Vencedor OQT ESP,M
-02/8,Basquete,16:00,Estádio Pierre Mauroy,França - Alemanha,M
-02/8,Basquete 3x3,04:00,La Concorde 1,Fase de Grupos,F
-02/8,Basquete 3x3,04:30,La Concorde 1,Fase de Grupos,F
-02/8,Basquete 3x3,05:05,La Concorde 1,Fase de Grupos,M
-02/8,Basquete 3x3,05:35,La Concorde 1,Fase de Grupos,M
-02/8,Basquete 3x3,07:30,La Concorde 1,Fase de Grupos,F
-02/8,Basquete 3x3,08:00,La Concorde 1,Fase de Grupos,F
-02/8,Basquete 3x3,08:35,La Concorde 1,Fase de Grupos,M
-02/8,Basquete 3x3,09:05,La Concorde 1,Fase de Grupos,M
-02/8,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,F
-02/8,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
-02/8,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
-02/8,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
-02/8,Basquete 3x3,16:00,La Concorde 1,Fase de Grupos,F
-02/8,Basquete 3x3,16:30,La Concorde 1,Fase de Grupos,F
-02/8,Basquete 3x3,17:05,La Concorde 1,Fase de Grupos,M
-02/8,Basquete 3x3,17:35,La Concorde 1,Fase de Grupos,M
-02/8,Boxe,10:30,Arena Norte de Paris,57 kg - Oitavas de Final,F
-02/8,Boxe,11:34,Arena Norte de Paris,51 kg - Quartas de Final,F
-02/8,Boxe,12:06,Arena Norte de Paris,80 kg - Quartas de Final,F
-02/8,Boxe,12:38,Arena Norte de Paris,92 kg - Quartas de Final,F
-02/8,Boxe,15:00,Arena Norte de Paris,57 kg - Oitavas de Final,F
-02/8,Boxe,16:04,Arena Norte de Paris,57 kg - Quartas de Final,F
-02/8,Boxe,16:36,Arena Norte de Paris,57 kg - Quartas de Final,F
-02/8,Boxe,17:08,Arena Norte de Paris,57 kg - Quartas de Final,F
-02/8,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Contrarrelógio,F
-02/8,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Contrarrelógio,M
-02/8,Ciclismo BMX Racing,15:00,Estádio de BMX,Semifinais - Run 1,M
-02/8,Ciclismo BMX Racing,15:15,Estádio de BMX,Semifinais - Run 1,F
-02/8,Ciclismo BMX Racing,15:30,Estádio de BMX,Semifinais - Run 2,M
-02/8,Ciclismo BMX Racing,15:45,Estádio de BMX,Semifinais - Run 2,F
-02/8,Ciclismo BMX Racing,16:00,Estádio de BMX,Semifinais - Run 3,M
-02/8,Ciclismo BMX Racing,16:15,Estádio de BMX,Semifinais - Run 3,F
-02/8,Ciclismo BMX Racing,16:35,Estádio de BMX,Final,M
-02/8,Ciclismo BMX Racing,16:50,Estádio de BMX,Final,F
-02/8,Esgrima,08:30,Grand Palais,Espada por equipes - Quartas de Final,M
-02/8,Esgrima,10:00,Grand Palais,Espada por equipes - Classificação 5-8 lugar,M
-02/8,Esgrima,10:50,Grand Palais,Espada por equipes - Semifinal 1,M
-02/8,Esgrima,10:50,Grand Palais,Espada por equipes - Semifinal 2,M
-02/8,Esgrima,11:40,Grand Palais,Espada por equipes - 7-8 lugar,M
-02/8,Esgrima,11:40,Grand Palais,Espada por equipes - 5-6 lugar,M
-02/8,Esgrima,14:30,Grand Palais,Espada por equipes - Disputa de Bronze,M
-02/8,Esgrima,15:30,Grand Palais,Espada por equipes - Disputa de Ouro,M
-02/8,Futebol,10:00,Parc des Princes,IDF - IDF - Quartas de Final,M
-02/8,Futebol,12:00,Estádio de Lyon,IDF - IDF - Quartas de Final,M
-02/8,Futebol,14:00,Estádio de Marselha,IDF - IDF - Quartas de Final,M
-02/8,Futebol,16:00,Estádio Bordeaux,IDF - IDF - Quartas de Final,M
-02/8,Ginástica de Trampolim,07:00,Arena Bercy,Classificatórias,F
-02/8,Ginástica de Trampolim,08:50,Arena Bercy,Final,F
-02/8,Ginástica de Trampolim,13:00,Arena Bercy,Classificatórias,M
-02/8,Ginástica de Trampolim,14:45,Arena Bercy,Final,M
-02/8,Golfe,04:00,Le Golf National,Rodada 2,M
-02/8,Handebol,04:00,Arena 6 Paris Sul,Hungria - Dinamarca,M
-02/8,Handebol,06:00,Arena 6 Paris Sul,Argentinha - França,M
-02/8,Handebol,09:00,Arena 6 Paris Sul,Croácia - Suécia,M
-02/8,Handebol,11:00,Arena 6 Paris Sul,Alemanha - Espanha,M
-02/8,Handebol,14:00,Arena 6 Paris Sul,Japão - Eslovênia,M
-02/8,Handebol,16:00,Arena 6 Paris Sul,Noruega - Egito,M
-02/8,Hipismo,09:00,Palácio de Versalhes,Saltos por equipes - Final,U
-02/8,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,China - Alemanha,F
-02/8,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Países Baixos - Espanha,M
-02/8,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Bélgica - Países Baixos,F
-02/8,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Austrália - Índia,M
-02/8,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,Nova Zelândia - Irlanda,M
-02/8,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Bélgica - Argentinha,M
-02/8,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,França - África do Sul,M
-02/8,Hóquei sobre Grama,15:15,Estádio Yves-du-Manoir,Grã-Bretanha - Alemanha,M
-02/8,Judô,05:00,Arena Champ-de-Mars,78 kg - Primeira Fase Eliminatória,F
-02/8,Judô,05:00,Arena Champ-de-Mars,100 kg - Primeira Fase Eliminatória,M
-02/8,Judô,05:28,Arena Champ-de-Mars,78 kg - Segunda Fase Eliminatória,F
-02/8,Judô,05:28,Arena Champ-de-Mars,100 kg - Segunda Fase Eliminatória,M
-02/8,Judô,07:20,Arena Champ-de-Mars,78 kg - Oitavas de Final,F
-02/8,Judô,07:20,Arena Champ-de-Mars,100 kg - Oitavas de Final,M
-02/8,Judô,08:16,Arena Champ-de-Mars,78 kg - Quartas de Final,F
-02/8,Judô,08:16,Arena Champ-de-Mars,100 kg - Quartas de Final,M
-02/8,Judô,11:00,Arena Champ-de-Mars,78 kg - Repescagem,F
-02/8,Judô,11:17,Arena Champ-de-Mars,78 kg - Semifinais,F
-02/8,Judô,11:34,Arena Champ-de-Mars,100 kg - Repescagem,M
-02/8,Judô,11:51,Arena Champ-de-Mars,100 kg - Semifinais,M
-02/8,Judô,12:18,Arena Champ-de-Mars,78 kg - Disputa por Bronze A,F
-02/8,Judô,12:28,Arena Champ-de-Mars,78 kg - Disputa por Bronze B,F
-02/8,Judô,12:38,Arena Champ-de-Mars,78 kg - Final,F
-02/8,Judô,12:49,Arena Champ-de-Mars,100 kg - Disputa por Bronze A,M
-02/8,Judô,12:59,Arena Champ-de-Mars,100 kg - Disputa por Bronze B,M
-02/8,Judô,13:09,Arena Champ-de-Mars,100 kg - Final,M
-02/8,Natação,06:00,Arena Paris La Défense,100m borboleta - Baterias,M
-02/8,Natação,06:00,Arena Paris La Défense,200m Medley Individual - Baterias,F
-02/8,Natação,06:00,Arena Paris La Défense,800m livre - Baterias,F
-02/8,Natação,06:00,Arena Paris La Défense,Revesamento 4x100m Medley Misto - Baterias,U
-02/8,Natação,15:30,Arena Paris La Défense,50m livre - Final,M   
-02/8,Natação,15:39,Arena Paris La Défense,200m costas - Final,F
-02/8,Natação,15:49,Arena Paris La Défense,200m Medley Individual - Final,M
-02/8,Natação,16:09,Arena Paris La Défense,100m borboleta - Semifinais,M
-02/8,Natação,16:34,Arena Paris La Défense,200m Medley Individual - Semifinais,F
-02/8,Polo Aquático,09:00,Centro Aquático,Austrália - Canadá,F
-02/8,Polo Aquático,10:35,Centro Aquático,Grécia - Itália,F
-02/8,Polo Aquático,13:30,Centro Aquático,EUA - França,F
-02/8,Polo Aquático,15:05,Centro Aquático,China - Hungria,F
-02/8,Remo,04:30,Est. Náutico - Água Plana,Sculls Individual - Final F,M
-02/8,Remo,04:42,Est. Náutico - Água Plana,Sculls Individual - Final F,F
-02/8,Remo,04:54,Est. Náutico - Água Plana,Sculls Individual - Final E,M
-02/8,Remo,05:06,Est. Náutico - Água Plana,Sculls Individual - Final E,F
-02/8,Remo,05:18,Est. Náutico - Água Plana,Sculls Individual - Final D,M
-02/8,Remo,05:30,Est. Náutico - Água Plana,Sculls Individual - Final D,F
-02/8,Remo,05:42,Est. Náutico - Água Plana,Par - Final B,M
-02/8,Remo,05:54,Est. Náutico - Água Plana,Par - Final B,F
-02/8,Remo,06:06,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final B,M
-02/8,Remo,06:18,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final B,F
-02/8,Remo,06:30,Est. Náutico - Água Plana,Par - Final A,M
-02/8,Remo,06:42,Est. Náutico - Água Plana,Par - Final A,F
-02/8,Remo,07:02,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final A,M
-02/8,Remo,07:22,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final A,F
-02/8,Saltos Ornamentais,06:00,Centro Aquático,Trampolim 3m sincronizado - Final,M
-02/8,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
-02/8,Tênis,07:00,Stade Roland-Garros,Simples - Semifinal,M
-02/8,Tênis,07:00,Stade Roland-Garros,Simples - Disputa pelo Bronze,F
-02/8,Tênis,07:00,Stade Roland-Garros,Duplas - Disputa pelo Bronze,M
-02/8,Tênis,07:00,Stade Roland-Garros,Duplas Mistas - Disputa pelo Bronze,U
-02/8,Tênis,14:00,Stade Roland-Garros,Simples - Semifinal,M
-02/8,Tênis,14:00,Stade Roland-Garros,Duplas Mistas - Disputa pelo Ouro,U
-02/8,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Semifinal,F
-02/8,Tênis de Mesa,06:00,Arena 4 Paris Sul,Individual - Semifinal,M
-02/8,Tênis de Mesa,08:30,Arena 4 Paris Sul,Individual - Semifinal,F
-02/8,Tênis de Mesa,09:30,Arena 4 Paris Sul,Individual - Semifinal,M
-02/8,Tiro com Arco,04:30,Invalides,Equipe Mista - Oitavas de Final,U
-02/8,Tiro com Arco,09:15,Invalides,Equipe Mista - Quartas de Final,U
-02/8,Tiro com Arco,10:31,Invalides,Equipe Mista - Semifinais,U
-02/8,Tiro com Arco,11:24,Invalides,Equipe Mista - Disputa pelo Bronze,U
-02/8,Tiro com Arco,11:43,Invalides,Equipe Mista - Disputa pelo Ouro,U
-02/8,Tiro Esportivo,04:00,Ctr. de Tiro Chateauroux,Skeet - Classificação - Dia 1,M
-02/8,Tiro Esportivo,04:00,Ctr. de Tiro Chateauroux,Pistola 25m - Classificação,F
-02/8,Tiro Esportivo,04:30,Ctr. de Tiro Chateauroux,Carabina 50m 3 posições - Final,F
-02/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 1,U
-02/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 2,U
-02/8,Vela,IDF,Marina de Marselha,Windsurfing - Quartas de Final,F
-02/8,Vela,IDF,Marina de Marselha,Windsurfing - Quartas de Final,M
-02/8,Vela,IDF,Marina de Marselha,Windsurfing - Semifinal,F
-02/8,Vela,IDF,Marina de Marselha,Windsurfing - Semifinal,M
-02/8,Vela,IDF,Marina de Marselha,Windsurfing - Final,F
-02/8,Vela,IDF,Marina de Marselha,Windsurfing - Final,M
-02/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 3,F
-02/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 4,F
-02/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 3,M
-02/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 4,M
-02/8,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
-02/8,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
-02/8,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
-02/8,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,F
-02/8,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
-02/8,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
-03/8,Atletismo,05:05,Stade de France,Decatlo - 110m com barreiras,M
-03/8,Atletismo,05:10,Stade de France,Salto com Vara - Classificação,M
-03/8,Atletismo,05:35,Stade de France,100m - Rodada Preliminar,M
-03/8,Atletismo,05:55,Stade de France,Decatlo - Lançamento de Disco,M
-03/8,Atletismo,06:10,Stade de France,800m - Repescagem,F
-03/8,Atletismo,06:45,Stade de France,100m - Primeira Rodada,M
-03/8,Atletismo,07:00,Stade de France,Decatlo - Lançamento de Disco,M
-03/8,Atletismo,08:40,Stade de France,Decatlo - Salto com Vara,M
-03/8,Atletismo,14:10,Stade de France,Decatlo - Lançamento de Dardo,M
-03/8,Atletismo,14:15,Stade de France,1500m - Repescagem,M
-03/8,Atletismo,14:35,Stade de France,Arremesso de Peso -  Final,M
-03/8,Atletismo,14:50,Stade de France,100m - Final,F
-03/8,Atletismo,15:10,Stade de France,Decatlo - Lançamento de Dardo,M
-03/8,Atletismo,15:20,Stade de France,Salto Triplo - Final,F
-03/8,Atletismo,15:55,Stade de France,Revesamento 4x400m Misto - Final,U
-03/8,Atletismo,16:20,Stade de France,100m - Final,F
-03/8,Atletismo,16:45,Stade de France,Decatlo - 1500m,M
-03/8,Badminton,03:30,Arena La Chapelle,Simples Feminino - Quartas de Final,F
-03/8,Badminton,04:40,Arena La Chapelle,Simples Feminino - Quartas de Final,F
-03/8,Badminton,05:50,Arena La Chapelle,Simples Feminino - Quartas de Final,F
-03/8,Badminton,07:00,Arena La Chapelle,Simples Feminino - Quartas de Final,F
-03/8,Badminton,10:00,Arena La Chapelle,Duplas Femininas - Disputa pelo Bronze,F
-03/8,Badminton,11:10,Arena La Chapelle,Duplas Femininas - Disputa pelo Ouro,F
-03/8,Basquete,06:00,Estádio Pierre Mauroy,China - Porto Rico,F
-03/8,Basquete,08:30,Estádio Pierre Mauroy,Sérvia - Espanha,F
-03/8,Basquete,12:15,Estádio Pierre Mauroy,Vencedor OQT PUR - EUA,M
-03/8,Basquete,16:00,Estádio Pierre Mauroy,Sérvia - Sudão do Sul,M
-03/8,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,F
-03/8,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
-03/8,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,F
-03/8,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,F
-03/8,Basquete 3x3,16:30,La Concorde 1,Play-In,F
-03/8,Basquete 3x3,17:05,La Concorde 1,Play-In,F
-03/8,Boxe,10:30,Arena Norte de Paris,57 kg - Quartas de Final,M
-03/8,Boxe,11:02,Arena Norte de Paris,71 kg - Quartas de Final,M
-03/8,Boxe,11:34,Arena Norte de Paris,50 kg - Quartas de Final,F
-03/8,Boxe,12:06,Arena Norte de Paris,66 kg - Quartas de Final,F
-03/8,Boxe,12:38,Arena Norte de Paris,60 kg - Semifinalinal,F
-03/8,Boxe,15:00,Arena Norte de Paris,57 kg - Quartas de Final,M
-03/8,Boxe,15:32,Arena Norte de Paris,71 kg - Quartas de Final,M
-03/8,Boxe,16:04,Arena Norte de Paris,50 kg - Quartas de Final,F
-03/8,Boxe,16:36,Arena Norte de Paris,66 kg - Quartas de Final,F
-03/8,Boxe,17:08,Arena Norte de Paris,60 kg - Semifinalinal,F
-03/8,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Rodada 1,F
-03/8,Canoagem Slalom,11:40,Est. Náutico Água Branca,Caiaque Cross - Rodada 1,M
-03/8,Canoagem Slalom,13:05,Est. Náutico Água Branca,Caiaque Cross - Repescagem,F
-03/8,Canoagem Slalom,13:45,Est. Náutico Água Branca,Caiaque Cross - Repescagem,M
-03/8,Ciclismo de Estrada,06:00,Trocadéro,Prova de Estrada,M
-03/8,Esgrima,08:00,Grand Palais,Sabre por equipes - Quartas de Final,F
-03/8,Esgrima,09:30,Grand Palais,Sabre por equipes - Classificação 5-8,F
-03/8,Esgrima,10:20,Grand Palais,Sabre por equipes - Semifinal 1,F
-03/8,Esgrima,10:20,Grand Palais,Sabre por equipes - Semifinal 2,F
-03/8,Esgrima,11:10,Grand Palais,Sabre por equipes - 7-8 lugar,F
-03/8,Esgrima,11:10,Grand Palais,Sabre por equipes - 5-6 lugar,F
-03/8,Esgrima,14:00,Grand Palais,Sabre por equipes - Disputa por Bronze,F
-03/8,Esgrima,15:00,Grand Palais,Sabre por equipes - Disputa por Ouro,F
-03/8,Futebol,10:00,Parc des Princes,IDF - IDF -  Quartas de Final,F 
-03/8,Futebol,12:00,Estádio de Lyon,IDF - IDF -  Quartas de Final,F 
-03/8,Futebol,14:00,Estádio de Marselha,IDF - IDF -  Quartas de Final,F 
-03/8,Futebol,16:00,Estádio La Beaujoire,IDF - IDF -  Quartas de Final,F 
-03/8,Ginástica Artística,10:30,Arena Bercy,Solo - Final,M
-03/8,Ginástica Artística,11:20,Arena Bercy,Salto - Final,F
-03/8,Ginástica Artística,12:10,Arena Bercy,Cavalo com alças - Final,M
-03/8,Golfe,04:00,Le Golf National,Rodada 3,M
-03/8,Handebol,04:00,Arena 6 Paris Sul,Hungria - Países Baixos,F
-03/8,Handebol,06:00,Arena 6 Paris Sul,Espanha - França,F
-03/8,Handebol,09:00,Arena 6 Paris Sul,Brasil - Angola,F
-03/8,Handebol,11:00,Arena 6 Paris Sul,Eslovênia - Suécia,F
-03/8,Handebol,14:00,Arena 6 Paris Sul,Noruega - Alemanha,F
-03/8,Handebol,16:00,Arena 6 Paris Sul,Dinamarca - República da Coréia,F
-03/8,Hipismo,05:00,Palácio de Versalhes,Adestramento por equipes - GP - Especial,U
-03/8,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Grã-Bretanha - Argentinha,F
-03/8,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Países Baixos - Japão,F
-03/8,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Austrália - Espanha,F
-03/8,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,EUA - África do Sul,F
-03/8,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,China - França,F
-03/8,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Bélgica - Alemanha,F
-03/8,Judô,03:00,Arena Champ-de-Mars,Equipe Mista - Rodada Preliminar,U
-03/8,Judô,03:00,Arena Champ-de-Mars,Equipe Mista - Oitavas de Final,U
-03/8,Judô,04:40,Arena Champ-de-Mars,Equipe Mista - Quartas de Final,U
-03/8,Judô,05:40,Arena Champ-de-Mars,Equipe Mista - Repescagem,U
-03/8,Judô,06:15,Arena Champ-de-Mars,Equipe Mista - Semifinais,U
-03/8,Judô,11:00,Arena Champ-de-Mars,Equipe Mista - Disputa por Bronze A,U
-03/8,Judô,11:40,Arena Champ-de-Mars,Equipe Mista - Disputa por Bronze B,U
-03/8,Judô,12:20,Arena Champ-de-Mars,Equipe Mista - Final,U
-03/8,Natação,06:00,Arena Paris La Défense,50m livre - Baterias,F
-03/8,Natação,06:00,Arena Paris La Défense,1500m livre - Baterias,M
-03/8,Natação,06:00,Arena Paris La Défense,Revesamento 4x100m Medley - Baterias,M
-03/8,Natação,06:00,Arena Paris La Défense,Revesamento 4x100m Medley - Baterias,F
-03/8,Natação,15:30,Arena Paris La Défense,100m borboleta - Final,M
-03/8,Natação,15:39,Arena Paris La Défense,50m livre - Semifinais,F
-03/8,Natação,15:59,Arena Paris La Défense,200m Medley Individual - Final,F
-03/8,Natação,16:09,Arena Paris La Défense,800m livre - Final,F
-03/8,Natação,16:33,Arena Paris La Défense,Revesamento 4x100m Medley Misto - Final,U
-03/8,Polo Aquático,05:30,Centro Aquático,Espanha - Japão,M
-03/8,Polo Aquático,07:05,Centro Aquático,Croácia - Grécia,M
-03/8,Polo Aquático,10:00,Centro Aquático,Austrália - Hungria,M
-03/8,Polo Aquático,11:35,Centro Aquático,Montenegro - EUA,M
-03/8,Polo Aquático,14:30,Centro Aquático,Sérvia - França,M
-03/8,Polo Aquático,16:05,Centro Aquático,Itália - Romênia,M
-03/8,Remo,04:30,Est. Náutico - Água Plana,Sculls Individual - Final C,F
-03/8,Remo,04:42,Est. Náutico - Água Plana,Sculls Individual - Final C,M
-03/8,Remo,04:54,Est. Náutico - Água Plana,Sculls Individual - Final B,F
-03/8,Remo,05:06,Est. Náutico - Água Plana,Sculls Individual - Final B,M
-03/8,Remo,05:18,Est. Náutico - Água Plana,Sculls Individual - Final A,F
-03/8,Remo,05:30,Est. Náutico - Água Plana,Sculls Individual - Final A,M
-03/8,Remo,05:50,Est. Náutico - Água Plana,Oito - Final A,F
-03/8,Remo,06:10,Est. Náutico - Água Plana,Oito - Final A,M
-03/8,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
-03/8,Tênis,IDF,Stade Roland-Garros,Simples - Disputa pelo Bronze,M
-03/8,Tênis,IDF,Stade Roland-Garros,Simples - Disputa pelo Ouro,F
-03/8,Tênis,IDF,Stade Roland-Garros,Duplas - Disputa pelo Ouro,M
-03/8,Tênis de Mesa,08:30,Arena 4 Paris Sul,Individual - Disputa pelo Bronze,F
-03/8,Tênis de Mesa,09:30,Arena 4 Paris Sul,Individual - Disputa pelo Ouro,F
-03/8,Tiro com Arco,04:30,Invalides,Individual - Oitavas de Final,F
-03/8,Tiro com Arco,08:00,Invalides,Individual - Quartas de Final,F
-03/8,Tiro com Arco,08:52,Invalides,Individual - Semifinalinais,F
-03/8,Tiro com Arco,09:33,Invalides,Individual - Disputa pelo Bronze,F
-03/8,Tiro com Arco,09:46,Invalides,Individual - Disputa pelo Ouro,F
-03/8,Tiro Esportivo,IDF,Ctr. de Tiro Chateauroux,Skeet - Classificação - Dia 2,M
-03/8,Tiro Esportivo,IDF,Ctr. de Tiro Chateauroux,Skeet - Classificação - Dia 1,F
-03/8,Tiro Esportivo,04:30,Ctr. de Tiro Chateauroux,Pistola 25m - Final,F
-03/8,Tiro Esportivo,10:30,Ctr. de Tiro Chateauroux,Skeet - Final,M
-03/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 5,M
-03/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 6,M
-03/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 5,F
-03/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 6,F
-03/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 1,U
-03/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 2,U
-03/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 3,U
-03/8,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 3,U
-03/8,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 4,U
-03/8,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
-03/8,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
-03/8,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,M
-03/8,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,M
-03/8,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
-03/8,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
-03/8,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
-03/8,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
-03/8,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
-03/8,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
-03/8,Vôlei de Praia,13:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
-03/8,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
-03/8,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
-03/8,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
-04/8,Atletismo,05:05,Stade de France,3000m Obstáculos - Primeira Rodada,F
-04/8,Atletismo,05:20,Stade de France,Lançamento de Martelo - Classificação,F
-04/8,Atletismo,05:55,Stade de France,200m- Primeira Rodada,F
-04/8,Atletismo,06:00,Stade de France,Salto em Distância - Classificação,M
-04/8,Atletismo,06:45,Stade de France,Lançamento de Martelo - Classificação,F
-04/8,Atletismo,06:50,Stade de France,110m com barreiras - Primeira Rodada,M
-04/8,Atletismo,07:35,Stade de France,400m com barreiras - Primeira Rodada,F
-04/8,Atletismo,14:05,Stade de France,400m - Primeira Rodada,M
-04/8,Atletismo,14:50,Stade de France,Salto em Altura - Final,F
-04/8,Atletismo,15:00,Stade de France,100m - Semifinal,M
-04/8,Atletismo,15:30,Stade de France,Lançamento de Martelo - Final,M
-04/8,Atletismo,15:40,Stade de France,800m - Semifinal,F
-04/8,Atletismo,16:15,Stade de France,1500m - Semifinal,M
-04/8,Atletismo,16:55,Stade de France,100m - Final,M
-04/8,Badminton,03:30,Arena La Chapelle,Simples Feminino - Semifinal,F
-04/8,Badminton,04:40,Arena La Chapelle,Simples Feminino - Semifinal,F
-04/8,Badminton,05:50,Arena La Chapelle,Simples Masculino - Semifinal,M
-04/8,Badminton,07:00,Arena La Chapelle,Simples Masculino - Semifinal,M
-04/8,Badminton,10:00,Arena La Chapelle,Duplas Masculinas - Disputa pelo Bronze,M
-04/8,Badminton,11:10,Arena La Chapelle,Duplas Masculinas - Disputa pelo Ouro,M
-04/8,Basquete,06:00,Estádio Pierre Mauroy,Japão - Bélgica,F
-04/8,Basquete,08:30,Estádio Pierre Mauroy,Canadá - Nigéria,F
-04/8,Basquete,12:15,Estádio Pierre Mauroy,Alemanha - EUA,F
-04/8,Basquete,16:00,Estádio Pierre Mauroy,Austrália - França,F
-04/8,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,M
-04/8,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,M
-04/8,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
-04/8,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
-04/8,Basquete 3x3,16:30,La Concorde 1,Play-In,M
-04/8,Basquete 3x3,17:05,La Concorde 1,Play-In,M
-04/8,Boxe,06:00,Arena Norte de Paris,57 kg - Quartas de Final,F
-04/8,Boxe,06:32,Arena Norte de Paris,75 kg - Quartas de Final,F
-04/8,Boxe,07:04,Arena Norte de Paris,54 kg - Semifinal,F
-04/8,Boxe,07:20,Arena Norte de Paris,51 kg - Semifinal,M
-04/8,Boxe,07:36,Arena Norte de Paris,63,5 kg - Semifinal,M
-04/8,Boxe,07:52,Arena Norte de Paris,80 kg - Semifinal,M
-04/8,Boxe,08:08,Arena Norte de Paris,92 kg - Semifinal,M
-04/8,Boxe,10:30,Arena Norte de Paris,57 kg - Quartas de Final,F
-04/8,Boxe,11:02,Arena Norte de Paris,75 kg - Quartas de Final,F
-04/8,Boxe,11:34,Arena Norte de Paris,54 kg - Semifinal,F
-04/8,Boxe,11:50,Arena Norte de Paris,51 kg - Semifinal,M
-04/8,Boxe,12:06,Arena Norte de Paris,63,5 kg - Semifinal,M
-04/8,Boxe,12:22,Arena Norte de Paris,80 kg - Semifinal,M
-04/8,Boxe,12:38,Arena Norte de Paris,92 kg - Semifinal,M
-04/8,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Heats,F
-04/8,Canoagem Slalom,11:45,Est. Náutico Água Branca,Caiaque Cross - Heats,F
-04/8,Ciclismo de Estrada,09:00,Trocadéro,Prova de Estrada,F
-04/8,Esgrima,06:50,Grand Palais,Florete por equipes - Quartas de Final,M
-04/8,Esgrima,08:40,Grand Palais,Florete por equipes - Classificação 5-8 lugar,M
-04/8,Esgrima,09:50,Grand Palais,Florete por equipes - Semifinal 1,M
-04/8,Esgrima,09:50,Grand Palais,Florete por equipes - Semifinal 2,M
-04/8,Esgrima,11:00,Grand Palais,Florete por equipes - 7-8 lugar,M
-04/8,Esgrima,11:00,Grand Palais,Florete por equipes - 5-6 lugar,M
-04/8,Esgrima,14:10,Grand Palais,Florete por equipes - Disputa por Bronze,M
-04/8,Esgrima,15:30,Grand Palais,Florete por equipes - Disputa por Ouro,M
-04/8,Ginástica Artística,10:00,Arena Bercy,Argolas - Final,M
-04/8,Ginástica Artística,10:40,Arena Bercy,Barras assimétricas - Final,F
-04/8,Ginástica Artística,11:25,Arena Bercy,Salto - Final,M
-04/8,Golfe,04:00,Le Golf National,Rodada 4,M
-04/8,Handebol,04:00,Arena 6 Paris Sul,Suécia - Japão,M
-04/8,Handebol,06:00,Arena 6 Paris Sul,Egito- Argentinha,M
-04/8,Handebol,09:00,Arena 6 Paris Sul,Alemanha - Eslovênia,M
-04/8,Handebol,11:00,Arena 6 Paris Sul,Hungria - França,M
-04/8,Handebol,14:00,Arena 6 Paris Sul,Dinamarca - Noruega,M
-04/8,Handebol,16:00,Arena 6 Paris Sul,Espanha - Croácia,M
-04/8,Hipismo,05:00,Palácio de Versalhes,Adestramento Individual - GP - Livre,U
-04/8,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Quartas de Final,M
-04/8,Hóquei sobre Grama,07:30,Estádio Yves-du-Manoir,Quartas de Final,M
-04/8,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Quartas de Final,M
-04/8,Hóquei sobre Grama,15:00,Estádio Yves-du-Manoir,Quartas de Final,M
-04/8,Natação,13:30,Arena Paris La Défense,50m livre - Final,F
-04/8,Natação,13:36,Arena Paris La Défense,1500m livre - Final,M
-04/8,Natação,14:12,Arena Paris La Défense,Revesamento 4x100m Medley - Final,M
-04/8,Natação,14:35,Arena Paris La Défense,Revesamento 4x100m Medley - Final,F
-04/8,Polo Aquático,09:00,Centro Aquático,Hungria - Austrália,F
-04/8,Polo Aquático,09:00,Centro Aquático,Itália - Espanha,F
-04/8,Polo Aquático,09:00,Centro Aquático,Canadá - Países Baixos,F
-04/8,Polo Aquático,09:00,Centro Aquático,França - Grécia,F
-04/8,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
-04/8,Tênis,IDF,Stade Roland-Garros,Duplas - Disputa pelo Bronze,F
-04/8,Tênis,IDF,Stade Roland-Garros,Simples - Disputa pelo Ouro,M
-04/8,Tênis,IDF,Stade Roland-Garros,Duplas - Disputa pelo Ouro,F
-04/8,Tênis de Mesa,08:30,Arena 4 Paris Sul,Individual - Disputa pelo Bronze,M
-04/8,Tênis de Mesa,09:30,Arena 4 Paris Sul,Individual - Disputa pelo Ouro,M
-04/8,Tiro com Arco,04:30,Invalides,Individual - Oitavas de Final,M
-04/8,Tiro com Arco,08:00,Invalides,Individual - Quartas de Final,M
-04/8,Tiro com Arco,08:52,Invalides,Individual - Semifinal,M
-04/8,Tiro com Arco,09:33,Invalides,Individual - Disputa pelo Bronze,M
-04/8,Tiro com Arco,09:46,Invalides,Individual - Disputa pelo Ouro,M
-04/8,Tiro Esportivo,Pistola tiro rápido 25m - Classificação,M
-04/8,Tiro Esportivo,Skeet - Classificação - Dia 2,F
-04/8,Tiro Esportivo,Skeet - Final,F
-04/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 4,U
-04/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 5,U
-04/8,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 6,U
-04/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 7,M
-04/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 8,M
-04/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 7,F
-04/8,Vela,IDF,Marina de Marselha,Dinghy - Prova 8,F
-04/8,Vela,IDF,Marina de Marselha,Kite - Prova 1,M
-04/8,Vela,IDF,Marina de Marselha,Kite - Prova 2,M
-04/8,Vela,IDF,Marina de Marselha,Kite - Prova 3,M
-04/8,Vela,IDF,Marina de Marselha,Kite - Prova 4,M
-04/8,Vela,IDF,Marina de Marselha,Kite - Prova 1,F
-04/8,Vela,IDF,Marina de Marselha,Kite - Prova 2,F
-04/8,Vela,IDF,Marina de Marselha,Kite - Prova 3,F
-04/8,Vela,IDF,Marina de Marselha,Kite - Prova 4,F
-04/8,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 5,U
-04/8,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 6,U
-04/8,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
-04/8,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
-04/8,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
-04/8,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,F
-04/8,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
-04/8,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
-04/8,Vôlei de Praia,08:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
-04/8,Vôlei de Praia,09:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
-04/8,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
-04/8,Vôlei de Praia,13:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
-04/8,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
-04/8,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
-
-
-
-
-
-
-
-
-
-
+28/07/2024,Canoagem Slalom,10:30,Est.Náutico Água Branca,Caiaque Individual Feminino - Semifinal,F
+28/07/2024,Canoagem Slalom,12:45,Est.Náutico Água Branca,Caiaque Individual Feminino - Final,F
+28/07/2024,Ciclismo Mountain Bike,9:10,Eleancourt Hill,Cross-Country,F
+28/07/2024,Esgrima,04:30,Grand Palais,Florete Individual - Primeira Fase,F
+28/07/2024,Esgrima,05:00,Grand Palais,Florete Individual - Primeira Fase,M
+28/07/2024,Esgrima,05:25,Grand Palais,Florete Individual - Segunda Fase,F
+28/07/2024,Esgrima,07:25,Grand Palais,Espada Individual - Segunda Fase,M
+28/07/2024,Esgrima,09:05,Grand Palais,Florete Individual - Oitavas de Final,F
+28/07/2024,Esgrima,10:05,Grand Palais,Espada Individual - Oitavas de Final,M
+28/07/2024,Esgrima,10:55,Grand Palais,Florete Individual - Quartas de Final,F
+28/07/2024,Esgrima,11:25,Grand Palais,Espada Individual - Quartas de Final,M
+28/07/2024,Esgrima,14:00,Grand Palais,Florete Individual - Semifinal 1,F
+28/07/2024,Esgrima,14:30,Grand Palais,Florete Individual - Semifinal 2,F
+28/07/2024,Esgrima,15:00,Grand Palais,Espada Individual - Semifinal 1,M
+28/07/2024,Esgrima,15:25,Grand Palais,Espada Individual - Semifinal 2,M
+28/07/2024,Esgrima,15:50,Grand Palais,Florete Individual - Disputa de Bronze,F
+28/07/2024,Esgrima,16:20,Grand Palais,Espada Individual - Disputa de Bronze,M
+28/07/2024,Esgrima,16:45,Grand Palais,Florete Individual - Disputa de Ouro,F
+28/07/2024,Esgrima,17;15,Grand Palais,Espada Individual - Disputa de Ouro,M
+28/07/2024,Futebol,12:00,Parc des Princes,Brasil - Japão,F
+28/07/2024,Futebol,12:00,Estádio de Lyon,Nova Zelândia - Colômbia,F
+28/07/2024,Futebol,14:00,Estádio La Beaujoire,Espanha - CAF 1,F
+28/07/2024,Futebol,14:00,Estádio de Nice,Austrália - CAF 2,F
+28/07/2024,Futebol,16:00,Estádio Geoffroy-Guichard,França - Canadá,F
+28/07/2024,Futebol,16:00,Estádio de Marselha,EUA - Alemanha,F
+28/07/2024,Ginástica Artística,04:30,Arena Bercy,Classificatória - Subdivisão 1,F
+28/07/2024,Ginástica Artística,06:40,Arena Bercy,Classificatória - Subdivisão 2,F
+28/07/2024,Ginástica Artística,09:50,Arena Bercy,Classificatória - Subdivisão 3,F
+28/07/2024,Ginástica Artística,13:00,Arena Bercy,Classificatória - Subdivisão 4,F
+28/07/2024,Ginástica Artística,16:10,Arena Bercy,Classificatória - Subdivisão 5,F
+28/07/2024,Handebol,04:00,Arena 6 Paris Sul,Rodada Preliminar - Brasil - Hungria,F
+28/07/2024,Handebol,06:00,Arena 6 Paris Sul,Rodada Preliminar - República da Coréia - Eslovênia,F
+28/07/2024,Handebol,09:00,Arena 6 Paris Sul,Rodada Preliminar - Suécia - Alemanha,F
+28/07/2024,Handebol,11:00,Arena 6 Paris Sul,Rodada Preliminar - Dinamarca - Noruega,F
+28/07/2024,Handebol,14:00,Arena 6 Paris Sul,Rodada Preliminar - Angola - Espanha,F
+28/07/2024,Handebol,16:00,Arena 6 Paris Sul,Rodada Preliminar - França - Países Baixos,F
+28/07/2024,Hipismo,05:30,Palácio de Versalhes,CCE por equipes - Cross-Country,U
+28/07/2024,Hipismo,08:00,Palácio de Versalhes,CCE individual - Cross-Country,U
+28/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Fase de Grupos - Bélgica - China,F
+28/07/2024,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Fase de Grupos - Alemanha - Japão,F
+28/07/2024,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Fase de Grupos - Austrália - África do Sul,F
+28/07/2024,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Fase de Grupos - Grã-Bretanha - Espanha,F
+28/07/2024,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,Fase de Grupos - Alemanha - Espanha,M
+28/07/2024,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Fase de Grupos - Bélgica - Nova Zelândia,M
+28/07/2024,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Fase de Grupos - Países Baixos - França,M
+28/07/2024,Hóquei sobre Grama,15:15,Estádio Yves-du-Manoir,Fase de Grupos - África do Sul - Grã-Bretanha,M
+28/07/2024,Judô,05:00,Arena Champ-de-Mars,66 kg - Primeira Fase Eliminatória,M
+28/07/2024,Judô,05:00,Arena Champ-de-Mars,52 kg - Primeira Fase Eliminatória,F
+28/07/2024,Judô,05:28,Arena Champ-de-Mars,66 kg - Segunda Fase Eliminatória,M
+28/07/2024,Judô,05:28,Arena Champ-de-Mars,66 kg - Quartas de Final,F
+28/07/2024,Judô,07:20,Arena Champ-de-Mars,66 kg - Oitavas de Final,M
+28/07/2024,Judô,08:16,Arena Champ-de-Mars,66 kg - Quartas de Final,M
+28/07/2024,Judô,11:00,Arena Champ-de-Mars,66 kg - Repescagem,M
+28/07/2024,Judô,11:17,Arena Champ-de-Mars,66 kg - Semifinais,M
+28/07/2024,Judô,11:34,Arena Champ-de-Mars,52 kg - Repescagem,F
+28/07/2024,Judô,11:51,Arena Champ-de-Mars,52 kg - Semifinais,F
+28/07/2024,Judô,12:18,Arena Champ-de-Mars,66 kg - Disputa pelo Bronze A,M
+28/07/2024,Judô,12:28,Arena Champ-de-Mars,66 kg - Disputa pelo Bronze B,M
+28/07/2024,Judô,12:38,Arena Champ-de-Mars,66 kg - Final,M
+28/07/2024,Judô,12:49,Arena Champ-de-Mars,52 kg - Disputa pelo Bronze A,F
+28/07/2024,Judô,12:59,Arena Champ-de-Mars,52 kg - Disputa pelo Bronze B,F
+28/07/2024,Judô,13:09,Arena Champ-de-Mars,52 kg - Final,F
+28/07/2024,Natação,06:00,Arena Paris La Défense, 200m livre - Baterias,M
+28/07/2024,Natação,06:00,Arena Paris La Défense, 400m Medley - Baterias,M
+28/07/2024,Natação,06:00,Arena Paris La Défense, 100m peito - Baterias,F
+28/07/2024,Natação,06:00,Arena Paris La Défense, 100m costas - Baterias,M
+28/07/2024,Natação,06:00,Arena Paris La Défense, 200m livre - Baterias,F
+28/07/2024,Natação,15:30,Arena Paris La Défense, 400m Medley - Final,M
+28/07/2024,Natação,15:45,Arena Paris La Défense, 100m borboleta - Final,F
+28/07/2024,Natação,15:51,Arena Paris La Défense, 200m livre - Semifinais,M
+28/07/2024,Natação,16:15,Arena Paris La Défense, 100m peito - Semifinais,F
+28/07/2024,Natação,16:37,Arena Paris La Défense, 100m costas - Semifinais,M
+28/07/2024,Natação,16:54,Arena Paris La Défense, 100m peito - Final,M
+28/07/2024,Natação,17:00,Arena Paris La Défense, 200m livre - Semifinais,Fase
+28/07/2024,Polo Aquático,05:30,Centro Aquático,Austrália - Espanha,M
+28/07/2024,Polo Aquático,07:05,Centro Aquático,Sérvia - Japão,M
+28/07/2024,Polo Aquático,10:00,Centro Aquático,Itália - EUA,M
+28/07/2024,Polo Aquático,11:35,Centro Aquático,Croácia - Montenegro,M
+28/07/2024,Polo Aquático,14:30,Centro Aquático,França - Hungria,M
+28/07/2024,Polo Aquático,16:05,Centro Aquático,Romênia - Grécia,M
+28/07/2024,Remo,04:00,Est. Náutico - Água Plana,Sculls Individual - Repescagem,F
+28/07/2024,Remo,04:36,Est. Náutico - Água Plana,Sculls Individual - Repescagem,M
+28/07/2024,Remo,05:10,Est. Náutico - Água Plana,Sculls Duplo - Repescagem,F
+28/07/2024,Remo,05:20,Est. Náutico - Água Plana,Sculls Duplo - Repescagem,M
+28/07/2024,Remo,05:30,Est. Náutico - Água Plana,Par - Bateria,F
+28/07/2024,Remo,06:00,Est. Náutico - Água Plana,Par - Bateria,M
+28/07/2024,Remo,06:30,Est. Náutico - Água Plana,Sculls Duplo peso leve - Bateria,F
+28/07/2024,Remo,07:00,Est. Náutico - Água Plana,Sculls Duplo peso leve - Bateria,M
+28/07/2024,Remo,07:30,Est. Náutico - Água Plana,Quatro - Bateria,F
+28/07/2024,Remo,07:50,Est. Náutico - Água Plana,Quatro - Bateria,M
+28/07/2024,Rugby Sevens,10:30,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,11:00,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,11:30,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,12:00,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,12:30,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,13:00,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,14:00,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,14:30,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,15:00,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,15:30,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,16:00,Stade de France,Fase Preliminar,U
+28/07/2024,Rugby Sevens,16:30,Stade de France,Fase Preliminar,U
+28/07/2024,Skate,07:00,La Concorde 3,Street - Preliminar,F
+28/07/2024,Skate,12:00,La Concorde 3,Street - Final,F
+28/07/2024,Surfe,14:00,Teahupo'o - Taiti,Rodada 2,F
+28/07/2024,Surfe,18:48,Teahupo'o - Taiti,Rodada 2,M
+28/07/2024,Tênis,07:00,Stade Roland-Garros,MS 1ª Rodada/ FS 1ª Rodada,U
+28/07/2024,Tênis,07:00,Stade Roland-Garros,MS & FS 1º Rodada/MD & FD 1ª Rodada,U
+28/07/2024,Tênis,07:00,Stade Roland-Garros,MS & FS 1º Rodada/MD & FD 1ª Rodada,U
+28/07/2024,Tênis,14:00,Stade Roland-Garros,MS & FS 1º Rodada/MD & FD 1ª Rodada,U
+28/07/2024,Tênis,14:00,Stade Roland-Garros,MS 1ª Rodada/ FS 1ª Rodada,U
+28/07/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Primeira Fase,U
+28/07/2024,Tênis de Mesa,11:00,Arena 4 Paris Sul,Duplas Mistas - Quartas de Final,U
+28/07/2024,Tênis de Mesa,15:00,Arena 4 Paris Sul,Individual - Primeira Fase,U
+28/07/2024,Tiro com Arco,04:30,Equipe - Oitavas de Final,F,
+28/07/2024,Tiro com Arco,09:15,Equipe - Quartas de Final,F,
+28/07/2024,Tiro com Arco,10:47,Equipe - Semifinais,F,
+28/07/2024,Tiro com Arco,11:48,Equipe - Disputa de Bronze,F,
+28/07/2024,Tiro com Arco,12:11,Equipe - Final,F,
+28/07/2024,Tiro Esportivo,04:15,Carabina de Ar 10m - Classificação,F,
+28/07/2024,Tiro Esportivo,04:30,Pistola de Ar 10m - Final,M,
+28/07/2024,Tiro Esportivo,06:15,Carabina de Ar 10m - Classificação,M,
+28/07/2024,Tiro Esportivo,07:00,Pistola de Ar 10m - Final,F,
+28/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 1,F
+28/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 2,F
+28/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 3,M
+28/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 1,M
+28/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 2,M
+28/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 3,F
+28/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 4,M
+28/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 4,F
+28/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 1,F
+28/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 1,M
+28/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 2,F
+28/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 2,M
+28/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 3,F
+28/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 3,M
+28/07/2024,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+28/07/2024,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+28/07/2024,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,M
+28/07/2024,Vôlei,16:00,Arena 1 Paris Sul,Fase Preliminar,M
+28/07/2024,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
+28/07/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Badminton,03:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
+29/07/2024,Badminton,03:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
+29/07/2024,Badminton,03:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
+29/07/2024,Badminton,04:20,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
+29/07/2024,Badminton,04:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+29/07/2024,Badminton,04:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+29/07/2024,Badminton,05:10,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+29/07/2024,Badminton,05:10,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+29/07/2024,Badminton,05:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+29/07/2024,Badminton,06:00,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+29/07/2024,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+29/07/2024,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+29/07/2024,Badminton,09:00,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
+29/07/2024,Badminton,09:00,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
+29/07/2024,Badminton,09:00,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+29/07/2024,Badminton,09:50,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+29/07/2024,Badminton,09:50,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+29/07/2024,Badminton,09:50,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+29/07/2024,Badminton,10:40,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+29/07/2024,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+29/07/2024,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+29/07/2024,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+29/07/2024,Badminton,14:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
+29/07/2024,Badminton,14:30,Arena La Chapelle,Duplas Mistas - Fase de Grupos,U
+29/07/2024,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+29/07/2024,Badminton,15:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+29/07/2024,Badminton,15:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+29/07/2024,Badminton,15:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+29/07/2024,Badminton,16:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+29/07/2024,Badminton,16:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+29/07/2024,Badminton,16:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+29/07/2024,Badminton,17:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+29/07/2024,Basquete,06:00,Estádio Pierre Mauroy,Nigéria - Austrália,F
+29/07/2024,Basquete,08:30,Estádio Pierre Mauroy,Alemanha - Bélgica,F
+29/07/2024,Basquete,12:15,Estádio Pierre Mauroy,Canadá - França,F
+29/07/2024,Basquete,16:00,Estádio Pierre Mauroy,EUA - Japão,F
+29/07/2024,Boxe,06:00,Arena Norte de Paris,60 kg - Oitavas de Final,F
+29/07/2024,Boxe,06:48,Arena Norte de Paris,63.5 kg - Oitavas de Final,M
+29/07/2024,Boxe,07:36,Arena Norte de Paris,92 kg - Oitavas de Final,M
+29/07/2024,Boxe,10:30,Arena Norte de Paris,60 kg - Oitavas de Final,F
+29/07/2024,Boxe,11:02,Arena Norte de Paris,63.5 kg - Oitavas de Final,M
+29/07/2024,Boxe,11:50,Arena Norte de Paris,92 kg - Oitavas de Final,M
+29/07/2024,Boxe,15:00,Arena Norte de Paris,60 kg - Oitavas de Final,F
+29/07/2024,Boxe,15:48,Arena Norte de Paris,63.5 kg - Oitavas de Final,M
+29/07/2024,Boxe,16:20,Arena Norte de Paris,92 kg - Oitavas de Final,M
+29/07/2024,Canoagem Slalom,10:30,Est. Náutico Água Branca,Canoagem Individual - Semifinal,M
+29/07/2024,Canoagem Slalom,12:20,Est. Náutico Água Branca,Canoagem Individual - Final,M
+29/07/2024,Ciclismo Mountain Bike,09:10,Elancourt Hill,Cross-Country,M
+29/07/2024,Esgrima,04:30,Grand Palais,Sabre Individual - Primeira Fase,F
+29/07/2024,Esgrima,04:55,Grand Palais,Florete Individual - Primeira Fase,M
+29/07/2024,Esgrima,05:25,Grand Palais,Sabre Individual - Segunda Fase,F
+29/07/2024,Esgrima,07:05,Grand Palais,Florete Individual - Primeira Fase,M
+29/07/2024,Esgrima,09:05,Grand Palais,Sabre Individual - Oitavas de Final,F
+29/07/2024,Esgrima,09:55,Grand Palais,Florete Individual - Oitavas de Final,M
+29/07/2024,Esgrima,10:55,Grand Palais,Sabre Individual - Quartas de Final,F
+29/07/2024,Esgrima,11:20,Grand Palais,Florete Individual - Quartas de Final,M
+29/07/2024,Esgrima,14:00,Grand Palais,Sabre Individual - Semifinal 1,F
+29/07/2024,Esgrima,14:25,Grand Palais,Sabre Individual - Semifinal 2,F
+29/07/2024,Esgrima,14:50,Grand Palais,Florete Individual - Semifinal 1,M
+29/07/2024,Esgrima,15:20,Grand Palais,Florete Individual - Semifinal 2,M
+29/07/2024,Esgrima,15:50,Grand Palais,Sabre Individual - Disputa de Bronze,F
+29/07/2024,Esgrima,16:15,Grand Palais,Florete Individual - Disputa de Bronze,M
+29/07/2024,Esgrima,16:45,Grand Palais,Sabre Individual - Disputa de Ouro,F
+29/07/2024,Esgrima,17:10,Grand Palais,Florete Individual - Disputa de Ouro,M
+29/07/2024,Ginástica Artística,12:30,Arena Bercy,Competição por equipes - Final,M
+29/07/2024,Handebol,04:00,Arena 6 Paris Sul,Japão - Alemanha,M
+29/07/2024,Handebol,06:00,Arena 6 Paris Sul,Eslovênia - Croácia,M
+29/07/2024,Handebol,09:00,Arena 6 Paris Sul,Egito - Dinamarca,M
+29/07/2024,Handebol,11:00,Arena 6 Paris Sul,Suécia - Espanha,M
+29/07/2024,Handebol,14:00,Arena 6 Paris Sul,França - Noruega,M
+29/07/2024,Handebol,16:00,Arena 6 Paris Sul,Argentinha - Hungria,M
+29/07/2024,Hipismo,06:00,Palácio de Versalhes,CCE individual - Saltos - Classificatória,U
+29/07/2024,Hipismo,07:15,Palácio de Versalhes,CCE por equipes - Saltos - Final,U
+29/07/2024,Hipismo,10:00,Palácio de Versalhes,CCE individual - Saltos - Final,U
+29/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Irlanda - Austrália,M
+29/07/2024,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Japão - China,F
+29/07/2024,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Índia - Argentinha,M
+29/07/2024,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Espanha - EUA,F
+29/07/2024,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,Grã-Bretanha - Austrália,F
+29/07/2024,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,África do Sul - Argentinha,F
+29/07/2024,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Alemanha - Países Baixos,F
+29/07/2024,Hóquei sobre Grama,15:15,Estádio Yves-du-Manoir,França - Bélgica,F
+29/07/2024,Judô,05:00,Arena Champ-de-Mars,57 kg - Primeira Fase Eliminatória,F
+29/07/2024,Judô,05:00,Arena Champ-de-Mars,73 kg - Primeira Fase Eliminatória,M
+29/07/2024,Judô,05:28,Arena Champ-de-Mars,57 kg - Segunda Fase Eliminatória,F
+29/07/2024,Judô,05:28,Arena Champ-de-Mars,73 kg - Segunda Fase Eliminatória,M
+29/07/2024,Judô,07:20,Arena Champ-de-Mars,57 kg - Oitavas de Final,F
+29/07/2024,Judô,07:20,Arena Champ-de-Mars,57 kg - Oitavas de Final,M
+29/07/2024,Judô,08:16,Arena Champ-de-Mars,57 kg - Quartas de Final,F
+29/07/2024,Judô,08:16,Arena Champ-de-Mars,73 kg - Quartas de Final,M
+29/07/2024,Judô,11:00,Arena Champ-de-Mars,57 kg - Repescagem,F
+29/07/2024,Judô,11:17,Arena Champ-de-Mars,57 kg - Semifinais,F
+29/07/2024,Judô,11:34,Arena Champ-de-Mars,73 kg - Repescagem,M
+29/07/2024,Judô,11:51,Arena Champ-de-Mars,57 kg - Semifinais,M
+29/07/2024,Judô,12:18,Arena Champ-de-Mars,57 kg - Disputa pelo Bronze A,F
+29/07/2024,Judô,12:28,Arena Champ-de-Mars,57 kg - Disputa pelo Bronze B,F
+29/07/2024,Judô,12:38,Arena Champ-de-Mars,57 kg - Final,F
+29/07/2024,Judô,12:49,Arena Champ-de-Mars,73 kg - Disputa pelo Bronze A,M
+29/07/2024,Judô,12:59,Arena Champ-de-Mars,57 kg - Disputa pelo Bronze,M
+29/07/2024,Judô,13:09,Arena Champ-de-Mars,57 kg - Final,M
+29/07/2024,Natação,06:00,Arena Paris La Défense,400m Medley Individual - Baterias,F
+29/07/2024,Natação,06:00,Arena Paris La Défense,100m costas Individual - Baterias,F
+29/07/2024,Natação,06:00,Arena Paris La Défense,800m livre Individual - Baterias,M
+29/07/2024,Natação,15:30,Arena Paris La Défense,400m Medley Individual - Final,F
+29/07/2024,Natação,15:43,Arena Paris La Défense,200m livre Individual - Final,M
+29/07/2024,Natação,16:00,Arena Paris La Défense,100m costas Individual - Semifinais,F
+29/07/2024,Natação,16:22,Arena Paris La Défense,100m costas Individual - Final,M
+29/07/2024,Natação,16:32,Arena Paris La Défense,100m peito Individual - Final,F
+29/07/2024,Natação,16:48,Arena Paris La Défense,200m livre Individual - Final,F
+29/07/2024,Polo Aquático,09:00,Centro Aquático,França - Itália,F
+29/07/2024,Polo Aquático,10:35,Centro Aquático,EUA - Espanha,F
+29/07/2024,Polo Aquático,13:30,Centro Aquático,China - Países Baixos,F
+29/07/2024,Polo Aquático,15:05,Centro Aquático,Hungria - Canadá,F
+29/07/2024,Remo,04:30,Est. Náutico - Água Plana,Sculls Indiv - Semifinais E/F 1,M
+29/07/2024,Remo,04:42,Est. Náutico - Água Plana,Sculls Indiv - Semifinais E/F 2,M
+29/07/2024,Remo,04:54,Est. Náutico - Água Plana,Sculls Indiv - Semifinais E/F 1,F
+29/07/2024,Remo,05:06,Est. Náutico - Água Plana,Sculls Indiv - Semifinais E/F 2,F
+29/07/2024,Remo,05:20,Est. Náutico - Água Plana,Par - Repescagem,M
+29/07/2024,Remo,05:30,Est. Náutico - Água Plana,Par - Repescagem,F
+29/07/2024,Remo,05:40,Est. Náutico - Água Plana,Sculls Duplo peso leve - Repescagem,M
+29/07/2024,Remo,06:00,Est. Náutico - Água Plana,Sculls Duplo peso leve - Repescagem,F
+29/07/2024,Remo,06:20,Est. Náutico - Água Plana,Sculls Quádruplo - Repescagem,M
+29/07/2024,Remo,06:30,Est. Náutico - Água Plana,Sculls Quádruplo - Repescagem,F
+29/07/2024,Remo,06:40,Est. Náutico - Água Plana,Oito - Bateria,M
+29/07/2024,Remo,07:00,Est. Náutico - Água Plana,Oito - Bateria,F
+29/07/2024,Rugby Sevens,09:00,Stade de France,Fase Preliminar,U
+29/07/2024,Rugby Sevens,09:30,Stade de France,Fase Preliminar,U
+29/07/2024,Rugby Sevens,10:00,Stade de France,Fase Preliminar,U
+29/07/2024,Rugby Sevens,10:30,Stade de France,Fase Preliminar,U
+29/07/2024,Rugby Sevens,11:00,Stade de France,Fase Preliminar,U
+29/07/2024,Rugby Sevens,11:30,Stade de France,Fase Preliminar,U
+29/07/2024,Rugby Sevens,15:00,Stade de France,Colocação 9-12 lugar,F
+29/07/2024,Rugby Sevens,15:30,Stade de France,Colocação 9-12 lugar,F
+29/07/2024,Rugby Sevens,16:00,Stade de France,Quartas de Final,F
+29/07/2024,Rugby Sevens,16:30,Stade de France,Quartas de Final,F
+29/07/2024,Rugby Sevens,17:00,Stade de France,Quartas de Final,F
+29/07/2024,Rugby Sevens,17:30,Stade de France,Quartas de Final,F
+29/07/2024,Saltos Ornamentais,06:00,Centro Aquático,Plataforma 10m sincronizado - Final,M
+29/07/2024,Surfe,14:00,Teahupo'o - Taiti,Rodada 3,M
+29/07/2024,Surfe,18:48,Teahupo'o - Taiti,Rodada 3,F
+29/07/2024,Tênis,07:00,Stade Roland-Garros,MS 2ª Rodada/ FS 2ª Rodada,U
+29/07/2024,Tênis,07:00,Stade Roland-Garros,MS & FS 2ªRd/ MD & FD 2ªRd/ XD 1ªRd,U
+29/07/2024,Tênis,07:00,Stade Roland-Garros,MS & FS 2ªRd/ MD & FD 2ªRd/ XD 1ªRd,U
+29/07/2024,Tênis,07:00,Stade Roland-Garros,MS & FS 2ªRd/ MD & FD 2ªRd/ XD 1ªRd,U
+29/07/2024,Tênis,14:00,Stade Roland-Garros,MS Second Rnd/WS Second Rnd,U
+29/07/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Primeira Fase,U
+29/07/2024,Tênis de Mesa,12:00,Arena 4 Paris Sul,Duplas Mistas - Semifinal,U
+29/07/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Segunda Fase,U
+29/07/2024,Tiro com Arco,04:30,Invalides,Equipe Masculina - Oitavas de Final,M
+29/07/2024,Tiro com Arco,09:15,Invalides,Equipe Masculina - Quartas de Final,M
+29/07/2024,Tiro com Arco,10:47,Invalides,Equipe Masculina - Semifinais,M
+29/07/2024,Tiro com Arco,11:48,Invalides,Equipe Masculina - Disputa de Bronze,M
+29/07/2024,Tiro com Arco,12:11,Invalides,Equipe Masculina - Disputa de Ouro,M
+29/07/2024,Tiro Esportivo,04:00,Trap - Classificação - Dia 1,M,
+29/07/2024,Tiro Esportivo,04:15,C. Pistola de Ar 10m E. Mista - Parte 1,U,
+29/07/2024,Tiro Esportivo,04:30,Carabina de Ar 10m - Final,F,
+29/07/2024,Tiro Esportivo,07:00,Carabina de Ar 10m - Final,M,
+29/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 4,F
+29/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 5,F
+29/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 6,F
+29/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 4,M
+29/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 5,M
+29/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 6,M
+29/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 5,F
+29/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 5,M
+29/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 6,F
+29/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 6,M
+29/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 7,F
+29/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 7,M
+29/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 8,F
+29/07/2024,Vela,IDF,Marina de Marselha,Windsurfing - Prova 8,M
+29/07/2024,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+29/07/2024,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+29/07/2024,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
+29/07/2024,Vôlei,16:00,Arena 1 Paris Sul,Fase Preliminar,F
+29/07/2024,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
+29/07/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,04:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,04:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+30/07/2024,Badminton,04:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+30/07/2024,Badminton,05:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+30/07/2024,Badminton,05:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+30/07/2024,Badminton,05:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+30/07/2024,Badminton,06:00,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+30/07/2024,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+30/07/2024,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+30/07/2024,Badminton,09:00,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+30/07/2024,Badminton,09:00,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+30/07/2024,Badminton,09:00,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+30/07/2024,Badminton,09:50,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+30/07/2024,Badminton,09:50,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+30/07/2024,Badminton,09:50,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+30/07/2024,Badminton,10:40,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,10:40,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,10:40,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+30/07/2024,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+30/07/2024,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+30/07/2024,Badminton,15:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+30/07/2024,Badminton,15:20,Arena La Chapelle,Duplas Masculinas - Fase de Grupos,M
+30/07/2024,Badminton,15:20,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+30/07/2024,Badminton,16:10,Arena La Chapelle,Duplas Femininas - Fase de Grupos,F
+30/07/2024,Badminton,16:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+30/07/2024,Badminton,16:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+30/07/2024,Badminton,17:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+30/07/2024,Basquete,06:00,Estádio Pierre Mauroy,Vencedor OQT ESP - Vencedor OQT GRE,M
+30/07/2024,Basquete,08:30,Estádio Pierre Mauroy,Canadá - Austrália,M
+30/07/2024,Basquete,12:15,Estádio Pierre Mauroy,Japão - França,M
+30/07/2024,Basquete,16:00,Estádio Pierre Mauroy,Vencedor OQT LAT - Alemanha,M
+30/07/2024,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,F
+30/07/2024,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
+30/07/2024,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
+30/07/2024,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
+30/07/2024,Basquete 3x3,16:00,La Concorde 1,Fase de Grupos,F
+30/07/2024,Basquete 3x3,16:30,La Concorde 1,Fase de Grupos,F
+30/07/2024,Basquete 3x3,17:05,La Concorde 1,Fase de Grupos,M
+30/07/2024,Basquete 3x3,17:35,La Concorde 1,Fase de Grupos,M
+30/07/2024,Boxe,06:00,Arena Norte de Paris,51 kg - Oitavas de Final,M
+30/07/2024,Boxe,06:48,Arena Norte de Paris,80 kg - Oitavas de Final,M
+30/07/2024,Boxe,07:20,Arena Norte de Paris,54 kg - Oitavas de Final,F
+30/07/2024,Boxe,08:08,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,F
+30/07/2024,Boxe,10:30,Arena Norte de Paris,51 kg - Oitavas de Final,M
+30/07/2024,Boxe,11:18,Arena Norte de Paris,80 kg - Oitavas de Final,M
+30/07/2024,Boxe,11:50,Arena Norte de Paris,54 kg - Oitavas de Final,F
+30/07/2024,Boxe,12:38,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,F
+30/07/2024,Boxe,15:00,Arena Norte de Paris,51 kg - Oitavas de Final,M
+30/07/2024,Boxe,15:32,Arena Norte de Paris,80 kg - Oitavas de Final,M
+30/07/2024,Boxe,16:36,Arena Norte de Paris,54 kg - Oitavas de Final,F
+30/07/2024,Boxe,17:08,Arena Norte de Paris,57 kg - Primeira Fase Preliminar,F
+30/07/2024,Canoagem Slalom,10:00,Est. Náutico Água Branca,Canoagem Individual Heats - Primeira Run,F
+30/07/2024,Canoagem Slalom,11:00,Est. Náutico Água Branca,Caiaque Individual Heats - Primeira Run,M
+30/07/2024,Canoagem Slalom,12:10,Est. Náutico Água Branca,Canoagem Individual Heats - Segunda Run,F
+30/07/2024,Canoagem Slalom,13:10,Est. Náutico Água Branca,Caiaque Individual Heats - Segunda Run,M
+30/07/2024,Ciclismo BMX Freestyle,08:25,La Concorde 2,Park - Classificação,F
+30/07/2024,Ciclismo BMX Freestyle,08:25,La Concorde 2,Park - Classificação,M
+30/07/2024,Esgrima,08:30,Grand Palais,Espada por equipes - Quartas de Final,F
+30/07/2024,Esgrima,10:00,Grand Palais,Espada por equipes - Classificação 5-8 lugar,F
+30/07/2024,Esgrima,10:50,Grand Palais,Espada por equipes - Semifinal 1,F
+30/07/2024,Esgrima,10:50,Grand Palais,Espada por equipes - Semifinal 2,F
+30/07/2024,Esgrima,11:40,Grand Palais,Espada por equipes - Classificação 7-8 lugar,F
+30/07/2024,Esgrima,11:40,Grand Palais,Espada por equipes - Classificação 5-6 lugar,F
+30/07/2024,Esgrima,14:30,Grand Palais,Espada por equipes - Disputa por Bronze,F
+30/07/2024,Esgrima,15:30,Grand Palais,Espada por equipes - Disputa por Ouro,F
+30/07/2024,Futebol,10:00,Parc des Princes,República Dominicana - Uzbequistão,M
+30/07/2024,Futebol,10:00,Estádio Bordeaux,Espanha - Egito,M
+30/07/2024,Futebol,12:00,Estádio de Lyon,Ucrânia - Argentinha,M
+30/07/2024,Futebol,12:00,Estádio de Nice,Marrocos - Iraque,M
+30/07/2024,Futebol,14:00,Estádio Geoffroy-Guichard,EUA - Guiné,M
+30/07/2024,Futebol,14:00,Estádio de Marselha,Nova Zelândia - França,M
+30/07/2024,Futebol,16:00,Parc des Princes,Paraguai - Mali,M
+30/07/2024,Futebol,16:00,Estádio de La Beaujoire,Israel - Japão,M
+30/07/2024,Ginástica Artística,13:15,Arena Bercy,Competição por equipes - Final,F
+30/07/2024,Handebol,04:00,Arena 6 Paris Sul,Alemanha - Eslovênia,F
+30/07/2024,Handebol,06:00,Arena 6 Paris Sul,Noruega - República da Coréia do Sul,F
+30/07/2024,Handebol,09:00,Arena 6 Paris Sul,Países Baixos - Espanha,F
+30/07/2024,Handebol,11:00,Arena 6 Paris Sul,Hungria - Angola,F
+30/07/2024,Handebol,14:00,Arena 6 Paris Sul,França - Brasil,F
+30/07/2024,Handebol,16:00,Arena 6 Paris Sul,Suécia - Dinamarca,F
+30/07/2024,Hipismo,06:00,Palácio de Versalhes,Adestramento por equipes - GP - Dia 1,U
+30/07/2024,Hipismo,06:00,Palácio de Versalhes,Adestramento Individual - Grande Prêmio Dia 1,U
+30/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Espanha - França,M
+30/07/2024,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,África do Sul - Alemanha,M
+30/07/2024,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Grã-Bretanha - Países Baixos,M
+30/07/2024,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Irlanda - Índia,M
+30/07/2024,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,Argentinha - Nova Zelândia,M
+30/07/2024,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Austrália - Bélgica,M
+30/07/2024,Judô,05:00,Arena Champ-de-Mars,81 kg - Primeira Fase Eliminatória,M
+30/07/2024,Judô,05:00,Arena Champ-de-Mars,63 kg - Primeira Fase Eliminatória,F
+30/07/2024,Judô,05:28,Arena Champ-de-Mars,81 kg - Segunda Fase Eliminatória,M
+30/07/2024,Judô,05:28,Arena Champ-de-Mars,63 kg - Segunda Fase Eliminatória,F
+30/07/2024,Judô,07:20,Arena Champ-de-Mars,81 kg - Oitavas de Final,M
+30/07/2024,Judô,07:20,Arena Champ-de-Mars,63 kg - Oitavas de Final,F
+30/07/2024,Judô,08:16,Arena Champ-de-Mars,81 kg - Quartas de Final,M
+30/07/2024,Judô,08:16,Arena Champ-de-Mars,63 kg - Quartas de Final,F
+30/07/2024,Judô,11:00,Arena Champ-de-Mars,81 kg - Repescagem,M
+30/07/2024,Judô,11:17,Arena Champ-de-Mars,81 kg - Semifinais,M
+30/07/2024,Judô,11:34,Arena Champ-de-Mars,63 kg - Repescagem,F
+30/07/2024,Judô,11:51,Arena Champ-de-Mars,63 kg - Semifinais,F
+30/07/2024,Judô,12:18,Arena Champ-de-Mars,81 kg - Disputa pelo Bronze A,M
+30/07/2024,Judô,12:28,Arena Champ-de-Mars,81 kg - Disputa pelo Bronze B,M
+30/07/2024,Judô,12:38,Arena Champ-de-Mars,81 kg - Final,M
+30/07/2024,Judô,12:49,Arena Champ-de-Mars,63 kg - Disputa pelo Bronze A,F
+30/07/2024,Judô,12:59,Arena Champ-de-Mars,63 kg - Disputa pelo Bronze B,F
+30/07/2024,Judô,12:09,Arena Champ-de-Mars,63 kg - Final,F
+30/07/2024,Natação,06:00,Arena Paris La Défense,200m borboleta - Baterias,M
+30/07/2024,Natação,06:00,Arena Paris La Défense,100m livre - Baterias,M
+30/07/2024,Natação,06:00,Arena Paris La Défense,1500m livre - Baterias,F
+30/07/2024,Natação,06:00,Arena Paris La Défense,100m livre - Baterias,F
+30/07/2024,Natação,06:00,Arena Paris La Défense,200m peito - Baterias,M
+30/07/2024,Natação,06:00,Arena Paris La Défense,Revesamento 4x200m livre - Baterias,M
+30/07/2024,Natação,15:30,Arena Paris La Défense,100m livre - Semifinais,M
+30/07/2024,Natação,15:41,Arena Paris La Défense,200m borboleta - Semifinais,M
+30/07/2024,Natação,15:57,Arena Paris La Défense,100m costas - Final,F
+30/07/2024,Natação,16:03,Arena Paris La Défense,800m livre - Final,M
+30/07/2024,Natação,16:25,Arena Paris La Défense,100m livre - Semifinais,F
+30/07/2024,Natação,16:46,Arena Paris La Défense,200m peito - Semifinais,M
+30/07/2024,Natação,16:59,Arena Paris La Défense,Revesamento 4x200m livre - Final,M
+30/07/2024,Polo Aquático,05:30,Centro Aquático,Austrália - Sérvia,M
+30/07/2024,Polo Aquático,07:05,Centro Aquático,Croácia - Itália,M
+30/07/2024,Polo Aquático,10:00,Centro Aquático,Japão - França,M
+30/07/2024,Polo Aquático,11:35,Centro Aquático,EUA - Romênia,M
+30/07/2024,Polo Aquático,14:30,Centro Aquático,Montenegro - Grécia,M
+30/07/2024,Polo Aquático,16:05,Centro Aquático,Espanha - Hungria,M
+30/07/2024,Remo,04:30,Est. Náutico - Água Plana,Sculls Indiv - Quartas de final,F
+30/07/2024,Remo,05:10,Est. Náutico - Água Plana,Sculls Indiv - Quartas de final,M
+30/07/2024,Remo,05:50,Est. Náutico - Água Plana,Sculls Duplo - Semifinal A/B 1,F
+30/07/2024,Remo,06:00,Est. Náutico - Água Plana,Sculls Duplo - Semifinal A/B 2,F
+30/07/2024,Remo,06:10,Est. Náutico - Água Plana,Sculls Duplo - Semifinal A/B 1,M
+30/07/2024,Remo,06:20,Est. Náutico - Água Plana,Sculls Duplo - Semifinal A/B 2,M
+30/07/2024,Remo,06:30,Est. Náutico - Água Plana,Quatro - Repescagem,F
+30/07/2024,Remo,06:40,Est. Náutico - Água Plana,Quatro - Repescagem,M
+30/07/2024,Rugby Sevens,09:30,Stade de France,Colocação 5-8 lugar,F
+30/07/2024,Rugby Sevens,10:00,Stade de France,Colocação 5-8 lugar,F
+30/07/2024,Rugby Sevens,10:30,Stade de France,Semifinal,F
+30/07/2024,Rugby Sevens,11:00,Stade de France,Semifinal,F
+30/07/2024,Rugby Sevens,11:30,Stade de France,Colocação 11-12 lugar,F
+30/07/2024,Rugby Sevens,12:00,Stade de France,Colocação 9-10 lugar,F
+30/07/2024,Rugby Sevens,13:00,Stade de France,Colocação 7-8 lugar,F
+30/07/2024,Rugby Sevens,13:30,Stade de France,Colocação 5-6 lugar,F
+30/07/2024,Rugby Sevens,14:00,Stade de France,Disputa pela medalha de Bronze,F
+30/07/2024,Rugby Sevens,14:45,Stade de France,Disputa pela medalha de Ouro,F
+30/07/2024,Surfe,14:00,Teahupo'o - Taiti,Quartas de Final,M
+30/07/2024,Surfe,16:24,Teahupo'o - Taiti,Quartas de Final,F
+30/07/2024,Surfe,18:48,Teahupo'o - Taiti,Semifinal,M
+30/07/2024,Surfe,20:00,Teahupo'o - Taiti,Semifinal,F
+30/07/2024,Surfe,21:12,Teahupo'o - Taiti,Disputa pela medalha de Bronze,M
+30/07/2024,Surfe,21:53,Teahupo'o - Taiti,Disputa pela medalha de Bronze,F
+30/07/2024,Surfe,22:34,Teahupo'o - Taiti,Disputa pela medalha de Ouro,M
+30/07/2024,Surfe,23:15,Teahupo'o - Taiti,Disputa pela medalha de Ouro,F
+30/07/2024,Tênis,07:00,Stade Roland-Garros,MS 2ª Rodada/ FS 2ª Rodada,U
+30/07/2024,Tênis,07:00,Stade Roland-Garros,MS R2/ FS R3/ MD R3/ FD R2/ XD R1,U
+30/07/2024,Tênis,07:00,Stade Roland-Garros,MS R2/ FS R3/ MD R3/ FD R2/ XD R2,U
+30/07/2024,Tênis,07:00,Stade Roland-Garros,MS R2/ FS R3/ MD R3/ FD R2/ XD R3,U
+30/07/2024,Tênis,14:00,Stade Roland-Garros,MS 2ª Rodada/ FS 3ª Rodada,U
+30/07/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Segunda Fase,U
+30/07/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Duplas Mistas - Disputa pelo Bronze,U
+30/07/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Duplas Mista - Disputa pelo Ouro,U
+30/07/2024,Tiro com Arco,07:00,Individual - Primeira Fase Eliminatória,M,
+30/07/2024,Tiro com Arco,07:26,Individual - Primeira Fase Eliminatória,F,
+30/07/2024,Tiro com Arco,07:52,Individual - Segunda Fase Eliminatória,M,
+30/07/2024,Tiro com Arco,08:05,Individual - Segunda Fase Eliminatória,F,
+30/07/2024,Tiro com Arco,12:45,Individual - Primeira Fase Eliminatória,M,
+30/07/2024,Tiro com Arco,13:11,Individual - Primeira Fase Eliminatória,F,
+30/07/2024,Tiro com Arco,13:37,Individual - Segunda Fase Eliminatória,M,
+30/07/2024,Tiro com Arco,13:50,Individual - Segunda Fase Eliminatória,F,
+30/07/2024,Tiro Esportivo,IDF,Ctr. de Tiro Chateauroux,Trap - Classificação - Dia 2,M
+30/07/2024,Tiro Esportivo,IDF,Ctr. de Tiro Chateauroux,Trap - Classificação - Dia 1,F
+30/07/2024,Tiro Esportivo,04:30,Ctr. de Tiro Chateauroux,Pist de Ar 10m Equipe Mista - Bronze,U
+30/07/2024,Tiro Esportivo,05:00,Ctr. de Tiro Chateauroux,Pistola de Ar 10m Equipe Mista - Ouro,U
+30/07/2024,Tiro Esportivo,10:30,Ctr. de Tiro Chateauroux,Trap - Final,M
+30/07/2024,Triatlo,03:00,Ponte Alexandre III,Individual,M
+30/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 9,F
+30/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 10,F
+30/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 11,F
+30/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 12,F
+30/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 9,M
+30/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 10,M
+30/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 11,M
+30/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 12,M
+30/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 7,F
+30/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 8,F 
+30/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 9,F 
+30/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 7,M 
+30/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 8,M 
+30/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 9,M
+30/07/2024,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+30/07/2024,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+30/07/2024,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
+30/07/2024,Vôlei,16:00,Arena 1 Paris Sul,Fase Preliminar,F
+30/07/2024,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
+30/07/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,03:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,04:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,04:20,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,04:20,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,05:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,05:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,05:10,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,06:00,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,09:00,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,09:00,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,09:00,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,09:50,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,09:50,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,09:50,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,10:40,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,11:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,14:30,Arena La Chapelle,Simples Feminino - Fase de Grupos,F
+31/07/2024,Badminton,14:30,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,15:20,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,15:20,Arena La Chapelle,Simples Masculino - Fase de Grupos,M
+31/07/2024,Badminton,15:20,Arena La Chapelle,Duplas Mistas - Quartas de Final,U
+31/07/2024,Badminton,16:10,Arena La Chapelle,Duplas Mistas - Quartas de Final,U
+31/07/2024,Badminton,16:10,Arena La Chapelle,Duplas Mistas - Quartas de Final,U
+31/07/2024,Badminton,16:30,Arena La Chapelle,Duplas Mistas - Quartas de Final,U
+31/07/2024,Basquete,06:00,Estádio Pierre Mauroy,Porto Rico - Espanha,F
+31/07/2024,Basquete,08:30,Estádio Pierre Mauroy,China - Sérvia,F
+31/07/2024,Basquete,12:15,Estádio Pierre Mauroy,Vencedor OQT PUR - Sérvia,M
+31/07/2024,Basquete,16:00,Estádio Pierre Mauroy,EUA - Sudão do Sul,M
+31/07/2024,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,F
+31/07/2024,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
+31/07/2024,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
+31/07/2024,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
+31/07/2024,Basquete 3x3,16:00,La Concorde 1,Fase de Grupos,F
+31/07/2024,Basquete 3x3,16:30,La Concorde 1,Fase de Grupos,F
+31/07/2024,Basquete 3x3,17:05,La Concorde 1,Fase de Grupos,M
+31/07/2024,Basquete 3x3,17:35,La Concorde 1,Fase de Grupos,M
+31/07/2024,Boxe,06:00,Arena Norte de Paris,57 kg - Oitavas de Final,M
+31/07/2024,Boxe,06:32,Arena Norte de Paris,71 kg - Oitavas de Final,M
+31/07/2024,Boxe,07:04,Arena Norte de Paris,75 kg - Oitavas de Final,F
+31/07/2024,Boxe,08:08,Arena Norte de Paris,60 kg - Quartas de Final,F
+31/07/2024,Boxe,10:30,Arena Norte de Paris,57 kg - Oitavas de Final,M
+31/07/2024,Boxe,11:18,Arena Norte de Paris,71 kg - Oitavas de Final,M
+31/07/2024,Boxe,12:06,Arena Norte de Paris,75 kg - Oitavas de Final,F
+31/07/2024,Boxe,12:38,Arena Norte de Paris,60 kg - Quartas de Final,F
+31/07/2024,Boxe,15:00,Arena Norte de Paris,57 kg - Oitavas de Final,M
+31/07/2024,Boxe,15:48,Arena Norte de Paris,71 kg - Oitavas de Final,M
+31/07/2024,Boxe,16:38,Arena Norte de Paris,75 kg - Oitavas de Final,F
+31/07/2024,Boxe,17:08,Arena Norte de Paris,60 kg - Quartas de Final,F
+31/07/2024,Canoagem Slalom,10:30,Est. Náutico Água Branca,Canoagem Individual - Semifinal,F
+31/07/2024,Canoagem Slalom,12:25,Est. Náutico Água Branca,Canoagem Individual - Final,F
+31/07/2024,Ciclismo BMX Freestyle,08:10,La Concorde 2,Park - Final,F
+31/07/2024,Ciclismo BMX Freestyle,09:45,La Concorde 2,Park - Final,M
+31/07/2024,Esgrima,08:30,Grand Palais,Sabre por equipes - Quartas de Final,M
+31/07/2024,Esgrima,10:00,Grand Palais,Sabre por equipes - Classificação 5-8 lugar,M
+31/07/2024,Esgrima,10:50,Grand Palais,Sabre por equipes - Semifinal 1,M
+31/07/2024,Esgrima,10:50,Grand Palais,Sabre por equipes - Semifinal 2,M
+31/07/2024,Esgrima,11:40,Grand Palais,Sabre por equipes - 7-8 lugar,M
+31/07/2024,Esgrima,11:40,Grand Palais,Sabre por equipes - 5-6 lugar,M
+31/07/2024,Esgrima,14:30,Grand Palais,Sabre por equipes - Disputa por Bronze,M
+31/07/2024,Esgrima,15:30,Grand Palais,Sabre por equipes - Disputa por Ouro,M
+31/07/2024,Futebol,12:00,Estádio La Beaujoire,Japão - Nigéria,F
+31/07/2024,Futebol,12:00,Estádio Bordeaux,Brasil - Espanha,F
+31/07/2024,Futebol,14:00,Estádio Geoffroy-Guichard,Zâmbia - Alemanha,F
+31/07/2024,Futebol,14:00,Estádio de Marselha,Austrália - EUA,F
+31/07/2024,Futebol,16:00,Estádio de Lyon,Nova Zelândia - França,F
+31/07/2024,Futebol,16:00,Estádio de Nice,Colômbia - Canadá,F
+31/07/2024,Ginástica Artística,12:30,Arena Bercy,Individual Geral - Final,M
+31/07/2024,Handebol,04:00,Arena 6 Paris Sul,Noruega - Hungria,M
+31/07/2024,Handebol,06:00,Arena 6 Paris Sul,Croácia - Alemanha,M
+31/07/2024,Handebol,09:00,Arena 6 Paris Sul,Espanha - Japão,M
+31/07/2024,Handebol,11:00,Arena 6 Paris Sul,Eslovênia - Suécia,M
+31/07/2024,Handebol,14:00,Arena 6 Paris Sul,França - Egito,M
+31/07/2024,Handebol,16:00,Arena 6 Paris Sul,Dinamarca - Argentinha,M
+31/07/2024,Hipismo,05:00,Palácio de Versalhes,Adestramento por equipes - GP - Dia 1,U
+31/07/2024,Hipismo,07:45,Palácio de Versalhes,Adestramento individual - GP - Dia 2,U
+31/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Argentinha - Espanha,F
+31/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,África do Sul - Grã-Bretanha,F
+31/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,França - Alemanha,F
+31/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Austrália - EUA,F
+31/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Bélgica - Japão,F
+31/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Alemanha - Países Baixos,M
+31/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Espanha - África do Sul,M
+31/07/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Países Baixos - China,F
+31/07/2024,Judô,05:00,Arena Champ-de-Mars,70 kg - Primeira Fase Eliminatória,F
+31/07/2024,Judô,05:00,Arena Champ-de-Mars,90 kg - Primeira Fase Eliminatória,M
+31/07/2024,Judô,05:28,Arena Champ-de-Mars,70 kg - Segunda Fase Eliminatória,F
+31/07/2024,Judô,05:28,Arena Champ-de-Mars,90 kg - Segunda Fase Eliminatória,M
+31/07/2024,Judô,07:20,Arena Champ-de-Mars,70 kg - Oitavas de Final,F
+31/07/2024,Judô,07:20,Arena Champ-de-Mars,90 kg - Oitavas de Final,M
+31/07/2024,Judô,08:16,Arena Champ-de-Mars,70 kg - Quartas de Final,F
+31/07/2024,Judô,08:16,Arena Champ-de-Mars,90 kg - Quartas de Final,M
+31/07/2024,Judô,11:00,Arena Champ-de-Mars,70 kg - Repescagem,F
+31/07/2024,Judô,11:17,Arena Champ-de-Mars,70 kg - Semifinais,F
+31/07/2024,Judô,11:35,Arena Champ-de-Mars,90 kg - Repescagem,M
+31/07/2024,Judô,11:51,Arena Champ-de-Mars,90 kg - Repescagem,M
+31/07/2024,Judô,12:18,Arena Champ-de-Mars,70 kg - Disputa pelo Bronze A,F
+31/07/2024,Judô,12:28,Arena Champ-de-Mars,70 kg - Disputa pelo Bronze B,F
+31/07/2024,Judô,12:38,Arena Champ-de-Mars,70 kg - Final,F
+31/07/2024,Judô,12:49,Arena Champ-de-Mars,90 kg - Disputa pelo Bronze A,M
+31/07/2024,Judô,12:59,Arena Champ-de-Mars,90 kg - Disputa pelo Bronze B,M
+31/07/2024,Judô,12:09,Arena Champ-de-Mars,90 kg - Final,M
+31/07/2024,Natação,06:00,Arena Paris La Défense,200m peito - Baterias,F
+31/07/2024,Natação,06:00,Arena Paris La Défense,200m costas - Baterias,M
+31/07/2024,Natação,06:00,Arena Paris La Défense,200m borboleta - Baterias,F
+31/07/2024,Natação,15:30,Arena Paris La Défense,100m livre - Final,F
+31/07/2024,Natação,15:36,Arena Paris La Défense,200m borboleta - Final,F
+31/07/2024,Natação,15:42,Arena Paris La Défense,200m borboleta - Semifinais,F
+31/07/2024,Natação,16:04,Arena Paris La Défense,1500m livre - Final,F
+31/07/2024,Natação,16:36,Arena Paris La Défense,200m costas - Semifinais,M
+31/07/2024,Natação,16:46,Arena Paris La Défense,200m peito - Semifinais,F
+31/07/2024,Natação,17:08,Arena Paris La Défense,200m peito - Final,M
+31/07/2024,Natação,17:15,Arena Paris La Défense,100m livre - Final,M
+31/07/2024,Polo Aquático,09:00,Centro Aquático,Países Baixos - Austrália,F
+31/07/2024,Polo Aquático,10:35,Centro Aquático,Canadá - China,F
+31/07/2024,Polo Aquático,13:30,Centro Aquático,Itália - EUA,F
+31/07/2024,Polo Aquático,15:05,Centro Aquático,Espanha - Grécia,F
+31/07/2024,Remo,04:30,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final C,M
+31/07/2024,Remo,04:42,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final C,F
+31/07/2024,Remo,04:54,Est. Náutico - Água Plana,Sculls Individual - Semifinais C/D 1,M
+31/07/2024,Remo,05:04,Est. Náutico - Água Plana,Sculls Individual - Semifinais C/D 2,M
+31/07/2024,Remo,05:14,Est. Náutico - Água Plana,Sculls Individual - Semifinais C/D 1,F
+31/07/2024,Remo,05:24,Est. Náutico - Água Plana,Sculls Individual - Semifinais C/D 2,F
+31/07/2024,Remo,05:34,Est. Náutico - Água Plana,Par - Semifinais A/B 1,M
+31/07/2024,Remo,05:44,Est. Náutico - Água Plana,Par - Semifinais A/B 2,M
+31/07/2024,Remo,05:54,Est. Náutico - Água Plana,Par - Semifinais A/B 1,F
+31/07/2024,Remo,06:04,Est. Náutico - Água Plana,Par - Semifinais A/B 2,F
+31/07/2024,Remo,06:14,Est. Náutico - Água Plana,Sculls Duplo peso leve - Semifinais A/B 1,M
+31/07/2024,Remo,06:24,Est. Náutico - Água Plana,Sculls Duplo peso leve - Semifinais A/B 2,M
+31/07/2024,Remo,06:34,Est. Náutico - Água Plana,Sculls Duplo peso leve - Semifinais A/B 1,F
+31/07/2024,Remo,06:44,Est. Náutico - Água Plana,Sculls Duplo peso leve - Semifinais A/B 2,F
+31/07/2024,Remo,07:02,Est. Náutico - Água Plana,Sculls Quádruplo - Final B,M
+31/07/2024,Remo,07:14,Est. Náutico - Água Plana,Sculls Quádruplo - Final B,F
+31/07/2024,Remo,07:26,Est. Náutico - Água Plana,Sculls Quádruplo - Final A,M
+31/07/2024,Remo,07:38,Est. Náutico - Água Plana,Sculls Quádruplo - Final A,F
+31/07/2024,Saltos Ornamentais,06:00,Centro Aquático,Plataforma 10m sincronizada - Final,F
+31/07/2024,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
+31/07/2024,Tênis,07:00,Stade Roland-Garros,MS 3ª Rodada/ FS Quartas de final,U
+31/07/2024,Tênis,07:00,Stade Roland-Garros,MS 3ª Rd/ FS QF/ MD SF/ FD QF/ XD QF,U
+31/07/2024,Tênis,07:00,Stade Roland-Garros,MS 3ª Rd/ MD SF/ FD QF/ XD QF,U
+31/07/2024,Tênis,07:00,Stade Roland-Garros,MS 3ª Rd/ FD QF/ XD QF,U
+31/07/2024,Tênis,14:00,Stade Roland-Garros,MS 3ª Rodada/ FS Quartas de final,U
+31/07/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Segunda Fase,U
+31/07/2024,Tênis de Mesa,10:00,Arena 4 Paris Sul,Individual - Oitavas de Final,U
+31/07/2024,Tênis de Mesa,15:00,Arena 4 Paris Sul,Individual - Oitavas de Final,U
+31/07/2024,Tiro com Arco,07:00,Invalides,Individual - Primeira Fase Eliminatória,M
+31/07/2024,Tiro com Arco,07:26,Invalides,Individual - Primeira Fase Eliminatória,F
+31/07/2024,Tiro com Arco,07:52,Invalides,Individual - Segunda Fase Eliminatória,M
+31/07/2024,Tiro com Arco,08:05,Invalides,Individual - Segunda Fase Eliminatória,F
+31/07/2024,Tiro com Arco,12:45,Invalides,Individual - Primeira Fase Eliminatória,M
+31/07/2024,Tiro com Arco,13:11,Invalides,Individual - Primeira Fase Eliminatória,F
+31/07/2024,Tiro com Arco,13:37,Invalides,Individual - Segunda Fase Eliminatória,M
+31/07/2024,Tiro com Arco,13:50,Invalides,Individual - Segunda Fase Eliminatória,F
+31/07/2024,Tiro Esportivo,04:00,Carabina 50m 3 posições - Classificatória,M,
+31/07/2024,Tiro Esportivo,04:00,Trap - Classificatória,F,
+31/07/2024,Tiro Esportivo,10:30,Trap - Final,F,
+31/07/2024,Triatlo,03:00,Ponte Alexandre III,Individual,F
+31/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 10,F
+31/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 11,F
+31/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 12,F
+31/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 10,M
+31/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 11,M
+31/07/2024,Vela,IDF,Marina de Marselha,Skiff - Prova 12,M
+31/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 13,M
+31/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 14,M
+31/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 15,M
+31/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 16,M
+31/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 13,F
+31/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 14,F
+31/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 15,F
+31/07/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 16,F
+31/07/2024,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+31/07/2024,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+31/07/2024,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
+31/07/2024,Vôlei,16:00,Arena 1 Paris Sul,Fase Preliminar,F
+31/07/2024,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
+31/07/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Atletismo,02:30,Trocadeiro,Marcha Atlética 20 km,M
+01/08/2024,Atletismo,04:20,Trocadeiro,Marcha Atlética 20 km,F
+01/08/2024,Badminton,03:30,Duplas Femininas - Quartas de Final,F,
+01/08/2024,Badminton,03:30,Duplas Femininas - Quartas de Final,F,
+01/08/2024,Badminton,03:30,Duplas Femininas - Quartas de Final,F,
+01/08/2024,Badminton,04:40,Simples Masculino - Oitavas de Final,M,
+01/08/2024,Badminton,04:40,Simples Masculino - Oitavas de Final,M,
+01/08/2024,Badminton,04:40,Duplas Femininas - Quartas de Final,F,
+01/08/2024,Badminton,08:00,Duplas Masculinas - Quartas de Final,M,
+01/08/2024,Badminton,08:00,Duplas Masculinas - Quartas de Final,M,
+01/08/2024,Badminton,08:00,Simples Masculino - Oitavas de Final,M,
+01/08/2024,Badminton,09:10,Simples Masculino - Oitavas de Final,M,
+01/08/2024,Badminton,09:10,Simples Masculino - Quartas de Final,M,
+01/08/2024,Badminton,09:10,Duplas Masculinas - Quartas de Final,M,
+01/08/2024,Badminton,10:20,Simples Masculino - Oitavas de Final,M,
+01/08/2024,Badminton,13:30,Simples Feminino - Oitavas de Final,F,
+01/08/2024,Badminton,13:30,Simples Feminino - Oitavas de Final,F,
+01/08/2024,Badminton,13:30,Simples Feminino - Oitavas de Final,F,
+01/08/2024,Badminton,14:30,Simples Feminino - Oitavas de Final,F,
+01/08/2024,Badminton,14:30,Simples Feminino - Oitavas de Final,F,
+01/08/2024,Badminton,14:30,Duplas Mistas - Semifinal,U,
+01/08/2024,Badminton,15:30,Duplas Mistas - Semifinal,U,
+01/08/2024,Basquete,06:00,Estádio Pierre Mauroy,Japão - Alemanha,F
+01/08/2024,Basquete,08:30,Estádio Pierre Mauroy,Austrália - Canadá,F
+01/08/2024,Basquete,12:15,Estádio Pierre Mauroy,França - Nigéria,F
+01/08/2024,Basquete,16:00,Estádio Pierre Mauroy,Bélgica - EUA,F
+01/08/2024,Basquete 3x3,04:00,La Concorde 1,Fase de Grupos,F
+01/08/2024,Basquete 3x3,04:30,La Concorde 1,Fase de Grupos,F
+01/08/2024,Basquete 3x3,05:05,La Concorde 1,Fase de Grupos,M
+01/08/2024,Basquete 3x3,05:35,La Concorde 1,Fase de Grupos,M
+01/08/2024,Basquete 3x3,07:30,La Concorde 1,Fase de Grupos,F
+01/08/2024,Basquete 3x3,08:00,La Concorde 1,Fase de Grupos,F
+01/08/2024,Basquete 3x3,08:35,La Concorde 1,Fase de Grupos,M
+01/08/2024,Basquete 3x3,09:05,La Concorde 1,Fase de Grupos,M
+01/08/2024,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
+01/08/2024,Basquete 3x3,13:30,La Concorde 1,Fase de Grupos,F
+01/08/2024,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
+01/08/2024,Basquete 3x3,14:35,La Concorde 1,Fase de Grupos,M
+01/08/2024,Basquete 3x3,16:30,La Concorde 1,Fase de Grupos,F
+01/08/2024,Basquete 3x3,17:00,La Concorde 1,Fase de Grupos,F
+01/08/2024,Basquete 3x3,17:35,La Concorde 1,Fase de Grupos,M
+01/08/2024,Basquete 3x3,18:05,La Concorde 1,Fase de Grupos,M
+01/08/2024,Boxe,06:00,Arena Norte de Paris,50 kg - Oitavas de Final,F
+01/08/2024,Boxe,06:48,Arena Norte de Paris,66 kg - Oitavas de Final,F
+01/08/2024,Boxe,07:36,Arena Norte de Paris,54 kg - Quartas de Final,F
+01/08/2024,Boxe,07:52,Arena Norte de Paris,63.5 kg - Quartas de Final,M
+01/08/2024,Boxe,08:08,Arena Norte de Paris,92 kg - Quartas de Final,M
+01/08/2024,Boxe,10:30,Arena Norte de Paris,50 kg - Oitavas de Final,F
+01/08/2024,Boxe,11:18,Arena Norte de Paris,66 kg - Oitavas de Final,F
+01/08/2024,Boxe,12:06,Arena Norte de Paris,54 kg - Quartas de Final,F
+01/08/2024,Boxe,12:38,Arena Norte de Paris,63.5 kg - Quartas de Final,M
+01/08/2024,Boxe,12:54,Arena Norte de Paris,92 kg - Quartas de Final,M
+01/08/2024,Boxe,15:00,Arena Norte de Paris,50 kg - Oitavas de Final,F
+01/08/2024,Boxe,15:32,Arena Norte de Paris,66 kg - Oitavas de Final,F
+01/08/2024,Boxe,16:04,Arena Norte de Paris,54 kg - Quartas de Final,F
+01/08/2024,Boxe,16:20,Arena Norte de Paris,63.5 kg - Quartas de Final,M
+01/08/2024,Boxe,16:52,Arena Norte de Paris,92 kg - Quartas de Final,M
+01/08/2024,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Individual - Semifinal,M 
+01/08/2024,Canoagem Slalom,12:30,Est. Náutico Água Branca,Caiaque Individual - Final,M 
+01/08/2024,Ciclismo BMX Racing,15:00,Estádio de BMX,Quartas de Final - Run 1,M    
+01/08/2024,Ciclismo BMX Racing,15:20,Estádio de BMX,Quartas de Final - Run 1,F 
+01/08/2024,Ciclismo BMX Racing,15:40,Estádio de BMX,Quartas de Final - Run 2,M 
+01/08/2024,Ciclismo BMX Racing,16:00,Estádio de BMX,Quartas de Final - Run 2,F 
+01/08/2024,Ciclismo BMX Racing,16:20,Estádio de BMX,Quartas de Final - Run 3,M 
+01/08/2024,Ciclismo BMX Racing,16:40,Estádio de BMX,Quartas de Final - Run 3,F 
+01/08/2024,Ciclismo BMX Racing,17:05,Estádio de BMX,Última chance de corrida,M 
+01/08/2024,Ciclismo BMX Racing,17:15,Estádio de BMX,Última chance de corrida,F 
+01/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - Quartas de Final,F
+01/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - Classificação 5-8 lugar,F
+01/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - Semifinal 1,F
+01/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - Semifinal 2,F
+01/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - 7-8 lugar,F
+01/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - 5-6 lugar,F
+01/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - Disputa de Bronze,F
+01/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - Disputa de Ouro,F
+01/08/2024,Ginástica Artística,13:15,Arena Bercy,Individual Geral - Final,F
+01/08/2024,Golfe,04:00,Le Golf National,Rodada 1,M
+01/08/2024,Handebol,04:00,Arena 6 Paris Sul,Países Baixos - Brasil,F
+01/08/2024,Handebol,04:00,Arena 6 Paris Sul,República da Coréia - Suécia,F
+01/08/2024,Handebol,04:00,Arena 6 Paris Sul,Espanha - Hungria,F
+01/08/2024,Handebol,04:00,Arena 6 Paris Sul,Angola - França,F
+01/08/2024,Handebol,04:00,Arena 6 Paris Sul,Alemanha - Dinamarca,F
+01/08/2024,Handebol,04:00,Arena 6 Paris Sul,Eslovênia - Noruega,F
+01/08/2024,Hipismo,06:00,Palácio de Versalhes,Saltos por equipes - Classificação,U
+01/08/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Índia - Bélgica,M
+01/08/2024,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Nova Zelândia - Austrália,M
+01/08/2024,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,França - Grã-Bretanha,M
+01/08/2024,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Argentinha - Irlanda,M
+01/08/2024,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,EUA - Grã-Bretanha,F
+01/08/2024,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Espanha - África do Sul,F
+01/08/2024,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Japão - França,F
+01/08/2024,Hóquei sobre Grama,15:15,Estádio Yves-du-Manoir,Argentinha - Austrália,F
+01/08/2024,Judô,05:00,Arena Champ-de-Mars,100 kg - Primeira Fase Eliminatória,M
+01/08/2024,Judô,05:00,Arena Champ-de-Mars,78 kg - Primeira Fase Eliminatória,F
+01/08/2024,Judô,05:28,Arena Champ-de-Mars,100 kg - Segunda Fase Eliminatória,M
+01/08/2024,Judô,05:28,Arena Champ-de-Mars,78 kg - Segunda Fase Eliminatória,F
+01/08/2024,Judô,07:20,Arena Champ-de-Mars,100 kg - Oitavas de Final,M
+01/08/2024,Judô,07:20,Arena Champ-de-Mars,78 kg - Oitavas de Final,F
+01/08/2024,Judô,08:16,Arena Champ-de-Mars,100 kg - Quartas de Final,M
+01/08/2024,Judô,08:16,Arena Champ-de-Mars,78 kg - Quartas de Final,F
+01/08/2024,Judô,11:00,Arena Champ-de-Mars,100 kg - Repescagem,M
+01/08/2024,Judô,11:17,Arena Champ-de-Mars,100 kg - Semifinais,M
+01/08/2024,Judô,11:34,Arena Champ-de-Mars,78 kg - Repescagem,F
+01/08/2024,Judô,11:51,Arena Champ-de-Mars,78 kg - Semifinais,F
+01/08/2024,Judô,12;18,Arena Champ-de-Mars,100 kg - Disputa de Bronze A,M
+01/08/2024,Judô,12:28,Arena Champ-de-Mars,100 kg - Disputa de Bronze B,M
+01/08/2024,Judô,12:38,Arena Champ-de-Mars,100 kg - Final,M
+01/08/2024,Judô,12:49,Arena Champ-de-Mars,78 kg - Disputa de Bronze A,F
+01/08/2024,Judô,12:59,Arena Champ-de-Mars,78 kg - Disputa de Bronze B,F
+01/08/2024,Judô,13:09,Arena Champ-de-Mars,78 kg - Final,F
+01/08/2024,Natação,06:00,Arena Paris La Défense,200m costas - Baterias,F
+01/08/2024,Natação,06:00,Arena Paris La Défense,50m livre - Baterias,M
+01/08/2024,Natação,06:00,Arena Paris La Défense,200m Medley Individual - Baterias,M
+01/08/2024,Natação,06:00,Arena Paris La Défense,Revesamento 4x200m livre - Baterias,F
+01/08/2024,Natação,15:30,Arena Paris La Défense,200m borboleta - Final,F
+01/08/2024,Natação,15;37,Arena Paris La Défense,200m costas - Final,M
+01/08/2024,Natação,15:44,Arena Paris La Défense,50m livre - Semifinais,M
+01/08/2024,Natação,16:03,Arena Paris La Défense,200m peito - Final,F
+01/08/2024,Natação,16:10,Arena Paris La Défense,200m costas - Semifinais,F
+01/08/2024,Natação,16:34,Arena Paris La Défense,200m Medley Individual - Semifinais,M
+01/08/2024,Natação,16:48,Arena Paris La Défense,Revesamento 4x200m livre - Final,F
+01/08/2024,Polo Aquático,05:30,Centro Aquático,Grécia - EUA,M
+01/08/2024,Polo Aquático,07:05,Centro Aquático,Sérvia - Espanha,M
+01/08/2024,Polo Aquático,10:00,Centro Aquático,França - Austrália,M
+01/08/2024,Polo Aquático,11:35,Centro Aquático,Itália - Montenegro,M
+01/08/2024,Polo Aquático,14:30,Centro Aquático,Romênia - Croácia,M
+01/08/2024,Polo Aquático,16:05,Centro Aquático,Hungria - Japão ,M
+01/08/2024,Remo,04:30,Est. Náutico - Água Plana,Sculls Individual - Semifinal A/B 1,F
+01/08/2024,Remo,04:40,Est. Náutico - Água Plana,Sculls Individual - Semifinal A/B 2,F
+01/08/2024,Remo,04:50,Est. Náutico - Água Plana,Sculls Individual - Semifinal A/B 1,M
+01/08/2024,Remo,05:00,Est. Náutico - Água Plana,Sculls Individual - Semifinal A/B 2,M
+01/08/2024,Remo,05:10,Est. Náutico - Água Plana,Oito - Repescagem,F
+01/08/2024,Remo,05:20,Est. Náutico - Água Plana,Oito - Repescagem,M
+01/08/2024,Remo,05:30,Est. Náutico - Água Plana,Sculls Duplo - Final B,F
+01/08/2024,Remo,05:42,Est. Náutico - Água Plana,Sculls Duplo - Final B,M
+01/08/2024,Remo,05:54,Est. Náutico - Água Plana,Quatro - Final B,F
+01/08/2024,Remo,06:06,Est. Náutico - Água Plana,Quatro - Final B,M
+01/08/2024,Remo,06:18,Est. Náutico - Água Plana,Sculls Duplo - Final A,F
+01/08/2024,Remo,06:30,Est. Náutico - Água Plana,Sculls Duplo - Final A,M
+01/08/2024,Remo,06:50,Est. Náutico - Água Plana,Quatro - Final A,F
+01/08/2024,Remo,07:10,Est. Náutico - Água Plana,Quatro - Final A,M
+01/08/2024,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
+01/08/2024,Tênis,07:00,Stade Roland-Garros,MS Quartas de final/ FS Semifinal,U
+01/08/2024,Tênis,07:00,Stade Roland-Garros,MS QF/ FD Semifinais/ XD Semifinais,U
+01/08/2024,Tênis,07:00,Stade Roland-Garros,FD Semifinais/ XD Semifinais,U
+01/08/2024,Tênis,14:00,Stade Roland-Garros,MS Quartas de final/ FS Semifinal,U
+01/08/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Quartas de Final,F
+01/08/2024,Tênis de Mesa,07:00,Arena 4 Paris Sul,Individual - Quartas de Final,M
+01/08/2024,Tênis de Mesa,10:00,Arena 4 Paris Sul,Individual - Quartas de Final,F
+01/08/2024,Tênis de Mesa,11:00,Arena 4 Paris Sul,Individual - Quartas de Final,M
+01/08/2024,Tênis de Mesa,15:00,Arena 4 Paris Sul,Individual - Quartas de Final,F
+01/08/2024,Tênis de Mesa,16:00,Arena 4 Paris Sul,Individual - Quartas de Final,M
+01/08/2024,Tiro com Arco,04:30,Invalides,Individual - Primeira Fase Eliminatória,M
+01/08/2024,Tiro com Arco,04:56,Invalides,Individual - Primeira Fase Eliminatória,F
+01/08/2024,Tiro com Arco,05:22,Invalides,Individual - Segunda Fase Eliminatória,M
+01/08/2024,Tiro com Arco,05:35,Invalides,Individual - Segunda Fase Eliminatória,F
+01/08/2024,Tiro com Arco,10:30,Invalides,Individual - Primeira Fase Eliminatória,M
+01/08/2024,Tiro com Arco,10:56,Invalides,Individual - Primeira Fase Eliminatória,F
+01/08/2024,Tiro com Arco,11:22,Invalides,Individual - Segunda Fase Eliminatória,M
+01/08/2024,Tiro com Arco,11:35,Invalides,Individual - Segunda Fase Eliminatória,F
+01/08/2024,Tiro Esportivo,04:30,Ctr. de Tiro Chateauroux,Carabina 50m 3 posições - Final,M
+01/08/2024,Tiro Esportivo,07:00,Ctr. de Tiro Chateauroux,Carabina 50m 3 posições - Classificação,F
+01/08/2024,Vela,IDF,Marina de Marselha,Skiff - Disputa por medalha,M
+01/08/2024,Vela,IDF,Marina de Marselha,Skiff - Disputa por medalha,F
+01/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 1,M
+01/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 2,M
+01/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 1,F
+01/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 2,F 
+01/08/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 17,F
+01/08/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 18,F
+01/08/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 19,F
+01/08/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 17,M
+01/08/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 18,M
+01/08/2024,Vela,07:00,Marina de Marselha,Windsurfing - Prova 19,M
+01/08/2024,Vela,IDF,Marina de Marselha,Windsurfing - Maratona,F
+01/08/2024,Vela,IDF,Marina de Marselha,Windsurfing - Maratona,M
+01/08/2024,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+01/08/2024,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+01/08/2024,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
+01/08/2024,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,F
+01/08/2024,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
+01/08/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Atletismo,05:05,Trocadéro,Decatlo - 100m,M
+02/08/2024,Atletismo,05:10,Trocadéro,Lançamento de martelo - Classificação,M
+02/08/2024,Atletismo,05:15,Trocadéro,Salto em Altura - Classificação,F
+02/08/2024,Atletismo,05:35,Trocadéro,100m - Rodada Preliminar,F
+02/08/2024,Atletismo,05:55,Trocadéro,Decatlo - Saltos em Distância,M
+02/08/2024,Atletismo,06:05,Trocadéro,1500m - Primeira Rodada,M
+02/08/2024,Atletismo,06:35,Trocadéro,Lançamento de martelo - Classificação,M
+02/08/2024,Atletismo,06:50,Trocadéro,100m - Primeira Rodada,F
+02/08/2024,Atletismo,07:15,Trocadéro,Decatlo - Arremesso de Peso,M
+02/08/2024,Atletismo,13:00,Trocadéro,Decatlo - Salto em Altura,M
+02/08/2024,Atletismo,13:10,Trocadéro,5000m - Primeira Rodada,F
+02/08/2024,Atletismo,13:15,Trocadéro,Salto Triplo - Classificação,F
+02/08/2024,Atletismo,13:55,Trocadéro,Lançamento de Disco - Classificação,F
+02/08/2024,Atletismo,14:10,Trocadéro,Revesamento 4x400m - Primeira Rodada,U
+02/08/2024,Atletismo,14:45,Trocadéro,800m - Primeira Rodada,F
+02/08/2024,Atletismo,15;10,Trocadéro,Arremesso de peso - Classificação,M
+02/08/2024,Atletismo,15:20,Trocadéro,Lançamento de Disco - Classificação,F
+02/08/2024,Atletismo,15:50,Trocadéro,Decatlo - 400m,M
+02/08/2024,Atletismo,16:20,Trocadéro,10000m - Final,M
+02/08/2024,Badminton,03:30,Arena La Chapelle,Duplas Femininas - Semifinal,F
+02/08/2024,Badminton,04:40,Arena La Chapelle,Duplas Femininas - Semifinal,F
+02/08/2024,Badminton,05:50,Arena La Chapelle,Duplas Masculinas - Semifinal,M
+02/08/2024,Badminton,07:00,Arena La Chapelle,Duplas Masculinas - Semifinal,M
+02/08/2024,Badminton,10:00,Arena La Chapelle,Duplas Mistas - Semifinal,U
+02/08/2024,Badminton,11:10,Arena La Chapelle,Duplas Mistas - Semifinal,U
+02/08/2024,Badminton,12:40,Arena La Chapelle,Simples Masculino - Semifinal,M
+02/08/2024,Badminton,13:50,Arena La Chapelle,Simples Masculino - Semifinal,M
+02/08/2024,Badminton,15:00,Arena La Chapelle,Simples Masculino - Semifinal,M
+02/08/2024,Badminton,16:10,Arena La Chapelle,Simples Masculino - Semifinal,M
+02/08/2024,Basquete,06:00,Estádio Pierre Mauroy,Japão - Vencedor OQT LAT,M
+02/08/2024,Basquete,08:30,Estádio Pierre Mauroy,Austrália - Vencedor OQT GRE,M
+02/08/2024,Basquete,12:15,Estádio Pierre Mauroy,Canadá - Vencedor OQT ESP,M
+02/08/2024,Basquete,16:00,Estádio Pierre Mauroy,França - Alemanha,M
+02/08/2024,Basquete 3x3,04:00,La Concorde 1,Fase de Grupos,F
+02/08/2024,Basquete 3x3,04:30,La Concorde 1,Fase de Grupos,F
+02/08/2024,Basquete 3x3,05:05,La Concorde 1,Fase de Grupos,M
+02/08/2024,Basquete 3x3,05:35,La Concorde 1,Fase de Grupos,M
+02/08/2024,Basquete 3x3,07:30,La Concorde 1,Fase de Grupos,F
+02/08/2024,Basquete 3x3,08:00,La Concorde 1,Fase de Grupos,F
+02/08/2024,Basquete 3x3,08:35,La Concorde 1,Fase de Grupos,M
+02/08/2024,Basquete 3x3,09:05,La Concorde 1,Fase de Grupos,M
+02/08/2024,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,F
+02/08/2024,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
+02/08/2024,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
+02/08/2024,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
+02/08/2024,Basquete 3x3,16:00,La Concorde 1,Fase de Grupos,F
+02/08/2024,Basquete 3x3,16:30,La Concorde 1,Fase de Grupos,F
+02/08/2024,Basquete 3x3,17:05,La Concorde 1,Fase de Grupos,M
+02/08/2024,Basquete 3x3,17:35,La Concorde 1,Fase de Grupos,M
+02/08/2024,Boxe,10:30,Arena Norte de Paris,57 kg - Oitavas de Final,F
+02/08/2024,Boxe,11:34,Arena Norte de Paris,51 kg - Quartas de Final,F
+02/08/2024,Boxe,12:06,Arena Norte de Paris,80 kg - Quartas de Final,F
+02/08/2024,Boxe,12:38,Arena Norte de Paris,92 kg - Quartas de Final,F
+02/08/2024,Boxe,15:00,Arena Norte de Paris,57 kg - Oitavas de Final,F
+02/08/2024,Boxe,16:04,Arena Norte de Paris,57 kg - Quartas de Final,F
+02/08/2024,Boxe,16:36,Arena Norte de Paris,57 kg - Quartas de Final,F
+02/08/2024,Boxe,17:08,Arena Norte de Paris,57 kg - Quartas de Final,F
+02/08/2024,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Contrarrelógio,F
+02/08/2024,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Contrarrelógio,M
+02/08/2024,Ciclismo BMX Racing,15:00,Estádio de BMX,Semifinais - Run 1,M
+02/08/2024,Ciclismo BMX Racing,15:15,Estádio de BMX,Semifinais - Run 1,F
+02/08/2024,Ciclismo BMX Racing,15:30,Estádio de BMX,Semifinais - Run 2,M
+02/08/2024,Ciclismo BMX Racing,15:45,Estádio de BMX,Semifinais - Run 2,F
+02/08/2024,Ciclismo BMX Racing,16:00,Estádio de BMX,Semifinais - Run 3,M
+02/08/2024,Ciclismo BMX Racing,16:15,Estádio de BMX,Semifinais - Run 3,F
+02/08/2024,Ciclismo BMX Racing,16:35,Estádio de BMX,Final,M
+02/08/2024,Ciclismo BMX Racing,16:50,Estádio de BMX,Final,F
+02/08/2024,Esgrima,08:30,Grand Palais,Espada por equipes - Quartas de Final,M
+02/08/2024,Esgrima,10:00,Grand Palais,Espada por equipes - Classificação 5-8 lugar,M
+02/08/2024,Esgrima,10:50,Grand Palais,Espada por equipes - Semifinal 1,M
+02/08/2024,Esgrima,10:50,Grand Palais,Espada por equipes - Semifinal 2,M
+02/08/2024,Esgrima,11:40,Grand Palais,Espada por equipes - 7-8 lugar,M
+02/08/2024,Esgrima,11:40,Grand Palais,Espada por equipes - 5-6 lugar,M
+02/08/2024,Esgrima,14:30,Grand Palais,Espada por equipes - Disputa de Bronze,M
+02/08/2024,Esgrima,15:30,Grand Palais,Espada por equipes - Disputa de Ouro,M
+02/08/2024,Futebol,10:00,Parc des Princes,IDF - IDF - Quartas de Final,M
+02/08/2024,Futebol,12:00,Estádio de Lyon,IDF - IDF - Quartas de Final,M
+02/08/2024,Futebol,14:00,Estádio de Marselha,IDF - IDF - Quartas de Final,M
+02/08/2024,Futebol,16:00,Estádio Bordeaux,IDF - IDF - Quartas de Final,M
+02/08/2024,Ginástica de Trampolim,07:00,Arena Bercy,Classificatórias,F
+02/08/2024,Ginástica de Trampolim,08:50,Arena Bercy,Final,F
+02/08/2024,Ginástica de Trampolim,13:00,Arena Bercy,Classificatórias,M
+02/08/2024,Ginástica de Trampolim,14:45,Arena Bercy,Final,M
+02/08/2024,Golfe,04:00,Le Golf National,Rodada 2,M
+02/08/2024,Handebol,04:00,Arena 6 Paris Sul,Hungria - Dinamarca,M
+02/08/2024,Handebol,06:00,Arena 6 Paris Sul,Argentinha - França,M
+02/08/2024,Handebol,09:00,Arena 6 Paris Sul,Croácia - Suécia,M
+02/08/2024,Handebol,11:00,Arena 6 Paris Sul,Alemanha - Espanha,M
+02/08/2024,Handebol,14:00,Arena 6 Paris Sul,Japão - Eslovênia,M
+02/08/2024,Handebol,16:00,Arena 6 Paris Sul,Noruega - Egito,M
+02/08/2024,Hipismo,09:00,Palácio de Versalhes,Saltos por equipes - Final,U
+02/08/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,China - Alemanha,F
+02/08/2024,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Países Baixos - Espanha,M
+02/08/2024,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Bélgica - Países Baixos,F
+02/08/2024,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,Austrália - Índia,M
+02/08/2024,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,Nova Zelândia - Irlanda,M
+02/08/2024,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Bélgica - Argentinha,M
+02/08/2024,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,França - África do Sul,M
+02/08/2024,Hóquei sobre Grama,15:15,Estádio Yves-du-Manoir,Grã-Bretanha - Alemanha,M
+02/08/2024,Judô,05:00,Arena Champ-de-Mars,78 kg - Primeira Fase Eliminatória,F
+02/08/2024,Judô,05:00,Arena Champ-de-Mars,100 kg - Primeira Fase Eliminatória,M
+02/08/2024,Judô,05:28,Arena Champ-de-Mars,78 kg - Segunda Fase Eliminatória,F
+02/08/2024,Judô,05:28,Arena Champ-de-Mars,100 kg - Segunda Fase Eliminatória,M
+02/08/2024,Judô,07:20,Arena Champ-de-Mars,78 kg - Oitavas de Final,F
+02/08/2024,Judô,07:20,Arena Champ-de-Mars,100 kg - Oitavas de Final,M
+02/08/2024,Judô,08:16,Arena Champ-de-Mars,78 kg - Quartas de Final,F
+02/08/2024,Judô,08:16,Arena Champ-de-Mars,100 kg - Quartas de Final,M
+02/08/2024,Judô,11:00,Arena Champ-de-Mars,78 kg - Repescagem,F
+02/08/2024,Judô,11:17,Arena Champ-de-Mars,78 kg - Semifinais,F
+02/08/2024,Judô,11:34,Arena Champ-de-Mars,100 kg - Repescagem,M
+02/08/2024,Judô,11:51,Arena Champ-de-Mars,100 kg - Semifinais,M
+02/08/2024,Judô,12:18,Arena Champ-de-Mars,78 kg - Disputa por Bronze A,F
+02/08/2024,Judô,12:28,Arena Champ-de-Mars,78 kg - Disputa por Bronze B,F
+02/08/2024,Judô,12:38,Arena Champ-de-Mars,78 kg - Final,F
+02/08/2024,Judô,12:49,Arena Champ-de-Mars,100 kg - Disputa por Bronze A,M
+02/08/2024,Judô,12:59,Arena Champ-de-Mars,100 kg - Disputa por Bronze B,M
+02/08/2024,Judô,13:09,Arena Champ-de-Mars,100 kg - Final,M
+02/08/2024,Natação,06:00,Arena Paris La Défense,100m borboleta - Baterias,M
+02/08/2024,Natação,06:00,Arena Paris La Défense,200m Medley Individual - Baterias,F
+02/08/2024,Natação,06:00,Arena Paris La Défense,800m livre - Baterias,F
+02/08/2024,Natação,06:00,Arena Paris La Défense,Revesamento 4x100m Medley Misto - Baterias,U
+02/08/2024,Natação,15:30,Arena Paris La Défense,50m livre - Final,M   
+02/08/2024,Natação,15:39,Arena Paris La Défense,200m costas - Final,F
+02/08/2024,Natação,15:49,Arena Paris La Défense,200m Medley Individual - Final,M
+02/08/2024,Natação,16:09,Arena Paris La Défense,100m borboleta - Semifinais,M
+02/08/2024,Natação,16:34,Arena Paris La Défense,200m Medley Individual - Semifinais,F
+02/08/2024,Polo Aquático,09:00,Centro Aquático,Austrália - Canadá,F
+02/08/2024,Polo Aquático,10:35,Centro Aquático,Grécia - Itália,F
+02/08/2024,Polo Aquático,13:30,Centro Aquático,EUA - França,F
+02/08/2024,Polo Aquático,15:05,Centro Aquático,China - Hungria,F
+02/08/2024,Remo,04:30,Est. Náutico - Água Plana,Sculls Individual - Final F,M
+02/08/2024,Remo,04:42,Est. Náutico - Água Plana,Sculls Individual - Final F,F
+02/08/2024,Remo,04:54,Est. Náutico - Água Plana,Sculls Individual - Final E,M
+02/08/2024,Remo,05:06,Est. Náutico - Água Plana,Sculls Individual - Final E,F
+02/08/2024,Remo,05:18,Est. Náutico - Água Plana,Sculls Individual - Final D,M
+02/08/2024,Remo,05:30,Est. Náutico - Água Plana,Sculls Individual - Final D,F
+02/08/2024,Remo,05:42,Est. Náutico - Água Plana,Par - Final B,M
+02/08/2024,Remo,05:54,Est. Náutico - Água Plana,Par - Final B,F
+02/08/2024,Remo,06:06,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final B,M
+02/08/2024,Remo,06:18,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final B,F
+02/08/2024,Remo,06:30,Est. Náutico - Água Plana,Par - Final A,M
+02/08/2024,Remo,06:42,Est. Náutico - Água Plana,Par - Final A,F
+02/08/2024,Remo,07:02,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final A,M
+02/08/2024,Remo,07:22,Est. Náutico - Água Plana,Sculls Duplo peso leve - Final A,F
+02/08/2024,Saltos Ornamentais,06:00,Centro Aquático,Trampolim 3m sincronizado - Final,M
+02/08/2024,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
+02/08/2024,Tênis,07:00,Stade Roland-Garros,Simples - Semifinal,M
+02/08/2024,Tênis,07:00,Stade Roland-Garros,Simples - Disputa pelo Bronze,F
+02/08/2024,Tênis,07:00,Stade Roland-Garros,Duplas - Disputa pelo Bronze,M
+02/08/2024,Tênis,07:00,Stade Roland-Garros,Duplas Mistas - Disputa pelo Bronze,U
+02/08/2024,Tênis,14:00,Stade Roland-Garros,Simples - Semifinal,M
+02/08/2024,Tênis,14:00,Stade Roland-Garros,Duplas Mistas - Disputa pelo Ouro,U
+02/08/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Individual - Semifinal,F
+02/08/2024,Tênis de Mesa,06:00,Arena 4 Paris Sul,Individual - Semifinal,M
+02/08/2024,Tênis de Mesa,08:30,Arena 4 Paris Sul,Individual - Semifinal,F
+02/08/2024,Tênis de Mesa,09:30,Arena 4 Paris Sul,Individual - Semifinal,M
+02/08/2024,Tiro com Arco,04:30,Invalides,Equipe Mista - Oitavas de Final,U
+02/08/2024,Tiro com Arco,09:15,Invalides,Equipe Mista - Quartas de Final,U
+02/08/2024,Tiro com Arco,10:31,Invalides,Equipe Mista - Semifinais,U
+02/08/2024,Tiro com Arco,11:24,Invalides,Equipe Mista - Disputa pelo Bronze,U
+02/08/2024,Tiro com Arco,11:43,Invalides,Equipe Mista - Disputa pelo Ouro,U
+02/08/2024,Tiro Esportivo,04:00,Ctr. de Tiro Chateauroux,Skeet - Classificação - Dia 1,M
+02/08/2024,Tiro Esportivo,04:00,Ctr. de Tiro Chateauroux,Pistola 25m - Classificação,F
+02/08/2024,Tiro Esportivo,04:30,Ctr. de Tiro Chateauroux,Carabina 50m 3 posições - Final,F
+02/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 1,U
+02/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 2,U
+02/08/2024,Vela,IDF,Marina de Marselha,Windsurfing - Quartas de Final,F
+02/08/2024,Vela,IDF,Marina de Marselha,Windsurfing - Quartas de Final,M
+02/08/2024,Vela,IDF,Marina de Marselha,Windsurfing - Semifinal,F
+02/08/2024,Vela,IDF,Marina de Marselha,Windsurfing - Semifinal,M
+02/08/2024,Vela,IDF,Marina de Marselha,Windsurfing - Final,F
+02/08/2024,Vela,IDF,Marina de Marselha,Windsurfing - Final,M
+02/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 3,F
+02/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 4,F
+02/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 3,M
+02/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 4,M
+02/08/2024,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+02/08/2024,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+02/08/2024,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
+02/08/2024,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,F
+02/08/2024,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,10:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Preliminar,U
+02/08/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Preliminar,U
+03/08/2024,Atletismo,05:05,Stade de France,Decatlo - 110m com barreiras,M
+03/08/2024,Atletismo,05:10,Stade de France,Salto com Vara - Classificação,M
+03/08/2024,Atletismo,05:35,Stade de France,100m - Rodada Preliminar,M
+03/08/2024,Atletismo,05:55,Stade de France,Decatlo - Lançamento de Disco,M
+03/08/2024,Atletismo,06:10,Stade de France,800m - Repescagem,F
+03/08/2024,Atletismo,06:45,Stade de France,100m - Primeira Rodada,M
+03/08/2024,Atletismo,07:00,Stade de France,Decatlo - Lançamento de Disco,M
+03/08/2024,Atletismo,08:40,Stade de France,Decatlo - Salto com Vara,M
+03/08/2024,Atletismo,14:10,Stade de France,Decatlo - Lançamento de Dardo,M
+03/08/2024,Atletismo,14:15,Stade de France,1500m - Repescagem,M
+03/08/2024,Atletismo,14:35,Stade de France,Arremesso de Peso -  Final,M
+03/08/2024,Atletismo,14:50,Stade de France,100m - Final,F
+03/08/2024,Atletismo,15:10,Stade de France,Decatlo - Lançamento de Dardo,M
+03/08/2024,Atletismo,15:20,Stade de France,Salto Triplo - Final,F
+03/08/2024,Atletismo,15:55,Stade de France,Revesamento 4x400m Misto - Final,U
+03/08/2024,Atletismo,16:20,Stade de France,100m - Final,F
+03/08/2024,Atletismo,16:45,Stade de France,Decatlo - 1500m,M
+03/08/2024,Badminton,03:30,Arena La Chapelle,Simples Feminino - Quartas de Final,F
+03/08/2024,Badminton,04:40,Arena La Chapelle,Simples Feminino - Quartas de Final,F
+03/08/2024,Badminton,05:50,Arena La Chapelle,Simples Feminino - Quartas de Final,F
+03/08/2024,Badminton,07:00,Arena La Chapelle,Simples Feminino - Quartas de Final,F
+03/08/2024,Badminton,10:00,Arena La Chapelle,Duplas Femininas - Disputa pelo Bronze,F
+03/08/2024,Badminton,11:10,Arena La Chapelle,Duplas Femininas - Disputa pelo Ouro,F
+03/08/2024,Basquete,06:00,Estádio Pierre Mauroy,China - Porto Rico,F
+03/08/2024,Basquete,08:30,Estádio Pierre Mauroy,Sérvia - Espanha,F
+03/08/2024,Basquete,12:15,Estádio Pierre Mauroy,Vencedor OQT PUR - EUA,M
+03/08/2024,Basquete,16:00,Estádio Pierre Mauroy,Sérvia - Sudão do Sul,M
+03/08/2024,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,F
+03/08/2024,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,F
+03/08/2024,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,F
+03/08/2024,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,F
+03/08/2024,Basquete 3x3,16:30,La Concorde 1,Play-In,F
+03/08/2024,Basquete 3x3,17:05,La Concorde 1,Play-In,F
+03/08/2024,Boxe,10:30,Arena Norte de Paris,57 kg - Quartas de Final,M
+03/08/2024,Boxe,11:02,Arena Norte de Paris,71 kg - Quartas de Final,M
+03/08/2024,Boxe,11:34,Arena Norte de Paris,50 kg - Quartas de Final,F
+03/08/2024,Boxe,12:06,Arena Norte de Paris,66 kg - Quartas de Final,F
+03/08/2024,Boxe,12:38,Arena Norte de Paris,60 kg - Semifinalinal,F
+03/08/2024,Boxe,15:00,Arena Norte de Paris,57 kg - Quartas de Final,M
+03/08/2024,Boxe,15:32,Arena Norte de Paris,71 kg - Quartas de Final,M
+03/08/2024,Boxe,16:04,Arena Norte de Paris,50 kg - Quartas de Final,F
+03/08/2024,Boxe,16:36,Arena Norte de Paris,66 kg - Quartas de Final,F
+03/08/2024,Boxe,17:08,Arena Norte de Paris,60 kg - Semifinalinal,F
+03/08/2024,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Rodada 1,F
+03/08/2024,Canoagem Slalom,11:40,Est. Náutico Água Branca,Caiaque Cross - Rodada 1,M
+03/08/2024,Canoagem Slalom,13:05,Est. Náutico Água Branca,Caiaque Cross - Repescagem,F
+03/08/2024,Canoagem Slalom,13:45,Est. Náutico Água Branca,Caiaque Cross - Repescagem,M
+03/08/2024,Ciclismo de Estrada,06:00,Trocadéro,Prova de Estrada,M
+03/08/2024,Esgrima,08:00,Grand Palais,Sabre por equipes - Quartas de Final,F
+03/08/2024,Esgrima,09:30,Grand Palais,Sabre por equipes - Classificação 5-8,F
+03/08/2024,Esgrima,10:20,Grand Palais,Sabre por equipes - Semifinal 1,F
+03/08/2024,Esgrima,10:20,Grand Palais,Sabre por equipes - Semifinal 2,F
+03/08/2024,Esgrima,11:10,Grand Palais,Sabre por equipes - 7-8 lugar,F
+03/08/2024,Esgrima,11:10,Grand Palais,Sabre por equipes - 5-6 lugar,F
+03/08/2024,Esgrima,14:00,Grand Palais,Sabre por equipes - Disputa por Bronze,F
+03/08/2024,Esgrima,15:00,Grand Palais,Sabre por equipes - Disputa por Ouro,F
+03/08/2024,Futebol,10:00,Parc des Princes,IDF - IDF -  Quartas de Final,F 
+03/08/2024,Futebol,12:00,Estádio de Lyon,IDF - IDF -  Quartas de Final,F 
+03/08/2024,Futebol,14:00,Estádio de Marselha,IDF - IDF -  Quartas de Final,F 
+03/08/2024,Futebol,16:00,Estádio La Beaujoire,IDF - IDF -  Quartas de Final,F 
+03/08/2024,Ginástica Artística,10:30,Arena Bercy,Solo - Final,M
+03/08/2024,Ginástica Artística,11:20,Arena Bercy,Salto - Final,F
+03/08/2024,Ginástica Artística,12:10,Arena Bercy,Cavalo com alças - Final,M
+03/08/2024,Golfe,04:00,Le Golf National,Rodada 3,M
+03/08/2024,Handebol,04:00,Arena 6 Paris Sul,Hungria - Países Baixos,F
+03/08/2024,Handebol,06:00,Arena 6 Paris Sul,Espanha - França,F
+03/08/2024,Handebol,09:00,Arena 6 Paris Sul,Brasil - Angola,F
+03/08/2024,Handebol,11:00,Arena 6 Paris Sul,Eslovênia - Suécia,F
+03/08/2024,Handebol,14:00,Arena 6 Paris Sul,Noruega - Alemanha,F
+03/08/2024,Handebol,16:00,Arena 6 Paris Sul,Dinamarca - República da Coréia,F
+03/08/2024,Hipismo,05:00,Palácio de Versalhes,Adestramento por equipes - GP - Especial,U
+03/08/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Grã-Bretanha - Argentinha,F
+03/08/2024,Hóquei sobre Grama,05:30,Estádio Yves-du-Manoir,Países Baixos - Japão,F
+03/08/2024,Hóquei sobre Grama,07:45,Estádio Yves-du-Manoir,Austrália - Espanha,F
+03/08/2024,Hóquei sobre Grama,08:15,Estádio Yves-du-Manoir,EUA - África do Sul,F
+03/08/2024,Hóquei sobre Grama,12:00,Estádio Yves-du-Manoir,China - França,F
+03/08/2024,Hóquei sobre Grama,14:45,Estádio Yves-du-Manoir,Bélgica - Alemanha,F
+03/08/2024,Judô,03:00,Arena Champ-de-Mars,Equipe Mista - Rodada Preliminar,U
+03/08/2024,Judô,03:00,Arena Champ-de-Mars,Equipe Mista - Oitavas de Final,U
+03/08/2024,Judô,04:40,Arena Champ-de-Mars,Equipe Mista - Quartas de Final,U
+03/08/2024,Judô,05:40,Arena Champ-de-Mars,Equipe Mista - Repescagem,U
+03/08/2024,Judô,06:15,Arena Champ-de-Mars,Equipe Mista - Semifinais,U
+03/08/2024,Judô,11:00,Arena Champ-de-Mars,Equipe Mista - Disputa por Bronze A,U
+03/08/2024,Judô,11:40,Arena Champ-de-Mars,Equipe Mista - Disputa por Bronze B,U
+03/08/2024,Judô,12:20,Arena Champ-de-Mars,Equipe Mista - Final,U
+03/08/2024,Natação,06:00,Arena Paris La Défense,50m livre - Baterias,F
+03/08/2024,Natação,06:00,Arena Paris La Défense,1500m livre - Baterias,M
+03/08/2024,Natação,06:00,Arena Paris La Défense,Revesamento 4x100m Medley - Baterias,M
+03/08/2024,Natação,06:00,Arena Paris La Défense,Revesamento 4x100m Medley - Baterias,F
+03/08/2024,Natação,15:30,Arena Paris La Défense,100m borboleta - Final,M
+03/08/2024,Natação,15:39,Arena Paris La Défense,50m livre - Semifinais,F
+03/08/2024,Natação,15:59,Arena Paris La Défense,200m Medley Individual - Final,F
+03/08/2024,Natação,16:09,Arena Paris La Défense,800m livre - Final,F
+03/08/2024,Natação,16:33,Arena Paris La Défense,Revesamento 4x100m Medley Misto - Final,U
+03/08/2024,Polo Aquático,05:30,Centro Aquático,Espanha - Japão,M
+03/08/2024,Polo Aquático,07:05,Centro Aquático,Croácia - Grécia,M
+03/08/2024,Polo Aquático,10:00,Centro Aquático,Austrália - Hungria,M
+03/08/2024,Polo Aquático,11:35,Centro Aquático,Montenegro - EUA,M
+03/08/2024,Polo Aquático,14:30,Centro Aquático,Sérvia - França,M
+03/08/2024,Polo Aquático,16:05,Centro Aquático,Itália - Romênia,M
+03/08/2024,Remo,04:30,Est. Náutico - Água Plana,Sculls Individual - Final C,F
+03/08/2024,Remo,04:42,Est. Náutico - Água Plana,Sculls Individual - Final C,M
+03/08/2024,Remo,04:54,Est. Náutico - Água Plana,Sculls Individual - Final B,F
+03/08/2024,Remo,05:06,Est. Náutico - Água Plana,Sculls Individual - Final B,M
+03/08/2024,Remo,05:18,Est. Náutico - Água Plana,Sculls Individual - Final A,F
+03/08/2024,Remo,05:30,Est. Náutico - Água Plana,Sculls Individual - Final A,M
+03/08/2024,Remo,05:50,Est. Náutico - Água Plana,Oito - Final A,F
+03/08/2024,Remo,06:10,Est. Náutico - Água Plana,Oito - Final A,M
+03/08/2024,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
+03/08/2024,Tênis,IDF,Stade Roland-Garros,Simples - Disputa pelo Bronze,M
+03/08/2024,Tênis,IDF,Stade Roland-Garros,Simples - Disputa pelo Ouro,F
+03/08/2024,Tênis,IDF,Stade Roland-Garros,Duplas - Disputa pelo Ouro,M
+03/08/2024,Tênis de Mesa,08:30,Arena 4 Paris Sul,Individual - Disputa pelo Bronze,F
+03/08/2024,Tênis de Mesa,09:30,Arena 4 Paris Sul,Individual - Disputa pelo Ouro,F
+03/08/2024,Tiro com Arco,04:30,Invalides,Individual - Oitavas de Final,F
+03/08/2024,Tiro com Arco,08:00,Invalides,Individual - Quartas de Final,F
+03/08/2024,Tiro com Arco,08:52,Invalides,Individual - Semifinalinais,F
+03/08/2024,Tiro com Arco,09:33,Invalides,Individual - Disputa pelo Bronze,F
+03/08/2024,Tiro com Arco,09:46,Invalides,Individual - Disputa pelo Ouro,F
+03/08/2024,Tiro Esportivo,IDF,Ctr. de Tiro Chateauroux,Skeet - Classificação - Dia 2,M
+03/08/2024,Tiro Esportivo,IDF,Ctr. de Tiro Chateauroux,Skeet - Classificação - Dia 1,F
+03/08/2024,Tiro Esportivo,04:30,Ctr. de Tiro Chateauroux,Pistola 25m - Final,F
+03/08/2024,Tiro Esportivo,10:30,Ctr. de Tiro Chateauroux,Skeet - Final,M
+03/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 5,M
+03/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 6,M
+03/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 5,F
+03/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 6,F
+03/08/2024,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 1,U
+03/08/2024,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 2,U
+03/08/2024,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 3,U
+03/08/2024,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 3,U
+03/08/2024,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 4,U
+03/08/2024,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+03/08/2024,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+03/08/2024,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,M
+03/08/2024,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,M
+03/08/2024,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Preliminar,U
+03/08/2024,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Preliminar,U
+03/08/2024,Vôlei de Praia,06:00,Estádio Torre Eiffel,Jogo Preliminar,U
+03/08/2024,Vôlei de Praia,07:00,Estádio Torre Eiffel,Jogo Preliminar,U
+03/08/2024,Vôlei de Praia,11:00,Estádio Torre Eiffel,Jogo Preliminar,U
+03/08/2024,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Preliminar,U
+03/08/2024,Vôlei de Praia,13:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
+03/08/2024,Vôlei de Praia,15:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
+03/08/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
+03/08/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo da Rodada Lucky Loser,U
+04/08/2024,Atletismo,05:05,Stade de France,3000m Obstáculos - Primeira Rodada,F
+04/08/2024,Atletismo,05:20,Stade de France,Lançamento de Martelo - Classificação,F
+04/08/2024,Atletismo,05:55,Stade de France,200m- Primeira Rodada,F
+04/08/2024,Atletismo,06:00,Stade de France,Salto em Distância - Classificação,M
+04/08/2024,Atletismo,06:45,Stade de France,Lançamento de Martelo - Classificação,F
+04/08/2024,Atletismo,06:50,Stade de France,110m com barreiras - Primeira Rodada,M
+04/08/2024,Atletismo,07:35,Stade de France,400m com barreiras - Primeira Rodada,F
+04/08/2024,Atletismo,14:05,Stade de France,400m - Primeira Rodada,M
+04/08/2024,Atletismo,14:50,Stade de France,Salto em Altura - Final,F
+04/08/2024,Atletismo,15:00,Stade de France,100m - Semifinal,M
+04/08/2024,Atletismo,15:30,Stade de France,Lançamento de Martelo - Final,M
+04/08/2024,Atletismo,15:40,Stade de France,800m - Semifinal,F
+04/08/2024,Atletismo,16:15,Stade de France,1500m - Semifinal,M
+04/08/2024,Atletismo,16:55,Stade de France,100m - Final,M
+04/08/2024,Badminton,03:30,Arena La Chapelle,Simples Feminino - Semifinal,F
+04/08/2024,Badminton,04:40,Arena La Chapelle,Simples Feminino - Semifinal,F
+04/08/2024,Badminton,05:50,Arena La Chapelle,Simples Masculino - Semifinal,M
+04/08/2024,Badminton,07:00,Arena La Chapelle,Simples Masculino - Semifinal,M
+04/08/2024,Badminton,10:00,Arena La Chapelle,Duplas Masculinas - Disputa pelo Bronze,M
+04/08/2024,Badminton,11:10,Arena La Chapelle,Duplas Masculinas - Disputa pelo Ouro,M
+04/08/2024,Basquete,06:00,Estádio Pierre Mauroy,Japão - Bélgica,F
+04/08/2024,Basquete,08:30,Estádio Pierre Mauroy,Canadá - Nigéria,F
+04/08/2024,Basquete,12:15,Estádio Pierre Mauroy,Alemanha - EUA,F
+04/08/2024,Basquete,16:00,Estádio Pierre Mauroy,Austrália - França,F
+04/08/2024,Basquete 3x3,12:30,La Concorde 1,Fase de Grupos,M
+04/08/2024,Basquete 3x3,13:00,La Concorde 1,Fase de Grupos,M
+04/08/2024,Basquete 3x3,13:35,La Concorde 1,Fase de Grupos,M
+04/08/2024,Basquete 3x3,14:05,La Concorde 1,Fase de Grupos,M
+04/08/2024,Basquete 3x3,16:30,La Concorde 1,Play-In,M
+04/08/2024,Basquete 3x3,17:05,La Concorde 1,Play-In,M
+04/08/2024,Boxe,06:00,Arena Norte de Paris,57 kg - Quartas de Final,F
+04/08/2024,Boxe,06:32,Arena Norte de Paris,75 kg - Quartas de Final,F
+04/08/2024,Boxe,07:04,Arena Norte de Paris,54 kg - Semifinal,F
+04/08/2024,Boxe,07:20,Arena Norte de Paris,51 kg - Semifinal,M
+04/08/2024,Boxe,07:36,Arena Norte de Paris,63.5 kg - Semifinal,M
+04/08/2024,Boxe,07:52,Arena Norte de Paris,80 kg - Semifinal,M
+04/08/2024,Boxe,08:08,Arena Norte de Paris,92 kg - Semifinal,M
+04/08/2024,Boxe,10:30,Arena Norte de Paris,57 kg - Quartas de Final,F
+04/08/2024,Boxe,11:02,Arena Norte de Paris,75 kg - Quartas de Final,F
+04/08/2024,Boxe,11:34,Arena Norte de Paris,54 kg - Semifinal,F
+04/08/2024,Boxe,11:50,Arena Norte de Paris,51 kg - Semifinal,M
+04/08/2024,Boxe,12:06,Arena Norte de Paris,63.5 kg - Semifinal,M
+04/08/2024,Boxe,12:22,Arena Norte de Paris,80 kg - Semifinal,M
+04/08/2024,Boxe,12:38,Arena Norte de Paris,92 kg - Semifinal,M
+04/08/2024,Canoagem Slalom,10:30,Est. Náutico Água Branca,Caiaque Cross - Heats,F
+04/08/2024,Canoagem Slalom,11:45,Est. Náutico Água Branca,Caiaque Cross - Heats,F
+04/08/2024,Ciclismo de Estrada,09:00,Trocadéro,Prova de Estrada,F
+04/08/2024,Esgrima,06:50,Grand Palais,Florete por equipes - Quartas de Final,M
+04/08/2024,Esgrima,08:40,Grand Palais,Florete por equipes - Classificação 5-8 lugar,M
+04/08/2024,Esgrima,09:50,Grand Palais,Florete por equipes - Semifinal 1,M
+04/08/2024,Esgrima,09:50,Grand Palais,Florete por equipes - Semifinal 2,M
+04/08/2024,Esgrima,11:00,Grand Palais,Florete por equipes - 7-8 lugar,M
+04/08/2024,Esgrima,11:00,Grand Palais,Florete por equipes - 5-6 lugar,M
+04/08/2024,Esgrima,14:10,Grand Palais,Florete por equipes - Disputa por Bronze,M
+04/08/2024,Esgrima,15:30,Grand Palais,Florete por equipes - Disputa por Ouro,M
+04/08/2024,Ginástica Artística,10:00,Arena Bercy,Argolas - Final,M
+04/08/2024,Ginástica Artística,10:40,Arena Bercy,Barras assimétricas - Final,F
+04/08/2024,Ginástica Artística,11:25,Arena Bercy,Salto - Final,M
+04/08/2024,Golfe,04:00,Le Golf National,Rodada 4,M
+04/08/2024,Handebol,04:00,Arena 6 Paris Sul,Suécia - Japão,M
+04/08/2024,Handebol,06:00,Arena 6 Paris Sul,Egito- Argentinha,M
+04/08/2024,Handebol,09:00,Arena 6 Paris Sul,Alemanha - Eslovênia,M
+04/08/2024,Handebol,11:00,Arena 6 Paris Sul,Hungria - França,M
+04/08/2024,Handebol,14:00,Arena 6 Paris Sul,Dinamarca - Noruega,M
+04/08/2024,Handebol,16:00,Arena 6 Paris Sul,Espanha - Croácia,M
+04/08/2024,Hipismo,05:00,Palácio de Versalhes,Adestramento Individual - GP - Livre,U
+04/08/2024,Hóquei sobre Grama,05:00,Estádio Yves-du-Manoir,Quartas de Final,M
+04/08/2024,Hóquei sobre Grama,07:30,Estádio Yves-du-Manoir,Quartas de Final,M
+04/08/2024,Hóquei sobre Grama,12:30,Estádio Yves-du-Manoir,Quartas de Final,M
+04/08/2024,Hóquei sobre Grama,15:00,Estádio Yves-du-Manoir,Quartas de Final,M
+04/08/2024,Natação,13:30,Arena Paris La Défense,50m livre - Final,F
+04/08/2024,Natação,13:36,Arena Paris La Défense,1500m livre - Final,M
+04/08/2024,Natação,14:12,Arena Paris La Défense,Revesamento 4x100m Medley - Final,M
+04/08/2024,Natação,14:35,Arena Paris La Défense,Revesamento 4x100m Medley - Final,F
+04/08/2024,Polo Aquático,09:00,Centro Aquático,Hungria - Austrália,F
+04/08/2024,Polo Aquático,09:00,Centro Aquático,Itália - Espanha,F
+04/08/2024,Polo Aquático,09:00,Centro Aquático,Canadá - Países Baixos,F
+04/08/2024,Polo Aquático,09:00,Centro Aquático,França - Grécia,F
+04/08/2024,Surfe,14:00,Teahupo'o - Taiti,Dia de Reserva,U
+04/08/2024,Tênis,IDF,Stade Roland-Garros,Duplas - Disputa pelo Bronze,F
+04/08/2024,Tênis,IDF,Stade Roland-Garros,Simples - Disputa pelo Ouro,M
+04/08/2024,Tênis,IDF,Stade Roland-Garros,Duplas - Disputa pelo Ouro,F
+04/08/2024,Tênis de Mesa,08:30,Arena 4 Paris Sul,Individual - Disputa pelo Bronze,M
+04/08/2024,Tênis de Mesa,09:30,Arena 4 Paris Sul,Individual - Disputa pelo Ouro,M
+04/08/2024,Tiro com Arco,04:30,Invalides,Individual - Oitavas de Final,M
+04/08/2024,Tiro com Arco,08:00,Invalides,Individual - Quartas de Final,M
+04/08/2024,Tiro com Arco,08:52,Invalides,Individual - Semifinal,M
+04/08/2024,Tiro com Arco,09:33,Invalides,Individual - Disputa pelo Bronze,M
+04/08/2024,Tiro com Arco,09:46,Invalides,Individual - Disputa pelo Ouro,M
+04/08/2024,Tiro Esportivo,Pistola tiro rápido 25m - Classificação,M,,
+04/08/2024,Tiro Esportivo,Skeet - Classificação - Dia 2,F,,
+04/08/2024,Tiro Esportivo,Skeet - Final,F,,
+04/08/2024,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 4,U
+04/08/2024,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 5,U
+04/08/2024,Vela,IDF,Marina de Marselha,Misto Multihull - Prova 6,U
+04/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 7,M
+04/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 8,M
+04/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 7,F
+04/08/2024,Vela,IDF,Marina de Marselha,Dinghy - Prova 8,F
+04/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 1,M
+04/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 2,M
+04/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 3,M
+04/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 4,M
+04/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 1,F
+04/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 2,F
+04/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 3,F
+04/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 4,F
+04/08/2024,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 5,U
+04/08/2024,Vela,IDF,Marina de Marselha,Misto Dinghy - Prova 6,U
+04/08/2024,Vôlei,04:00,Arena 1 Paris Sul,Fase Preliminar,F
+04/08/2024,Vôlei,08:00,Arena 1 Paris Sul,Fase Preliminar,F
+04/08/2024,Vôlei,12:00,Arena 1 Paris Sul,Fase Preliminar,F
+04/08/2024,Vôlei,14:00,Arena 1 Paris Sul,Fase Preliminar,F
+04/08/2024,Vôlei de Praia,04:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/08/2024,Vôlei de Praia,05:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/08/2024,Vôlei de Praia,08:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/08/2024,Vôlei de Praia,09:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/08/2024,Vôlei de Praia,12:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/08/2024,Vôlei de Praia,13:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/08/2024,Vôlei de Praia,16:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
+04/08/2024,Vôlei de Praia,17:00,Estádio Torre Eiffel,Jogo Oitavas de Final,U
 11/08/2024,Atletismo,03:00,Invalides,Maratona,F
 11/08/2024,Basquete,06:30,Arena Bercy,Disputa pelo bronze,F
 11/08/2024,Basquete,10:30,Arena Bercy,Disputa pelo ouro,F
@@ -1526,5 +1516,3 @@ Dia,Modalidade,Horario,Local,Evento,Genero
 11/08/2024,Polo Aquático,05:35,Arena Paris La Défense,Disputa pela medalha bronze,M
 11/08/2024,Polo Aquático,09:00,Arena Paris La Défense,Disputa pela medalha de ouro,M
 11/08/2024,Vôlei,08:00,Arena 1 Paris Sul,Disputa pela medalha de ouro,F
-
-
