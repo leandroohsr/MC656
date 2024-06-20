@@ -27,13 +27,13 @@ export const TimerPage = () => {
         var [dias, horas, minutos, segundos] = calcTime(tempo_miliseg);
 
         console.log(`${dias}:${horas}:${minutos}:${segundos}`);
+        document.getElementById("timerPanel")!.textContent = `${dias}:${horas}:${minutos}:${segundos}`
     };
     setInterval(timer, 1000);
 
     return (
-        <div>
-            <h1>Título</h1>
-            {/* Outros elementos JSX aqui */}
+        <div className="w-full content-center">
+            <h1 id="timerPanel" className="font-bold text-8xl">00:00:00:00</h1>
         </div>
     );
 };
