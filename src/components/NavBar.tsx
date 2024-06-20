@@ -6,12 +6,12 @@ const Navbar = () => {
   const navigation = [
     "Home",
     "Calendário",
-    "Página 3",
+    "Timer",
     "Página 4",
     "Página 5",
   ];
   
-  const routes = ["/", "/Calendario", "/", "/", "/"];
+  const routes = ["/", "/Calendario", "/timer", "/", "/"];
   
   return (
     <div className="w-full bg-black">
