@@ -16,13 +16,8 @@ export const TimerPage = () => {
         //Devolve os valores temporais em string com 0s a mais se for necessário
         var diasFormat, horasFormat, minutosFormat, segundosFormat;
 
-        if (dias < 100) {
-            if (dias < 10) {
-                diasFormat = '00' + dias.toString();
-            }
-            else {
-                diasFormat = '0' + dias.toString();
-            }
+        if (dias < 10) {
+            diasFormat = '0' + dias.toString();
         }
         else {
             diasFormat = dias.toString();
@@ -77,11 +72,11 @@ export const TimerPage = () => {
             <a href="/" className='absolute border-8 rounded-lg border-black text-gray-400 bg-black top-[5px] left-[5px]'>Home Page</a>
             <span className="text-center block text-[28px]">Faltam somente...</span>
             <span id="timerPanel" className="font-bold text-8xl text-center z-1 block">00:00:00:00</span>
-            <span className='absolute left-[458px] font-bold'>Dias</span>
-            <div className="space-x-[78px] text-center absolute left-[610px]">
-                <span className='font-bold'>Horas</span>
-                <span className='font-bold'>Minutos</span>
-                <span className='font-bold'>Segundos</span>
+            <div className="text-center absolute left-[450px]">
+                <span className='font-bold pr-[105px]'>Dias</span>
+                <span className='font-bold pr-[78px]'>Horas</span>
+                <span className='font-bold pr-[68px]'>Minutos</span>
+                <span className='font-bold text-center'>Segundos</span>
             </div>
             <br />
             <span className="text-center block text-[28px]">Para as olimpíadas de Paris 2024!</span>
