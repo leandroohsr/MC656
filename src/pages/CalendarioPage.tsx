@@ -136,7 +136,7 @@ export const CalendarioPage = () => {
     }
   }
   function avancarDia() {
-    if (currentIndex < 17) {
+    if (currentIndex < 18) {
       setCurrentIndex(currentIndex + 1)
     }
   }
