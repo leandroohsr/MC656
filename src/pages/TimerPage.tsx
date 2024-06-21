@@ -1,3 +1,4 @@
+import { time } from "console";
 import { useState } from "react";
 import React from 'react';
 
@@ -96,6 +97,7 @@ export const TimerPage = () => {
 
         document.getElementById("timerPanel")!.textContent = diasFormat + ":" + horasFormat + ":" + minutosFormat + ":" + segundosFormat;
     };
+
     setInterval(timer, 1000);
 
     return (
@@ -117,3 +119,4 @@ export const TimerPage = () => {
         </div>
     );
 };
+
