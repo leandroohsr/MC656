@@ -186,6 +186,7 @@ export const RegisterPage = () => {
                                         !validMatch || !validPassword || !validEmail
                                         ? 'bg-gray-300 cursor-not-allowed'
                                         : 'bg-amber-500 hover:bg-amber-600 focus:ring-4 focus:outline-none focus:ring-amber-300'}`}
+                                    disabled={!validMatch || !validPassword || !validEmail}
                                     >
                                         Registrar
                                 </button>
