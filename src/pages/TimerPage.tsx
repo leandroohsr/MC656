@@ -3,8 +3,10 @@ export const TimerPage = () => {
         var segundos_total = Math.floor(tempo_miliseg / 1000);
         var minutos_total = Math.floor(segundos_total / 60);
         var horas_total = Math.floor(minutos_total / 60);
-
-        var dias = Math.floor(horas_total / 24) + 1;
+        var dias = 0;
+        if (tempo_miliseg > 0) {
+            dias = Math.floor(horas_total / 24) + 1;
+        }
         var horas = horas_total % 24;
         var minutos = minutos_total % 60;
         var segundos = segundos_total % 60;
@@ -57,6 +59,20 @@ export const TimerPage = () => {
 
         // Calcula diferença das datas
         var tempo_miliseg: number = dataAlvo.getTime() - dataAtual.getTime();
+
+        var dias_mili = -1642000000; // valor de 19 dias (duração das olimpiadas) em milisegundos
+        if (tempo_miliseg < 0) {
+            if (tempo_miliseg < dias_mili) {
+                dataAlvo = new Date('2028-07-14'); // data das olimpiadas de 2028
+                dataAlvo.setHours(14,30,0);
+                tempo_miliseg = dataAlvo.getTime() - dataAtual.getTime();
+            }
+            else {
+                tempo_miliseg = 0;
+            }
+        }
+
+
 
         // Calcula os dias/horas/minutos/segundos da diferença
         var [dias, horas, minutos, segundos] = calcTime(tempo_miliseg);
