@@ -304,7 +304,7 @@ export const CalendarioPage = () => {
                 <td onClick={() => handlePopUp(6)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg shadow-lg">
-                      <span className="text-sm font-bold text-gray-500">{dias[6]}</span>
+                      <span className="font-bold text-gray-500">{dias[6]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -366,7 +366,7 @@ export const CalendarioPage = () => {
                 <td onClick={() => handlePopUp(13)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg shadow-lg">
-                      <span className="text-sm font-bold text-gray-500">{dias[13]}</span>
+                      <span className="font-bold text-gray-500">{dias[13]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
