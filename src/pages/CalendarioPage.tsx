@@ -154,7 +154,7 @@ export const CalendarioPage = () => {
                 <h3 className="flex-grow text-lg font-semibold text-center text-gray-900 dark:text-white">
                   {dias[currentIndex]}
                 </h3>
-                <button onClick={avancarDia} title={currentIndex === 17 ? 'Este é o último dia' : 'Avançar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 17 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 17}>&gt;</button>
+                <button onClick={avancarDia} title={currentIndex === 18 ? 'Este é o último dia' : 'Avançar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 18 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 18}>&gt;</button>
                 <button onClick={() => setShowPopup(false)} type="button" className="inline-flex items-center justify-center w-8 h-8 text-sm text-gray-400 bg-transparent rounded-lg hover:bg-gray-200 hover:text-gray-900 ms-auto dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="default-modal">
                   <svg className="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6" />
