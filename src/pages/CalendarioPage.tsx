@@ -136,7 +136,7 @@ export const CalendarioPage = () => {
     }
   }
   function avancarDia() {
-    if (currentIndex < 17) {
+    if (currentIndex < 18) {
       setCurrentIndex(currentIndex + 1)
     }
   }
@@ -154,7 +154,7 @@ export const CalendarioPage = () => {
                 <h3 className="flex-grow text-lg font-semibold text-center text-gray-900 dark:text-white">
                   {dias[currentIndex]}
                 </h3>
-                <button onClick={avancarDia} title={currentIndex === 17 ? 'Este é o último dia' : 'Avançar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 17 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 17}>&gt;</button>
+                <button onClick={avancarDia} title={currentIndex === 18 ? 'Este é o último dia' : 'Avançar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 18 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 18}>&gt;</button>
                 <button onClick={() => setShowPopup(false)} type="button" className="inline-flex items-center justify-center w-8 h-8 text-sm text-gray-400 bg-transparent rounded-lg hover:bg-gray-200 hover:text-gray-900 ms-auto dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="default-modal">
                   <svg className="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6" />
@@ -304,7 +304,7 @@ export const CalendarioPage = () => {
                 <td onClick={() => handlePopUp(6)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg shadow-lg">
-                      <span className="text-sm font-bold text-gray-500">{dias[6]}</span>
+                      <span className="font-bold text-gray-500">{dias[6]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
@@ -366,7 +366,7 @@ export const CalendarioPage = () => {
                 <td onClick={() => handlePopUp(13)} className="w-10 h-40 p-1 overflow-auto transition duration-500 border border-white cursor-pointer xl:w-40 lg:w-30 md:w-30 sm:w-20 ease hover:bg-gray-300">
                   <div className="flex flex-col w-10 h-40 mx-auto overflow-hidden xl:w-40 lg:w-30 md:w-30 sm:w-full">
                     <div className="w-full h-full bg-gray-200 rounded-lg shadow-lg">
-                      <span className="text-sm font-bold text-gray-500">{dias[13]}</span>
+                      <span className="font-bold text-gray-500">{dias[13]}</span>
                     </div>
                     <div className="flex-grow w-full py-1 cursor-pointer bottom h-30"></div>
                   </div>
