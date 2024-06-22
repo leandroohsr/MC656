@@ -2,7 +2,7 @@ import { render, screen, act } from "@testing-library/react";
 import { TimerPage } from "../pages/TimerPage";
 
 describe("timer", () => {
-    jest.useFakeTimers().setSystemTime(new Date('2024-07-29'));;
+    jest.useFakeTimers().setSystemTime(new Date('2024-07-27'));;
     it("Tem que aparecer a frase correta ('Olimpiadas ja comecaram')", () => {
     
         render(<TimerPage/>);
