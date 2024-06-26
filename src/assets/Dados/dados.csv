@@ -1779,10 +1779,10 @@ Dia,Modalidade,Horario,Local,Evento,Genero
 06/08/2024,Atletismo,15:50,Stade de France,1500m - Final,M
 06/08/2024,Atletismo,16:10,Stade de France,3000m com Obstáculos - Final,F
 06/08/2024,Atletismo,16:40,Stade de France,200m - Final,F
-06/08/2024,Basquete,06:00,Arena Bercy,Quartas de Final.M
-06/08/2024,Basquete,09:30,Arena Bercy,Quartas de Final.M
-06/08/2024,Basquete,13:00,Arena Bercy,Quartas de Final.M
-06/08/2024,Basquete,16:30,Arena Bercy,Quartas de Final.M
+06/08/2024,Basquete,06:00,Arena Bercy,Quartas de Final,M
+06/08/2024,Basquete,09:30,Arena Bercy,Quartas de Final,M
+06/08/2024,Basquete,13:00,Arena Bercy,Quartas de Final,M
+06/08/2024,Basquete,16:30,Arena Bercy,Quartas de Final,M
 06/08/2024,Boxe,16:30,Stade Roland-Garros,71 kg - Semifinal,M
 06/08/2024,Boxe,16:46,Stade Roland-Garros,71 kg - Semifinal,M
 06/08/2024,Boxe,17:02,Stade Roland-Garros,50 kg - Semifinal,F
@@ -1915,8 +1915,8 @@ Dia,Modalidade,Horario,Local,Evento,Genero
 07/08/2024,Ciclismo de Pista,12:30,Velódromo Nacional,Velocidade - Segunda Fase,M
 07/08/2024,Ciclismo de Pista,13:04,Velódromo Nacional,Perseguição por equipe - 7-8 lugar,M
 07/08/2024,Ciclismo de Pista,13:10,Velódromo Nacional,Perseguição por equipe - 5-6 lugar,M
-07/08/2024,Ciclismo de Pista,13:25,Velódromo Nacional,,Perseguição por equipe - Disputa pelo Bronze,M
-07/08/2024,Ciclismo de Pista,13:33,Velódromo Nacional,,Perseguição por equipe - Disputa pelo Ouro,M
+07/08/2024,Ciclismo de Pista,13:25,Velódromo Nacional,Perseguição por equipe - Disputa pelo Bronze,M
+07/08/2024,Ciclismo de Pista,13:33,Velódromo Nacional,Perseguição por equipe - Disputa pelo Ouro,M
 07/08/2024,Ciclismo de Pista,13:42,Velódromo Nacional,Velocidade - Repescagem,M
 07/08/2024,Ciclismo de Pista,13:57,Velódromo Nacional,Perseguição por equipe - Disputa pelo Ouro,F
 07/08/2024,Ciclismo de Pista,14:38,Velódromo Nacional,Velocidade - Oitavas de Final,M
@@ -1975,9 +1975,9 @@ Dia,Modalidade,Horario,Local,Evento,Genero
 07/08/2024,Taekwondo,16:07,Grand Palais,58 kg - Disputa pelo Bronze,M
 07/08/2024,Taekwondo,16:23,Grand Palais,49 kg - Disputa pelo Ouro,F
 07/08/2024,Taekwondo,16:39,Grand Palais,58 kg - Disputa pelo Ouro,M
-07/08/2024,Tênis de Mesa,05:00,Equipe - Quartas de Final,U
-07/08/2024,Tênis de Mesa,10:00,Equipe - Quartas de Final,U
-07/08/2024,Tênis de Mesa,15:00,Equipe - Semifinal,M
+07/08/2024,Tênis de Mesa,05:00,Arena 4 Paris Sul,Equipe - Quartas de Final,U
+07/08/2024,Tênis de Mesa,10:00,Arena 4 Paris Sul,Equipe - Quartas de Final,U
+07/08/2024,Tênis de Mesa,15:00,Arena 4 Paris Sul,Equipe - Semifinal,M
 07/08/2024,Vela,IDF,Marina de Marselha,Misto Multihull - Disputa por medalha,U
 07/08/2024,Vela,IDF,Marina de Marselha,Misto Dinghy - Disputa por medalha,U
 07/08/2024,Vela,IDF,Marina de Marselha,Kite - Prova 13,F
@@ -2265,7 +2265,7 @@ Dia,Modalidade,Horario,Local,Evento,Genero
 09/08/2024,Vôlei,11:00,Arena 1 Paris Sul,Disputa pelo Bronze,M
 09/08/2024,Vôlei de Praia,16:00,Estádio Torre Eiffel,Disputa pelo Bronze,F
 09/08/2024,Vôlei de Praia,17:30,Estádio Torre Eiffel,Disputa pelo Ouro,F
-10/08/2024,Atletismo,03:00,Invalides,Maratona.M
+10/08/2024,Atletismo,03:00,Invalides,Maratona,M
 10/08/2024,Atletismo,14:10,Stade de France,Salto em Altura - Final,M
 10/08/2024,Atletismo,14:25,Stade de France,800m - Final,M
 10/08/2024,Atletismo,14:40,Stade de France,Lançamento de Dardo - Final,F    
