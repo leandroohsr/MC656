@@ -28,27 +28,61 @@ export const CalendarioPage = () => {
 
   const [data, setData] = useState<SportEvent[]>([]);
 
-  const Data = require('../assets/Dados/dados.csv');
 
+  // = require('../assets/Dados/dados.csv');
+
+  const dadoManual = () => {
+    const dadosManuais = [
+      {Dia: "1", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "2", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "3", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "4", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "5", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "6", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "7", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "8", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "9", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "10", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "11", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "12", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "13", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "14", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "15", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "16", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "17", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "18", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"},
+      {Dia: "19", Modalidade: "a", Horario: "a", Local: "a", Evento: "a", Genero: "a"}
+    ];
+
+    setData(dadosManuais);
+  };
+
+  
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch(Data)
-        const reader = response.body!.getReader();
-        const result = await reader.read();
-        const decoder = new TextDecoder("utf-8");
-        const csvData = decoder.decode(result.value);
-        const parsedData = Papa.parse(csvData, {
-          header: true,
-          skipEmptyLines: true
-        }).data as SportEvent[];
-        setData(parsedData);
-      } catch (error) {
-        console.error('Erro ao buscar dados:', error);
-      }
-    };
-    fetchData();
+    dadoManual();
   }, [])
+
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     try {
+  //       const response = await fetch(Data);
+  //       const reader = response.body!.getReader();
+  //       const result = await reader.read();
+  //       const decoder = new TextDecoder("utf-8");
+  //       const csvData = decoder.decode(result.value);
+  //       const parsedData = Papa.parse(csvData, {
+  //         header: true,
+  //         skipEmptyLines: true
+  //       }).data as SportEvent[];
+  //       setData(parsedData);
+  //     } catch (error) {
+  //       console.error('Erro ao buscar dados:', error);
+  //     }
+  //   };
+  //   fetchData();
+  // }, [])
+
+
 
   const arrays: SportEvent[][] = [];
   data.forEach((event) => {
@@ -60,7 +94,7 @@ export const CalendarioPage = () => {
       arrays.push([event])
     }
   });
-  console.log(arrays)
+  // console.log(arrays)
 
   const arrays_sports: string[][] = arrays.map((dayEvents) => {
     const sportsSet = new Set<string>();
@@ -106,7 +140,7 @@ export const CalendarioPage = () => {
     setEventos(vetor)
   }
 
-  console.log(arrays)
+  // console.log(arrays)
 
   function detalharEvento(esporte: string, index: number, showDetalhes: boolean) {
     setEsporte(esporte)
@@ -150,11 +184,11 @@ export const CalendarioPage = () => {
             <div className="relative bg-white rounded-lg shadow dark:bg-gray-700">
 
               <div className="flex items-center justify-between p-4 border-b rounded-t md:p-5 dark:border-gray-600">
-                <button onClick={voltarDia} title={currentIndex === 0 ? 'Este é o primeiro dia' : 'Voltar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 0 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 0}>&lt;</button>
+                <button data-testid="setaEsq" onClick={voltarDia} title={currentIndex === 0 ? 'Este é o primeiro dia' : 'Voltar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 0 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 0}>&lt;</button>
                 <h3 className="flex-grow text-lg font-semibold text-center text-gray-900 dark:text-white">
-                  {dias[currentIndex]}
+                  {dias[currentIndex]} Eventos:
                 </h3>
-                <button onClick={avancarDia} title={currentIndex === 18 ? 'Este é o último dia' : 'Avançar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 18 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 18}>&gt;</button>
+                <button data-testid="setaDir" onClick={avancarDia} title={currentIndex === 18 ? 'Este é o último dia' : 'Avançar um dia'} className={`flex-shrink-0 text-4xl ${currentIndex === 18 ? 'text-gray-300 opacity-50' : ''}`} disabled={currentIndex === 18}>&gt;</button>
                 <button onClick={() => setShowPopup(false)} type="button" className="inline-flex items-center justify-center w-8 h-8 text-sm text-gray-400 bg-transparent rounded-lg hover:bg-gray-200 hover:text-gray-900 ms-auto dark:hover:bg-gray-600 dark:hover:text-white" data-modal-hide="default-modal">
                   <svg className="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6" />

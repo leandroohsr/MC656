@@ -2,18 +2,18 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import imageRegister from '../assets/imgIA10.jpg';
 import imageLogo from '../assets/imgIA11.png'
-import { useCreateUserWithEmailAndPassword } from 'react-firebase-hooks/auth';
-import { auth } from '../services/firebaseConfig';
+// import { useCreateUserWithEmailAndPassword } from 'react-firebase-hooks/auth';
+// import { auth } from '../services/firebaseConfig';
 import { faCheck, faTimes, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { EmailAuthCredential } from 'firebase/auth';
+// import { EmailAuthCredential } from 'firebase/auth';
 import { match } from 'assert';
 
 
 
 export const RegisterPage = () => {
 
-    const [createUserWithEmailAndPassword, user, loading, error] = useCreateUserWithEmailAndPassword(auth);
+    // const [createUserWithEmailAndPassword, user, loading, error] = useCreateUserWithEmailAndPassword(auth);
 
     const [email, setEmail] = useState('');
     const [validEmail, setValidEmail] = useState(false);
@@ -66,7 +66,7 @@ export const RegisterPage = () => {
 
     function handleSignOut(e: any) {
         e.preventDefault();
-        createUserWithEmailAndPassword(email, password);
+        // createUserWithEmailAndPassword(email, password);
         setValidMatch(false);
         setMatchPassword('');
 
@@ -77,9 +77,9 @@ export const RegisterPage = () => {
         setEmail('');
     }
 
-    if (loading) {
-        return <p>Carregando...</p>
-    }
+    // if (loading) {
+    //     return <p>Carregando...</p>
+    // }
 
 
 
@@ -105,8 +105,11 @@ export const RegisterPage = () => {
                                 </label>
                                 <input 
                                     onChange={e => setEmail(e.target.value)} 
+                                    name='email'
+                                    role='textBox'
                                     type="text"
                                     id="email"
+                                    data-testid="inputEmail"
                                     ref={emailRef}
                                     autoComplete="off"
                                     required
@@ -117,8 +120,8 @@ export const RegisterPage = () => {
                                     className="shadow-sm bg-amber-100 border border-neutral-950 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
                                     placeholder="p=np@gmail.com"
                                 />
-                                {emailFocus && email && !validEmail && (
-                                    <p><FontAwesomeIcon icon={faInfoCircle}/>
+                                {email && !validEmail && (
+                                    <p id='aviso' data-testid="aviso"><FontAwesomeIcon icon={faInfoCircle}/>
                                         -Deve ter 9 ou mais caracteres.<br />
                                         -Deve começar com uma letra.<br />
                                         -Deve ter um @, com caracteres antes e depois do @.<br />
@@ -138,6 +141,8 @@ export const RegisterPage = () => {
                                     onChange={e => setPassword(e.target.value)} 
                                     type="password"
                                     id="password"
+                                    name='password'
+                                    data-testid="inputSenha"
                                     required
                                     aria-invalid={validPassword ? "false" : "true"}
                                     aria-describedby="passwordnote"
@@ -145,8 +150,8 @@ export const RegisterPage = () => {
                                     onBlur={() => setPasswordFocus(false)}
                                     className="shadow-sm bg-amber-100 border border-neutral-950 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
                                 />
-                                {passwordFocus && password && !validPassword && (
-                                    <p>
+                                {password && !validPassword && (
+                                    <p data-testid="avisoSenha">
                                         <FontAwesomeIcon icon={faInfoCircle}/>
                                         -De 8 a 20 caracteres<br />
                                         -Deve incluir ao menos uma letra maiúscula, uma minúscula, um número
@@ -166,13 +171,14 @@ export const RegisterPage = () => {
                                     onChange={e => setMatchPassword(e.target.value)} className="shadow-sm bg-amber-100 border border-neutral-950 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" 
                                     type="password"
                                     id="repita"
+                                    data-testid="inputSenha2"
                                     aria-invalid={validMatch ? "false" : "true"}
                                     aria-describedby="confirmnote"
                                     onFocus={() => setMatchFocus(true)}
                                     onBlur={() => setMatchFocus(false)}
                                 />
-                                {matchFocus && !validMatch && matchPassword && (
-                                    <p>
+                                {!validMatch && matchPassword && (
+                                    <p data-testid="avisoMatch">
                                         <FontAwesomeIcon icon={faInfoCircle} />
                                         -As senhas não são compatíveis
                                     </p>
